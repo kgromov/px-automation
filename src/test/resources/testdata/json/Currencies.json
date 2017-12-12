@@ -1,0 +1,1024 @@
+{
+  "currencies": [
+    {
+      "enumDescription": "AFN",
+      "enumSequenceNumber": "1",
+      "enumFullDescription": "Afghani",
+      "enumSequenceIndex": "0"
+    },
+    {
+      "enumDescription": "DZD",
+      "enumSequenceNumber": "2",
+      "enumFullDescription": "AlgerianDinar",
+      "enumSequenceIndex": "1"
+    },
+    {
+      "enumDescription": "ARS",
+      "enumSequenceNumber": "3",
+      "enumFullDescription": "ArgentinePeso",
+      "enumSequenceIndex": "2"
+    },
+    {
+      "enumDescription": "AMD",
+      "enumSequenceNumber": "4",
+      "enumFullDescription": "ArmenianDram",
+      "enumSequenceIndex": "3"
+    },
+    {
+      "enumDescription": "AWG",
+      "enumSequenceNumber": "5",
+      "enumFullDescription": "ArubanGuilder",
+      "enumSequenceIndex": "4"
+    },
+    {
+      "enumDescription": "AUD",
+      "enumSequenceNumber": "6",
+      "enumFullDescription": "AustralianDollar",
+      "enumSequenceIndex": "5"
+    },
+    {
+      "enumDescription": "AZN",
+      "enumSequenceNumber": "7",
+      "enumFullDescription": "AzerbaijanianManat",
+      "enumSequenceIndex": "6"
+    },
+    {
+      "enumDescription": "BSD",
+      "enumSequenceNumber": "8",
+      "enumFullDescription": "BahamianDollar",
+      "enumSequenceIndex": "7"
+    },
+    {
+      "enumDescription": "BHD",
+      "enumSequenceNumber": "9",
+      "enumFullDescription": "BahrainiDinar",
+      "enumSequenceIndex": "8"
+    },
+    {
+      "enumDescription": "THB",
+      "enumSequenceNumber": "10",
+      "enumFullDescription": "Baht",
+      "enumSequenceIndex": "9"
+    },
+    {
+      "enumDescription": "PAB",
+      "enumSequenceNumber": "11",
+      "enumFullDescription": "Balboa",
+      "enumSequenceIndex": "10"
+    },
+    {
+      "enumDescription": "BBD",
+      "enumSequenceNumber": "12",
+      "enumFullDescription": "BarbadosDollar",
+      "enumSequenceIndex": "11"
+    },
+    {
+      "enumDescription": "BYR",
+      "enumSequenceNumber": "13",
+      "enumFullDescription": "BelarusianRuble",
+      "enumSequenceIndex": "12"
+    },
+    {
+      "enumDescription": "BZD",
+      "enumSequenceNumber": "14",
+      "enumFullDescription": "BelizeDollar",
+      "enumSequenceIndex": "13"
+    },
+    {
+      "enumDescription": "BMD",
+      "enumSequenceNumber": "15",
+      "enumFullDescription": "BermudianDollar",
+      "enumSequenceIndex": "14"
+    },
+    {
+      "enumDescription": "VEF",
+      "enumSequenceNumber": "16",
+      "enumFullDescription": "Bolivar",
+      "enumSequenceIndex": "15"
+    },
+    {
+      "enumDescription": "BOB",
+      "enumSequenceNumber": "17",
+      "enumFullDescription": "Boliviano",
+      "enumSequenceIndex": "16"
+    },
+    {
+      "enumDescription": "BRL",
+      "enumSequenceNumber": "18",
+      "enumFullDescription": "BrazilianReal",
+      "enumSequenceIndex": "17"
+    },
+    {
+      "enumDescription": "BND",
+      "enumSequenceNumber": "19",
+      "enumFullDescription": "BruneiDollar",
+      "enumSequenceIndex": "18"
+    },
+    {
+      "enumDescription": "BGN",
+      "enumSequenceNumber": "20",
+      "enumFullDescription": "BulgarianLev",
+      "enumSequenceIndex": "19"
+    },
+    {
+      "enumDescription": "BIF",
+      "enumSequenceNumber": "21",
+      "enumFullDescription": "BurundiFranc",
+      "enumSequenceIndex": "20"
+    },
+    {
+      "enumDescription": "CAD",
+      "enumSequenceNumber": "22",
+      "enumFullDescription": "CanadianDollar",
+      "enumSequenceIndex": "21"
+    },
+    {
+      "enumDescription": "CVE",
+      "enumSequenceNumber": "23",
+      "enumFullDescription": "CapeVerdeEscudo",
+      "enumSequenceIndex": "22"
+    },
+    {
+      "enumDescription": "KYD",
+      "enumSequenceNumber": "24",
+      "enumFullDescription": "CaymanIslandsDollar",
+      "enumSequenceIndex": "23"
+    },
+    {
+      "enumDescription": "GHS",
+      "enumSequenceNumber": "25",
+      "enumFullDescription": "Cedi",
+      "enumSequenceIndex": "24"
+    },
+    {
+      "enumDescription": "XOF",
+      "enumSequenceNumber": "26",
+      "enumFullDescription": "CFAFrancBCEAO",
+      "enumSequenceIndex": "25"
+    },
+    {
+      "enumDescription": "XAF",
+      "enumSequenceNumber": "27",
+      "enumFullDescription": "CFAFrancBEAC",
+      "enumSequenceIndex": "26"
+    },
+    {
+      "enumDescription": "XPF",
+      "enumSequenceNumber": "28",
+      "enumFullDescription": "CFPFranc",
+      "enumSequenceIndex": "27"
+    },
+    {
+      "enumDescription": "CLP",
+      "enumSequenceNumber": "29",
+      "enumFullDescription": "ChileanPeso",
+      "enumSequenceIndex": "28"
+    },
+    {
+      "enumDescription": "COP",
+      "enumSequenceNumber": "30",
+      "enumFullDescription": "ColombianPeso",
+      "enumSequenceIndex": "29"
+    },
+    {
+      "enumDescription": "KMF",
+      "enumSequenceNumber": "31",
+      "enumFullDescription": "ComoroFranc",
+      "enumSequenceIndex": "30"
+    },
+    {
+      "enumDescription": "BAM",
+      "enumSequenceNumber": "32",
+      "enumFullDescription": "ConvertibleMarks",
+      "enumSequenceIndex": "31"
+    },
+    {
+      "enumDescription": "NIO",
+      "enumSequenceNumber": "33",
+      "enumFullDescription": "CordobaOro",
+      "enumSequenceIndex": "32"
+    },
+    {
+      "enumDescription": "CRC",
+      "enumSequenceNumber": "34",
+      "enumFullDescription": "CostaRicanColon",
+      "enumSequenceIndex": "33"
+    },
+    {
+      "enumDescription": "HRK",
+      "enumSequenceNumber": "35",
+      "enumFullDescription": "CroatianKuna",
+      "enumSequenceIndex": "34"
+    },
+    {
+      "enumDescription": "CUP",
+      "enumSequenceNumber": "36",
+      "enumFullDescription": "CubanPeso",
+      "enumSequenceIndex": "35"
+    },
+    {
+      "enumDescription": "CYP",
+      "enumSequenceNumber": "37",
+      "enumFullDescription": "CyprusPound",
+      "enumSequenceIndex": "36"
+    },
+    {
+      "enumDescription": "CZK",
+      "enumSequenceNumber": "38",
+      "enumFullDescription": "CzechKoruna",
+      "enumSequenceIndex": "37"
+    },
+    {
+      "enumDescription": "GMD",
+      "enumSequenceNumber": "39",
+      "enumFullDescription": "Dalasi",
+      "enumSequenceIndex": "38"
+    },
+    {
+      "enumDescription": "DKK",
+      "enumSequenceNumber": "40",
+      "enumFullDescription": "DanishKrone",
+      "enumSequenceIndex": "39"
+    },
+    {
+      "enumDescription": "MKD",
+      "enumSequenceNumber": "41",
+      "enumFullDescription": "Denar",
+      "enumSequenceIndex": "40"
+    },
+    {
+      "enumDescription": "DJF",
+      "enumSequenceNumber": "42",
+      "enumFullDescription": "DjiboutiFranc",
+      "enumSequenceIndex": "41"
+    },
+    {
+      "enumDescription": "STD",
+      "enumSequenceNumber": "43",
+      "enumFullDescription": "Dobra",
+      "enumSequenceIndex": "42"
+    },
+    {
+      "enumDescription": "DOP",
+      "enumSequenceNumber": "44",
+      "enumFullDescription": "DominicanPeso",
+      "enumSequenceIndex": "43"
+    },
+    {
+      "enumDescription": "VND",
+      "enumSequenceNumber": "45",
+      "enumFullDescription": "Dong",
+      "enumSequenceIndex": "44"
+    },
+    {
+      "enumDescription": "XCD",
+      "enumSequenceNumber": "46",
+      "enumFullDescription": "EastCaribbeanDollar",
+      "enumSequenceIndex": "45"
+    },
+    {
+      "enumDescription": "EGP",
+      "enumSequenceNumber": "47",
+      "enumFullDescription": "EgyptianPound",
+      "enumSequenceIndex": "46"
+    },
+    {
+      "enumDescription": "SVC",
+      "enumSequenceNumber": "48",
+      "enumFullDescription": "ElSalvadorColon",
+      "enumSequenceIndex": "47"
+    },
+    {
+      "enumDescription": "ETB",
+      "enumSequenceNumber": "49",
+      "enumFullDescription": "EthiopianBirr",
+      "enumSequenceIndex": "48"
+    },
+    {
+      "enumDescription": "EUR",
+      "enumSequenceNumber": "50",
+      "enumFullDescription": "Euro",
+      "enumSequenceIndex": "49"
+    },
+    {
+      "enumDescription": "FKP",
+      "enumSequenceNumber": "51",
+      "enumFullDescription": "FalklandIslandsPound",
+      "enumSequenceIndex": "50"
+    },
+    {
+      "enumDescription": "FJD",
+      "enumSequenceNumber": "52",
+      "enumFullDescription": "FijiDollar",
+      "enumSequenceIndex": "51"
+    },
+    {
+      "enumDescription": "HUF",
+      "enumSequenceNumber": "53",
+      "enumFullDescription": "Forint",
+      "enumSequenceIndex": "52"
+    },
+    {
+      "enumDescription": "CDF",
+      "enumSequenceNumber": "54",
+      "enumFullDescription": "FrancCongolais",
+      "enumSequenceIndex": "53"
+    },
+    {
+      "enumDescription": "GIP",
+      "enumSequenceNumber": "55",
+      "enumFullDescription": "GibraltarPound",
+      "enumSequenceIndex": "54"
+    },
+    {
+      "enumDescription": "HTG",
+      "enumSequenceNumber": "56",
+      "enumFullDescription": "Gourde",
+      "enumSequenceIndex": "55"
+    },
+    {
+      "enumDescription": "PYG",
+      "enumSequenceNumber": "57",
+      "enumFullDescription": "Guarani",
+      "enumSequenceIndex": "56"
+    },
+    {
+      "enumDescription": "GNF",
+      "enumSequenceNumber": "58",
+      "enumFullDescription": "GuineaFranc",
+      "enumSequenceIndex": "57"
+    },
+    {
+      "enumDescription": "GWP",
+      "enumSequenceNumber": "59",
+      "enumFullDescription": "Guinea-BissauPeso",
+      "enumSequenceIndex": "58"
+    },
+    {
+      "enumDescription": "GYD",
+      "enumSequenceNumber": "60",
+      "enumFullDescription": "GuyanaDollar",
+      "enumSequenceIndex": "59"
+    },
+    {
+      "enumDescription": "HKD",
+      "enumSequenceNumber": "61",
+      "enumFullDescription": "HongKongDollar",
+      "enumSequenceIndex": "60"
+    },
+    {
+      "enumDescription": "UAH",
+      "enumSequenceNumber": "62",
+      "enumFullDescription": "Hryvnia",
+      "enumSequenceIndex": "61"
+    },
+    {
+      "enumDescription": "ISK",
+      "enumSequenceNumber": "63",
+      "enumFullDescription": "IcelandKrona",
+      "enumSequenceIndex": "62"
+    },
+    {
+      "enumDescription": "INR",
+      "enumSequenceNumber": "64",
+      "enumFullDescription": "IndianRupee",
+      "enumSequenceIndex": "63"
+    },
+    {
+      "enumDescription": "IRR",
+      "enumSequenceNumber": "65",
+      "enumFullDescription": "IranianRial",
+      "enumSequenceIndex": "64"
+    },
+    {
+      "enumDescription": "IQD",
+      "enumSequenceNumber": "66",
+      "enumFullDescription": "IraqiDinar",
+      "enumSequenceIndex": "65"
+    },
+    {
+      "enumDescription": "JMD",
+      "enumSequenceNumber": "67",
+      "enumFullDescription": "JamaicanDollar",
+      "enumSequenceIndex": "66"
+    },
+    {
+      "enumDescription": "JOD",
+      "enumSequenceNumber": "68",
+      "enumFullDescription": "JordanianDinar",
+      "enumSequenceIndex": "67"
+    },
+    {
+      "enumDescription": "KES",
+      "enumSequenceNumber": "69",
+      "enumFullDescription": "KenyanShilling",
+      "enumSequenceIndex": "68"
+    },
+    {
+      "enumDescription": "PGK",
+      "enumSequenceNumber": "70",
+      "enumFullDescription": "Kina",
+      "enumSequenceIndex": "69"
+    },
+    {
+      "enumDescription": "LAK",
+      "enumSequenceNumber": "71",
+      "enumFullDescription": "Kip",
+      "enumSequenceIndex": "70"
+    },
+    {
+      "enumDescription": "EEK",
+      "enumSequenceNumber": "72",
+      "enumFullDescription": "Kroon",
+      "enumSequenceIndex": "71"
+    },
+    {
+      "enumDescription": "KWD",
+      "enumSequenceNumber": "73",
+      "enumFullDescription": "KuwaitiDinar",
+      "enumSequenceIndex": "72"
+    },
+    {
+      "enumDescription": "MWK",
+      "enumSequenceNumber": "74",
+      "enumFullDescription": "Kwacha",
+      "enumSequenceIndex": "73"
+    },
+    {
+      "enumDescription": "ZMW",
+      "enumSequenceNumber": "75",
+      "enumFullDescription": "Kwacha",
+      "enumSequenceIndex": "74"
+    },
+    {
+      "enumDescription": "AOA",
+      "enumSequenceNumber": "76",
+      "enumFullDescription": "Kwanza",
+      "enumSequenceIndex": "75"
+    },
+    {
+      "enumDescription": "MMK",
+      "enumSequenceNumber": "77",
+      "enumFullDescription": "Kyat",
+      "enumSequenceIndex": "76"
+    },
+    {
+      "enumDescription": "GEL",
+      "enumSequenceNumber": "78",
+      "enumFullDescription": "Lari",
+      "enumSequenceIndex": "77"
+    },
+    {
+      "enumDescription": "LVL",
+      "enumSequenceNumber": "79",
+      "enumFullDescription": "LatvianLats",
+      "enumSequenceIndex": "78"
+    },
+    {
+      "enumDescription": "LBP",
+      "enumSequenceNumber": "80",
+      "enumFullDescription": "LebanesePound",
+      "enumSequenceIndex": "79"
+    },
+    {
+      "enumDescription": "HNL",
+      "enumSequenceNumber": "82",
+      "enumFullDescription": "Lempira",
+      "enumSequenceIndex": "81"
+    },
+    {
+      "enumDescription": "SLL",
+      "enumSequenceNumber": "83",
+      "enumFullDescription": "Leone",
+      "enumSequenceIndex": "82"
+    },
+    {
+      "enumDescription": "LRD",
+      "enumSequenceNumber": "84",
+      "enumFullDescription": "LiberianDollar",
+      "enumSequenceIndex": "83"
+    },
+    {
+      "enumDescription": "LYD",
+      "enumSequenceNumber": "85",
+      "enumFullDescription": "LibyanDinar",
+      "enumSequenceIndex": "84"
+    },
+    {
+      "enumDescription": "SZL",
+      "enumSequenceNumber": "86",
+      "enumFullDescription": "Lilangeni",
+      "enumSequenceIndex": "85"
+    },
+    {
+      "enumDescription": "LTL",
+      "enumSequenceNumber": "87",
+      "enumFullDescription": "LithuanianLitas",
+      "enumSequenceIndex": "86"
+    },
+    {
+      "enumDescription": "LSL",
+      "enumSequenceNumber": "88",
+      "enumFullDescription": "Loti",
+      "enumSequenceIndex": "87"
+    },
+    {
+      "enumDescription": "MGA",
+      "enumSequenceNumber": "89",
+      "enumFullDescription": "MalagascyAriary",
+      "enumSequenceIndex": "88"
+    },
+    {
+      "enumDescription": "MYR",
+      "enumSequenceNumber": "90",
+      "enumFullDescription": "MalaysianRinggit",
+      "enumSequenceIndex": "89"
+    },
+    {
+      "enumDescription": "MTL",
+      "enumSequenceNumber": "91",
+      "enumFullDescription": "MalteseLira",
+      "enumSequenceIndex": "90"
+    },
+    {
+      "enumDescription": "TMT",
+      "enumSequenceNumber": "92",
+      "enumFullDescription": "Manat",
+      "enumSequenceIndex": "91"
+    },
+    {
+      "enumDescription": "MUR",
+      "enumSequenceNumber": "93",
+      "enumFullDescription": "MauritiusRupee",
+      "enumSequenceIndex": "92"
+    },
+    {
+      "enumDescription": "MZN",
+      "enumSequenceNumber": "94",
+      "enumFullDescription": "Metical",
+      "enumSequenceIndex": "93"
+    },
+    {
+      "enumDescription": "MXN",
+      "enumSequenceNumber": "95",
+      "enumFullDescription": "MexicanPeso",
+      "enumSequenceIndex": "94"
+    },
+    {
+      "enumDescription": "MXV",
+      "enumSequenceNumber": "96",
+      "enumFullDescription": "MexicanUnidaddeInversion(UDI)",
+      "enumSequenceIndex": "95"
+    },
+    {
+      "enumDescription": "MDL",
+      "enumSequenceNumber": "97",
+      "enumFullDescription": "MoldovanLeu",
+      "enumSequenceIndex": "96"
+    },
+    {
+      "enumDescription": "MAD",
+      "enumSequenceNumber": "98",
+      "enumFullDescription": "MoroccanDirham",
+      "enumSequenceIndex": "97"
+    },
+    {
+      "enumDescription": "BOV",
+      "enumSequenceNumber": "99",
+      "enumFullDescription": "Mvdol",
+      "enumSequenceIndex": "98"
+    },
+    {
+      "enumDescription": "NGN",
+      "enumSequenceNumber": "100",
+      "enumFullDescription": "Naira",
+      "enumSequenceIndex": "99"
+    },
+    {
+      "enumDescription": "ERN",
+      "enumSequenceNumber": "101",
+      "enumFullDescription": "Nakfa",
+      "enumSequenceIndex": "100"
+    },
+    {
+      "enumDescription": "NAD",
+      "enumSequenceNumber": "102",
+      "enumFullDescription": "NamibianDollar",
+      "enumSequenceIndex": "101"
+    },
+    {
+      "enumDescription": "NPR",
+      "enumSequenceNumber": "103",
+      "enumFullDescription": "NepaleseRupee",
+      "enumSequenceIndex": "102"
+    },
+    {
+      "enumDescription": "ANG",
+      "enumSequenceNumber": "104",
+      "enumFullDescription": "NetherlandsAntillianGuilder",
+      "enumSequenceIndex": "103"
+    },
+    {
+      "enumDescription": "ILS",
+      "enumSequenceNumber": "105",
+      "enumFullDescription": "NewIsraeliSheqel",
+      "enumSequenceIndex": "104"
+    },
+    {
+      "enumDescription": "RON",
+      "enumSequenceNumber": "106",
+      "enumFullDescription": "NewLeu",
+      "enumSequenceIndex": "105"
+    },
+    {
+      "enumDescription": "TWD",
+      "enumSequenceNumber": "107",
+      "enumFullDescription": "NewTaiwanDollar",
+      "enumSequenceIndex": "106"
+    },
+    {
+      "enumDescription": "TRY",
+      "enumSequenceNumber": "108",
+      "enumFullDescription": "NewTurkishLira",
+      "enumSequenceIndex": "107"
+    },
+    {
+      "enumDescription": "NZD",
+      "enumSequenceNumber": "109",
+      "enumFullDescription": "NewZealandDollar",
+      "enumSequenceIndex": "108"
+    },
+    {
+      "enumDescription": "BTN",
+      "enumSequenceNumber": "110",
+      "enumFullDescription": "Ngultrum",
+      "enumSequenceIndex": "109"
+    },
+    {
+      "enumDescription": "KPW",
+      "enumSequenceNumber": "111",
+      "enumFullDescription": "NorthKoreanWon",
+      "enumSequenceIndex": "110"
+    },
+    {
+      "enumDescription": "NOK",
+      "enumSequenceNumber": "112",
+      "enumFullDescription": "NorwegianKrone",
+      "enumSequenceIndex": "111"
+    },
+    {
+      "enumDescription": "PEN",
+      "enumSequenceNumber": "113",
+      "enumFullDescription": "NuevoSol",
+      "enumSequenceIndex": "112"
+    },
+    {
+      "enumDescription": "ROL",
+      "enumSequenceNumber": "114",
+      "enumFullDescription": "OldLeu",
+      "enumSequenceIndex": "113"
+    },
+    {
+      "enumDescription": "MRO",
+      "enumSequenceNumber": "115",
+      "enumFullDescription": "Ouguiya",
+      "enumSequenceIndex": "114"
+    },
+    {
+      "enumDescription": "TOP",
+      "enumSequenceNumber": "116",
+      "enumFullDescription": "Pa\u0027anga",
+      "enumSequenceIndex": "115"
+    },
+    {
+      "enumDescription": "PKR",
+      "enumSequenceNumber": "117",
+      "enumFullDescription": "PakistanRupee",
+      "enumSequenceIndex": "116"
+    },
+    {
+      "enumDescription": "MOP",
+      "enumSequenceNumber": "118",
+      "enumFullDescription": "Pataca",
+      "enumSequenceIndex": "117"
+    },
+    {
+      "enumDescription": "UYU",
+      "enumSequenceNumber": "119",
+      "enumFullDescription": "PesoUruguayo",
+      "enumSequenceIndex": "118"
+    },
+    {
+      "enumDescription": "PHP",
+      "enumSequenceNumber": "120",
+      "enumFullDescription": "PhilippinePeso",
+      "enumSequenceIndex": "119"
+    },
+    {
+      "enumDescription": "GBP",
+      "enumSequenceNumber": "121",
+      "enumFullDescription": "PoundSterling",
+      "enumSequenceIndex": "120"
+    },
+    {
+      "enumDescription": "BWP",
+      "enumSequenceNumber": "122",
+      "enumFullDescription": "Pula",
+      "enumSequenceIndex": "121"
+    },
+    {
+      "enumDescription": "QAR",
+      "enumSequenceNumber": "123",
+      "enumFullDescription": "QatariRial",
+      "enumSequenceIndex": "122"
+    },
+    {
+      "enumDescription": "GTQ",
+      "enumSequenceNumber": "124",
+      "enumFullDescription": "Quetzal",
+      "enumSequenceIndex": "123"
+    },
+    {
+      "enumDescription": "ZAR",
+      "enumSequenceNumber": "125",
+      "enumFullDescription": "Rand",
+      "enumSequenceIndex": "124"
+    },
+    {
+      "enumDescription": "OMR",
+      "enumSequenceNumber": "126",
+      "enumFullDescription": "RialOmani",
+      "enumSequenceIndex": "125"
+    },
+    {
+      "enumDescription": "KHR",
+      "enumSequenceNumber": "127",
+      "enumFullDescription": "Riel",
+      "enumSequenceIndex": "126"
+    },
+    {
+      "enumDescription": "MVR",
+      "enumSequenceNumber": "128",
+      "enumFullDescription": "Rufiyaa",
+      "enumSequenceIndex": "127"
+    },
+    {
+      "enumDescription": "IDR",
+      "enumSequenceNumber": "129",
+      "enumFullDescription": "Rupiah",
+      "enumSequenceIndex": "128"
+    },
+    {
+      "enumDescription": "RUB",
+      "enumSequenceNumber": "130",
+      "enumFullDescription": "RussianRuble",
+      "enumSequenceIndex": "129"
+    },
+    {
+      "enumDescription": "RWF",
+      "enumSequenceNumber": "131",
+      "enumFullDescription": "RwandaFranc",
+      "enumSequenceIndex": "130"
+    },
+    {
+      "enumDescription": "SHP",
+      "enumSequenceNumber": "132",
+      "enumFullDescription": "SaintHelenaPound",
+      "enumSequenceIndex": "131"
+    },
+    {
+      "enumDescription": "SAR",
+      "enumSequenceNumber": "133",
+      "enumFullDescription": "SaudiRiyal",
+      "enumSequenceIndex": "132"
+    },
+    {
+      "enumDescription": "XDR",
+      "enumSequenceNumber": "134",
+      "enumFullDescription": "SDR",
+      "enumSequenceIndex": "133"
+    },
+    {
+      "enumDescription": "RSD",
+      "enumSequenceNumber": "135",
+      "enumFullDescription": "SerbianDinar",
+      "enumSequenceIndex": "134"
+    },
+    {
+      "enumDescription": "SCR",
+      "enumSequenceNumber": "136",
+      "enumFullDescription": "SeychellesRupee",
+      "enumSequenceIndex": "135"
+    },
+    {
+      "enumDescription": "SGD",
+      "enumSequenceNumber": "137",
+      "enumFullDescription": "SingaporeDollar",
+      "enumSequenceIndex": "136"
+    },
+    {
+      "enumDescription": "SKK",
+      "enumSequenceNumber": "138",
+      "enumFullDescription": "SlovakKoruna",
+      "enumSequenceIndex": "137"
+    },
+    {
+      "enumDescription": "SBD",
+      "enumSequenceNumber": "139",
+      "enumFullDescription": "SolomonIslandsDollar",
+      "enumSequenceIndex": "138"
+    },
+    {
+      "enumDescription": "KGS",
+      "enumSequenceNumber": "140",
+      "enumFullDescription": "Som",
+      "enumSequenceIndex": "139"
+    },
+    {
+      "enumDescription": "SOS",
+      "enumSequenceNumber": "141",
+      "enumFullDescription": "SomaliShilling",
+      "enumSequenceIndex": "140"
+    },
+    {
+      "enumDescription": "TJS",
+      "enumSequenceNumber": "142",
+      "enumFullDescription": "Somoni",
+      "enumSequenceIndex": "141"
+    },
+    {
+      "enumDescription": "LKR",
+      "enumSequenceNumber": "143",
+      "enumFullDescription": "SriLankaRupee",
+      "enumSequenceIndex": "142"
+    },
+    {
+      "enumDescription": "SDG",
+      "enumSequenceNumber": "144",
+      "enumFullDescription": "SudaneseDinar",
+      "enumSequenceIndex": "143"
+    },
+    {
+      "enumDescription": "SRD",
+      "enumSequenceNumber": "145",
+      "enumFullDescription": "SurinamDollar",
+      "enumSequenceIndex": "144"
+    },
+    {
+      "enumDescription": "SEK",
+      "enumSequenceNumber": "146",
+      "enumFullDescription": "SwedishKrona",
+      "enumSequenceIndex": "145"
+    },
+    {
+      "enumDescription": "CHF",
+      "enumSequenceNumber": "147",
+      "enumFullDescription": "SwissFranc",
+      "enumSequenceIndex": "146"
+    },
+    {
+      "enumDescription": "SYP",
+      "enumSequenceNumber": "148",
+      "enumFullDescription": "SyrianPound",
+      "enumSequenceIndex": "147"
+    },
+    {
+      "enumDescription": "BDT",
+      "enumSequenceNumber": "149",
+      "enumFullDescription": "Taka",
+      "enumSequenceIndex": "148"
+    },
+    {
+      "enumDescription": "WST",
+      "enumSequenceNumber": "150",
+      "enumFullDescription": "Tala",
+      "enumSequenceIndex": "149"
+    },
+    {
+      "enumDescription": "TZS",
+      "enumSequenceNumber": "151",
+      "enumFullDescription": "TanzanianShilling",
+      "enumSequenceIndex": "150"
+    },
+    {
+      "enumDescription": "KZT",
+      "enumSequenceNumber": "152",
+      "enumFullDescription": "Tenge",
+      "enumSequenceIndex": "151"
+    },
+    {
+      "enumDescription": "SIT",
+      "enumSequenceNumber": "153",
+      "enumFullDescription": "Tolar",
+      "enumSequenceIndex": "152"
+    },
+    {
+      "enumDescription": "TTD",
+      "enumSequenceNumber": "154",
+      "enumFullDescription": "TrinidadandTobagoDollar",
+      "enumSequenceIndex": "153"
+    },
+    {
+      "enumDescription": "MNT",
+      "enumSequenceNumber": "155",
+      "enumFullDescription": "Tugrik",
+      "enumSequenceIndex": "154"
+    },
+    {
+      "enumDescription": "TND",
+      "enumSequenceNumber": "156",
+      "enumFullDescription": "TunisianDinar",
+      "enumSequenceIndex": "155"
+    },
+    {
+      "enumDescription": "AED",
+      "enumSequenceNumber": "157",
+      "enumFullDescription": "UAEDirham",
+      "enumSequenceIndex": "156"
+    },
+    {
+      "enumDescription": "UGX",
+      "enumSequenceNumber": "158",
+      "enumFullDescription": "UgandaShilling",
+      "enumSequenceIndex": "157"
+    },
+    {
+      "enumDescription": "COU",
+      "enumSequenceNumber": "159",
+      "enumFullDescription": "UnidaddeValorReal",
+      "enumSequenceIndex": "158"
+    },
+    {
+      "enumDescription": "CLF",
+      "enumSequenceNumber": "160",
+      "enumFullDescription": "Unidadesdeformento",
+      "enumSequenceIndex": "159"
+    },
+    {
+      "enumDescription": "USD",
+      "enumSequenceNumber": "161",
+      "enumFullDescription": "USDollar",
+      "enumSequenceIndex": "160"
+    },
+    {
+      "enumDescription": "UZS",
+      "enumSequenceNumber": "162",
+      "enumFullDescription": "UzbekistanSum",
+      "enumSequenceIndex": "161"
+    },
+    {
+      "enumDescription": "VUV",
+      "enumSequenceNumber": "163",
+      "enumFullDescription": "Vatu",
+      "enumSequenceIndex": "162"
+    },
+    {
+      "enumDescription": "CHE",
+      "enumSequenceNumber": "164",
+      "enumFullDescription": "WIREuro",
+      "enumSequenceIndex": "163"
+    },
+    {
+      "enumDescription": "CHW",
+      "enumSequenceNumber": "165",
+      "enumFullDescription": "WIRFranc",
+      "enumSequenceIndex": "164"
+    },
+    {
+      "enumDescription": "KRW",
+      "enumSequenceNumber": "166",
+      "enumFullDescription": "Won",
+      "enumSequenceIndex": "165"
+    },
+    {
+      "enumDescription": "YER",
+      "enumSequenceNumber": "167",
+      "enumFullDescription": "YemeniRial",
+      "enumSequenceIndex": "166"
+    },
+    {
+      "enumDescription": "JPY",
+      "enumSequenceNumber": "168",
+      "enumFullDescription": "Yen",
+      "enumSequenceIndex": "167"
+    },
+    {
+      "enumDescription": "CNY",
+      "enumSequenceNumber": "169",
+      "enumFullDescription": "YuanRenminbi",
+      "enumSequenceIndex": "168"
+    },
+    {
+      "enumDescription": "ZWL",
+      "enumSequenceNumber": "170",
+      "enumFullDescription": "ZimbabweDollar",
+      "enumSequenceIndex": "169"
+    },
+    {
+      "enumDescription": "PLN",
+      "enumSequenceNumber": "171",
+      "enumFullDescription": "Zloty",
+      "enumSequenceIndex": "170"
+    }
+  ]
+}

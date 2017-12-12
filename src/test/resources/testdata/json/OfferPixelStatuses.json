@@ -1,0 +1,20 @@
+{
+  "offerPixelStatuses": [
+    {
+      "enumDescription": "active",
+      "enumSequenceNumber": "Active"
+    },
+    {
+      "enumDescription": "pending",
+      "enumSequenceNumber": "Pending"
+    },
+    {
+      "enumDescription": "rejected",
+      "enumSequenceNumber": "Rejected"
+    },
+    {
+      "enumDescription": "deleted",
+      "enumSequenceNumber": "Deleted"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "buyerCategories": [
+    {
+      "enumDescription": "Lead",
+      "enumSequenceNumber": "1",
+      "enumSequenceIndex": "0"
+    },
+    {
+      "enumDescription": "Call",
+      "enumSequenceNumber": "2",
+      "enumSequenceIndex": "1"
+    },
+    {
+      "enumDescription": "Click",
+      "enumSequenceNumber": "4",
+      "enumSequenceIndex": "3"
+    },
+    {
+      "enumDescription": "Data",
+      "enumSequenceNumber": "8",
+      "enumSequenceIndex": "7"
+    },
+    {
+      "enumDescription": "Other",
+      "enumSequenceNumber": "16",
+      "enumSequenceIndex": "15"
+    }
+  ]
+}

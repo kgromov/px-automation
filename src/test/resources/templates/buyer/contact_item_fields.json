@@ -1,0 +1,177 @@
+// http://development-ui.stagingpx.com/api/buyerinfo/contactitem?contactInfoId=&parentObjectId=4e6a61ee-f45f-4cfa-8f76-f221b5730e9c, OPTIONS
+[{
+	"type": "TEL/Phone",
+	"contactItem": ""
+},
+{
+	"type": "TEL/Mobile",
+	"contactItem": ""
+},
+{
+	"type": "TEL/FixedLine",
+	"contactItem": ""
+},
+{
+	"type": "TEL/BusinessMobile",
+	"contactItem": ""
+},
+{
+	"type": "TEL/Business",
+	"contactItem": ""
+},
+{
+	"type": "TEL/Home",
+	"contactItem": ""
+},
+{
+	"type": "TEL/Fax",
+	"contactItem": ""
+},
+{
+	"type": "TEL/BusinessFax",
+	"contactItem": ""
+},
+{
+	"type": "INT/email",
+	"contactItem": ""
+},
+{
+	"type": "INT/businessEmail",
+	"contactItem": ""
+},
+{
+	"type": "INT/PayPalEmail",
+	"contactItem": ""
+},
+{
+	"type": "INT/ftp",
+	"contactItem": ""
+},
+{
+	"type": "INT/web",
+	"contactItem": ""
+},
+{
+	"type": "INT/web2",
+	"contactItem": ""
+},
+{
+	"type": "QB/CustomerId",
+	"contactItem": ""
+},
+{
+	"type": "CALL/AdvertiserID",
+	"contactItem": ""
+},
+{
+	"type": "PRV/SocialSecNo",
+	"contactItem": ""
+},
+{
+	"type": "PRV/BankAcc",
+	"contactItem": ""
+},
+{
+	"type": "PRV/BankAcc2",
+	"contactItem": ""
+},
+{
+	"type": "PRV/IBAN",
+	"contactItem": ""
+},
+{
+	"type": "PRV/IBAN2",
+	"contactItem": ""
+},
+{
+	"type": "PRV/BIC",
+	"contactItem": ""
+},
+{
+	"type": "PRV/BIC2",
+	"contactItem": ""
+},
+{
+	"type": "PRV/CoC",
+	"contactItem": ""
+},
+{
+	"type": "PRV/VATno",
+	"contactItem": ""
+},
+{
+	"type": "PRV/CCData1",
+	"contactItem": ""
+},
+{
+	"type": "PRV/CCData2",
+	"contactItem": ""
+},
+{
+	"type": "IM/Skype",
+	"contactItem": ""
+},
+{
+	"type": "IM/AIM",
+	"contactItem": ""
+},
+{
+	"type": "IM/WindowsLiveMessenger",
+	"contactItem": ""
+},
+{
+	"type": "IM/YahooMessenger",
+	"contactItem": ""
+},
+{
+	"type": "IM/FacebookChat",
+	"contactItem": ""
+},
+{
+	"type": "QB/VendorId",
+	"contactItem": ""
+},
+{
+	"type": "PRV/BillingCycle",
+	"contactItem": ""
+},
+{
+	"type": "PRV/PaymentTerms",
+	"contactItem": "Net 30"
+},
+{
+	"type": "PRV/HRCustomerNo",
+	"contactItem": ""
+},
+{
+	"type": "LID/LeadIdPublisherGuid",
+	"contactItem": ""
+},
+{
+	"type": "Cust/Manager",
+	"contactItem": "09333dcc-0fb8-4f83-b263-05b83e5235bf"
+},
+{
+	"type": "Cust/SalesManager",
+	"contactItem": "3ec02aff-5dcd-4442-8250-e3eca467452f"
+},
+{
+	"type": "BIL/Primary",
+	"contactItem": ""
+},
+{
+	"type": "BIL/Secondary",
+	"contactItem": ""
+},
+{
+	"type": "Buyer/CreditLimit",
+	"contactItem": ""
+},
+{
+	"type": "Notify/Phone",
+	"contactItem": ""
+},
+{
+	"type": "Notify/Email",
+	"contactItem": ""
+}]

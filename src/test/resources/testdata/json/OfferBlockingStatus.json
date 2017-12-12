@@ -1,0 +1,24 @@
+{
+  "offerBlockingStatus": [
+    {
+      "enumDescription": "Blocked",
+      "enumSequenceNumber": "1",
+      "enumSequenceIndex": "0"
+    },
+    {
+      "enumDescription": "UnBlocked",
+      "enumSequenceNumber": "2",
+      "enumSequenceIndex": "1"
+    },
+    {
+      "enumDescription": "Approved",
+      "enumSequenceNumber": "3",
+      "enumSequenceIndex": "2"
+    },
+    {
+      "enumDescription": "UnApproved",
+      "enumSequenceNumber": "4",
+      "enumSequenceIndex": "3"
+    }
+  ]
+}

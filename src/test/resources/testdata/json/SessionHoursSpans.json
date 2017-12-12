@@ -1,0 +1,48 @@
+{
+  "sessionHoursSpans": [
+    {
+      "enumDescription": "1 Day",
+      "enumSequenceNumber": "24",
+      "enumSequenceIndex": "23"
+    },
+    {
+      "enumDescription": "1 Week",
+      "enumSequenceNumber": "168",
+      "enumSequenceIndex": "167"
+    },
+    {
+      "enumDescription": "2 Weeks",
+      "enumSequenceNumber": "336",
+      "enumSequenceIndex": "335"
+    },
+    {
+      "enumDescription": "1 Month",
+      "enumSequenceNumber": "672",
+      "enumSequenceIndex": "671"
+    },
+    {
+      "enumDescription": "2 Months",
+      "enumSequenceNumber": "1344",
+      "enumSequenceIndex": "1343"
+    },
+    {
+      "enumDescription": "3 Months",
+      "enumSequenceNumber": "2016",
+      "enumSequenceIndex": "2015"
+    },
+    {
+      "enumDescription": "6 Months",
+      "enumSequenceNumber": "4032",
+      "enumSequenceIndex": "4031"
+    },
+    {
+      "enumDescription": "1 Year",
+      "enumSequenceNumber": "8064",
+      "enumSequenceIndex": "8063"
+    },
+    {
+      "enumDescription": "Custom",
+      "enumSequenceNumber": "custom"
+    }
+  ]
+}

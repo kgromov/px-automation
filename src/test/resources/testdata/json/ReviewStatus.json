@@ -1,0 +1,16 @@
+{
+  "reviewStatus": [
+    {
+      "enumDescription": "Pending",
+      "enumSequenceNumber": "Pending"
+    },
+    {
+      "enumDescription": "Accepted",
+      "enumSequenceNumber": "Accepted"
+    },
+    {
+      "enumDescription": "Declined",
+      "enumSequenceNumber": "Declined"
+    }
+  ]
+}

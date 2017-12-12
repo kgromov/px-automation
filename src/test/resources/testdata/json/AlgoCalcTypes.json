@@ -1,0 +1,34 @@
+{
+  "algoCalcTypes": [
+    {
+      "enumDescription": "+",
+      "enumSequenceNumber": "1",
+      "enumSequenceIndex": "0"
+    },
+    {
+      "enumDescription": "-",
+      "enumSequenceNumber": "2",
+      "enumSequenceIndex": "1"
+    },
+    {
+      "enumDescription": "/",
+      "enumSequenceNumber": "3",
+      "enumSequenceIndex": "2"
+    },
+    {
+      "enumDescription": "*",
+      "enumSequenceNumber": "4",
+      "enumSequenceIndex": "3"
+    },
+    {
+      "enumDescription": "%",
+      "enumSequenceNumber": "5",
+      "enumSequenceIndex": "4"
+    },
+    {
+      "enumDescription": "\u003d",
+      "enumSequenceNumber": "6",
+      "enumSequenceIndex": "5"
+    }
+  ]
+}

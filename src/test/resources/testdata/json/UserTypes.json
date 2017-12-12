@@ -1,0 +1,39 @@
+{
+  "userTypes": [
+    {
+      "enumDescription": "SuperUser",
+      "enumSequenceNumber": "1",
+      "enumSequenceIndex": "0"
+    },
+    {
+      "enumDescription": "User",
+      "enumSequenceNumber": "2",
+      "enumSequenceIndex": "1"
+    },
+    {
+      "enumDescription": "Group",
+      "enumSequenceNumber": "3",
+      "enumSequenceIndex": "2"
+    },
+    {
+      "enumDescription": "Domain",
+      "enumSequenceNumber": "4",
+      "enumSequenceIndex": "3"
+    },
+    {
+      "enumDescription": "CredSet",
+      "enumSequenceNumber": "5",
+      "enumSequenceIndex": "4"
+    },
+    {
+      "enumDescription": "Realm",
+      "enumSequenceNumber": "6",
+      "enumSequenceIndex": "5"
+    },
+    {
+      "enumDescription": "Subscriber",
+      "enumSequenceNumber": "7",
+      "enumSequenceIndex": "6"
+    }
+  ]
+}

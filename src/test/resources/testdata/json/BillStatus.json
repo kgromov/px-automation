@@ -1,0 +1,16 @@
+{
+  "billStatus": [
+    {
+      "enumDescription": "Open",
+      "enumSequenceNumber": "Open"
+    },
+    {
+      "enumDescription": "Paid",
+      "enumSequenceNumber": "Paid"
+    },
+    {
+      "enumDescription": "Overdue",
+      "enumSequenceNumber": "Overdue"
+    }
+  ]
+}

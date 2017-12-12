@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="Functional test suite to verify crud under px objects" parallel="classes">
+
+    <test name="CRUD, PX objects">
+        <classes>
+            <class name="tests.functional.crud.BrokerGrantsTest"/>
+            <class name="tests.functional.crud.BuyerGrantsTest"/>
+            <class name="tests.functional.crud.OfferGrantsTest"/>
+            <class name="tests.functional.crud.PublisherGrantsTest"/>
+            <class name="tests.functional.crud.campaign.CampaignUnderPublisherGrantsTest"/>
+        </classes>
+    </test>
+
+</suite>

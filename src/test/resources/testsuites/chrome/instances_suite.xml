@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Global Suite for PX UI instances" parallel="tests" thread-count="2">
+
+    <suite-files>
+        <suite-file path="instances/brokers.xml"/>
+        <suite-file path="instances/buyers.xml"/>
+        <suite-file path="instances/campaigns.xml"/>
+        <suite-file path="instances/offers.xml"/>
+        <suite-file path="instances/payouts.xml"/>
+        <suite-file path="instances/publishers.xml"/>
+        <suite-file path="instances/pixels.xml"/>
+    </suite-files>
+
+</suite>

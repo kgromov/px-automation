@@ -1,0 +1,1516 @@
+{
+  "countries": [
+    {
+      "enumDescription": "AF",
+      "enumSequenceNumber": "1",
+      "enumFullDescription": "Afghanistan",
+      "enumSequenceIndex": "0"
+    },
+    {
+      "enumDescription": "AX",
+      "enumSequenceNumber": "2",
+      "enumFullDescription": "Aland Islands",
+      "enumSequenceIndex": "1"
+    },
+    {
+      "enumDescription": "AL",
+      "enumSequenceNumber": "3",
+      "enumFullDescription": "Albania",
+      "enumSequenceIndex": "2"
+    },
+    {
+      "enumDescription": "DZ",
+      "enumSequenceNumber": "4",
+      "enumFullDescription": "Algeria",
+      "enumSequenceIndex": "3"
+    },
+    {
+      "enumDescription": "AS",
+      "enumSequenceNumber": "5",
+      "enumFullDescription": "American Samoa",
+      "enumSequenceIndex": "4"
+    },
+    {
+      "enumDescription": "AD",
+      "enumSequenceNumber": "6",
+      "enumFullDescription": "Andorra",
+      "enumSequenceIndex": "5"
+    },
+    {
+      "enumDescription": "AO",
+      "enumSequenceNumber": "7",
+      "enumFullDescription": "Angola",
+      "enumSequenceIndex": "6"
+    },
+    {
+      "enumDescription": "AI",
+      "enumSequenceNumber": "8",
+      "enumFullDescription": "Anguilla",
+      "enumSequenceIndex": "7"
+    },
+    {
+      "enumDescription": "AQ",
+      "enumSequenceNumber": "9",
+      "enumFullDescription": "Antarctica",
+      "enumSequenceIndex": "8"
+    },
+    {
+      "enumDescription": "AG",
+      "enumSequenceNumber": "10",
+      "enumFullDescription": "Antigua \u0026 Barbuda",
+      "enumSequenceIndex": "9"
+    },
+    {
+      "enumDescription": "AR",
+      "enumSequenceNumber": "11",
+      "enumFullDescription": "Argentina",
+      "enumSequenceIndex": "10"
+    },
+    {
+      "enumDescription": "AM",
+      "enumSequenceNumber": "12",
+      "enumFullDescription": "Armenia",
+      "enumSequenceIndex": "11"
+    },
+    {
+      "enumDescription": "AW",
+      "enumSequenceNumber": "13",
+      "enumFullDescription": "Aruba",
+      "enumSequenceIndex": "12"
+    },
+    {
+      "enumDescription": "AU",
+      "enumSequenceNumber": "14",
+      "enumFullDescription": "Australia",
+      "enumSequenceIndex": "13"
+    },
+    {
+      "enumDescription": "AT",
+      "enumSequenceNumber": "15",
+      "enumFullDescription": "Austria",
+      "enumSequenceIndex": "14"
+    },
+    {
+      "enumDescription": "AZ",
+      "enumSequenceNumber": "16",
+      "enumFullDescription": "Azerbaijan",
+      "enumSequenceIndex": "15"
+    },
+    {
+      "enumDescription": "BS",
+      "enumSequenceNumber": "17",
+      "enumFullDescription": "Bahamas, The",
+      "enumSequenceIndex": "16"
+    },
+    {
+      "enumDescription": "BH",
+      "enumSequenceNumber": "18",
+      "enumFullDescription": "Bahrain",
+      "enumSequenceIndex": "17"
+    },
+    {
+      "enumDescription": "BD",
+      "enumSequenceNumber": "19",
+      "enumFullDescription": "Bangladesh",
+      "enumSequenceIndex": "18"
+    },
+    {
+      "enumDescription": "BB",
+      "enumSequenceNumber": "20",
+      "enumFullDescription": "Barbados",
+      "enumSequenceIndex": "19"
+    },
+    {
+      "enumDescription": "BY",
+      "enumSequenceNumber": "21",
+      "enumFullDescription": "Belarus",
+      "enumSequenceIndex": "20"
+    },
+    {
+      "enumDescription": "BE",
+      "enumSequenceNumber": "22",
+      "enumFullDescription": "Belgium",
+      "enumSequenceIndex": "21"
+    },
+    {
+      "enumDescription": "BZ",
+      "enumSequenceNumber": "23",
+      "enumFullDescription": "Belize",
+      "enumSequenceIndex": "22"
+    },
+    {
+      "enumDescription": "BJ",
+      "enumSequenceNumber": "24",
+      "enumFullDescription": "Benin",
+      "enumSequenceIndex": "23"
+    },
+    {
+      "enumDescription": "BM",
+      "enumSequenceNumber": "25",
+      "enumFullDescription": "Bermuda",
+      "enumSequenceIndex": "24"
+    },
+    {
+      "enumDescription": "BT",
+      "enumSequenceNumber": "26",
+      "enumFullDescription": "Bhutan",
+      "enumSequenceIndex": "25"
+    },
+    {
+      "enumDescription": "BO",
+      "enumSequenceNumber": "27",
+      "enumFullDescription": "Bolivia",
+      "enumSequenceIndex": "26"
+    },
+    {
+      "enumDescription": "BQ",
+      "enumSequenceNumber": "28",
+      "enumFullDescription": "Bonaire, St.Eustat, Saba",
+      "enumSequenceIndex": "27"
+    },
+    {
+      "enumDescription": "BA",
+      "enumSequenceNumber": "29",
+      "enumFullDescription": "Bosnia and Herzegovina",
+      "enumSequenceIndex": "28"
+    },
+    {
+      "enumDescription": "BW",
+      "enumSequenceNumber": "30",
+      "enumFullDescription": "Botswana",
+      "enumSequenceIndex": "29"
+    },
+    {
+      "enumDescription": "BV",
+      "enumSequenceNumber": "31",
+      "enumFullDescription": "Bouvet Island",
+      "enumSequenceIndex": "30"
+    },
+    {
+      "enumDescription": "BR",
+      "enumSequenceNumber": "32",
+      "enumFullDescription": "Brazil",
+      "enumSequenceIndex": "31"
+    },
+    {
+      "enumDescription": "IO",
+      "enumSequenceNumber": "33",
+      "enumFullDescription": "British Indian Ocean T.",
+      "enumSequenceIndex": "32"
+    },
+    {
+      "enumDescription": "BN",
+      "enumSequenceNumber": "34",
+      "enumFullDescription": "Brunei Darussalam",
+      "enumSequenceIndex": "33"
+    },
+    {
+      "enumDescription": "BG",
+      "enumSequenceNumber": "35",
+      "enumFullDescription": "Bulgaria",
+      "enumSequenceIndex": "34"
+    },
+    {
+      "enumDescription": "BF",
+      "enumSequenceNumber": "36",
+      "enumFullDescription": "Burkina Faso",
+      "enumSequenceIndex": "35"
+    },
+    {
+      "enumDescription": "BI",
+      "enumSequenceNumber": "37",
+      "enumFullDescription": "Burundi",
+      "enumSequenceIndex": "36"
+    },
+    {
+      "enumDescription": "CV",
+      "enumSequenceNumber": "38",
+      "enumFullDescription": "Cabo Verde",
+      "enumSequenceIndex": "37"
+    },
+    {
+      "enumDescription": "KH",
+      "enumSequenceNumber": "39",
+      "enumFullDescription": "Cambodia",
+      "enumSequenceIndex": "38"
+    },
+    {
+      "enumDescription": "CM",
+      "enumSequenceNumber": "40",
+      "enumFullDescription": "Cameroon",
+      "enumSequenceIndex": "39"
+    },
+    {
+      "enumDescription": "CA",
+      "enumSequenceNumber": "41",
+      "enumFullDescription": "Canada",
+      "enumSequenceIndex": "40"
+    },
+    {
+      "enumDescription": "KY",
+      "enumSequenceNumber": "42",
+      "enumFullDescription": "Cayman Islands",
+      "enumSequenceIndex": "41"
+    },
+    {
+      "enumDescription": "CF",
+      "enumSequenceNumber": "43",
+      "enumFullDescription": "Central African Republic",
+      "enumSequenceIndex": "42"
+    },
+    {
+      "enumDescription": "TD",
+      "enumSequenceNumber": "44",
+      "enumFullDescription": "Chad",
+      "enumSequenceIndex": "43"
+    },
+    {
+      "enumDescription": "CL",
+      "enumSequenceNumber": "45",
+      "enumFullDescription": "Chile",
+      "enumSequenceIndex": "44"
+    },
+    {
+      "enumDescription": "CN",
+      "enumSequenceNumber": "46",
+      "enumFullDescription": "China",
+      "enumSequenceIndex": "45"
+    },
+    {
+      "enumDescription": "CX",
+      "enumSequenceNumber": "47",
+      "enumFullDescription": "Christmas Island",
+      "enumSequenceIndex": "46"
+    },
+    {
+      "enumDescription": "CC",
+      "enumSequenceNumber": "48",
+      "enumFullDescription": "Cocos (Keeling) Islands",
+      "enumSequenceIndex": "47"
+    },
+    {
+      "enumDescription": "CO",
+      "enumSequenceNumber": "49",
+      "enumFullDescription": "Colombia",
+      "enumSequenceIndex": "48"
+    },
+    {
+      "enumDescription": "KM",
+      "enumSequenceNumber": "50",
+      "enumFullDescription": "Comoros",
+      "enumSequenceIndex": "49"
+    },
+    {
+      "enumDescription": "CG",
+      "enumSequenceNumber": "51",
+      "enumFullDescription": "Congo",
+      "enumSequenceIndex": "50"
+    },
+    {
+      "enumDescription": "CD",
+      "enumSequenceNumber": "52",
+      "enumFullDescription": "Congo, Dem. Rep. of the",
+      "enumSequenceIndex": "51"
+    },
+    {
+      "enumDescription": "CK",
+      "enumSequenceNumber": "53",
+      "enumFullDescription": "Cook Islands",
+      "enumSequenceIndex": "52"
+    },
+    {
+      "enumDescription": "CR",
+      "enumSequenceNumber": "54",
+      "enumFullDescription": "Costa Rica",
+      "enumSequenceIndex": "53"
+    },
+    {
+      "enumDescription": "HR",
+      "enumSequenceNumber": "55",
+      "enumFullDescription": "Croatia",
+      "enumSequenceIndex": "54"
+    },
+    {
+      "enumDescription": "CU",
+      "enumSequenceNumber": "56",
+      "enumFullDescription": "Cuba",
+      "enumSequenceIndex": "55"
+    },
+    {
+      "enumDescription": "CW",
+      "enumSequenceNumber": "57",
+      "enumFullDescription": "Cura�ao",
+      "enumSequenceIndex": "56"
+    },
+    {
+      "enumDescription": "CY",
+      "enumSequenceNumber": "58",
+      "enumFullDescription": "Cyprus",
+      "enumSequenceIndex": "57"
+    },
+    {
+      "enumDescription": "CZ",
+      "enumSequenceNumber": "59",
+      "enumFullDescription": "Czech Republic",
+      "enumSequenceIndex": "58"
+    },
+    {
+      "enumDescription": "DK",
+      "enumSequenceNumber": "60",
+      "enumFullDescription": "Denmark",
+      "enumSequenceIndex": "59"
+    },
+    {
+      "enumDescription": "DJ",
+      "enumSequenceNumber": "61",
+      "enumFullDescription": "Djibouti",
+      "enumSequenceIndex": "60"
+    },
+    {
+      "enumDescription": "DM",
+      "enumSequenceNumber": "62",
+      "enumFullDescription": "Dominica",
+      "enumSequenceIndex": "61"
+    },
+    {
+      "enumDescription": "DO",
+      "enumSequenceNumber": "63",
+      "enumFullDescription": "Dominican Republic",
+      "enumSequenceIndex": "62"
+    },
+    {
+      "enumDescription": "TP",
+      "enumSequenceNumber": "64",
+      "enumFullDescription": "East Timor (Timor-Leste)",
+      "enumSequenceIndex": "63"
+    },
+    {
+      "enumDescription": "EC",
+      "enumSequenceNumber": "65",
+      "enumFullDescription": "Ecuador",
+      "enumSequenceIndex": "64"
+    },
+    {
+      "enumDescription": "EG",
+      "enumSequenceNumber": "66",
+      "enumFullDescription": "Egypt",
+      "enumSequenceIndex": "65"
+    },
+    {
+      "enumDescription": "SV",
+      "enumSequenceNumber": "67",
+      "enumFullDescription": "El Salvador",
+      "enumSequenceIndex": "66"
+    },
+    {
+      "enumDescription": "ER",
+      "enumSequenceNumber": "68",
+      "enumFullDescription": "Eritrea",
+      "enumSequenceIndex": "67"
+    },
+    {
+      "enumDescription": "EE",
+      "enumSequenceNumber": "69",
+      "enumFullDescription": "Estonia",
+      "enumSequenceIndex": "68"
+    },
+    {
+      "enumDescription": "ET",
+      "enumSequenceNumber": "70",
+      "enumFullDescription": "Ethiopia",
+      "enumSequenceIndex": "69"
+    },
+    {
+      "enumDescription": "EU",
+      "enumSequenceNumber": "71",
+      "enumFullDescription": "European Union",
+      "enumSequenceIndex": "70"
+    },
+    {
+      "enumDescription": "FK",
+      "enumSequenceNumber": "72",
+      "enumFullDescription": "Falkland Is. (Malvinas)",
+      "enumSequenceIndex": "71"
+    },
+    {
+      "enumDescription": "FO",
+      "enumSequenceNumber": "73",
+      "enumFullDescription": "Faroe Islands",
+      "enumSequenceIndex": "72"
+    },
+    {
+      "enumDescription": "FJ",
+      "enumSequenceNumber": "74",
+      "enumFullDescription": "Fiji",
+      "enumSequenceIndex": "73"
+    },
+    {
+      "enumDescription": "FI",
+      "enumSequenceNumber": "75",
+      "enumFullDescription": "Finland",
+      "enumSequenceIndex": "74"
+    },
+    {
+      "enumDescription": "FR",
+      "enumSequenceNumber": "76",
+      "enumFullDescription": "France",
+      "enumSequenceIndex": "75"
+    },
+    {
+      "enumDescription": "PF",
+      "enumSequenceNumber": "77",
+      "enumFullDescription": "French Polynesia",
+      "enumSequenceIndex": "76"
+    },
+    {
+      "enumDescription": "TF",
+      "enumSequenceNumber": "78",
+      "enumFullDescription": "French Southern Terr.",
+      "enumSequenceIndex": "77"
+    },
+    {
+      "enumDescription": "GA",
+      "enumSequenceNumber": "79",
+      "enumFullDescription": "Gabon",
+      "enumSequenceIndex": "78"
+    },
+    {
+      "enumDescription": "GM",
+      "enumSequenceNumber": "80",
+      "enumFullDescription": "Gambia, the",
+      "enumSequenceIndex": "79"
+    },
+    {
+      "enumDescription": "GE",
+      "enumSequenceNumber": "81",
+      "enumFullDescription": "Georgia",
+      "enumSequenceIndex": "80"
+    },
+    {
+      "enumDescription": "DE",
+      "enumSequenceNumber": "82",
+      "enumFullDescription": "Germany",
+      "enumSequenceIndex": "81"
+    },
+    {
+      "enumDescription": "GH",
+      "enumSequenceNumber": "83",
+      "enumFullDescription": "Ghana",
+      "enumSequenceIndex": "82"
+    },
+    {
+      "enumDescription": "GI",
+      "enumSequenceNumber": "84",
+      "enumFullDescription": "Gibraltar",
+      "enumSequenceIndex": "83"
+    },
+    {
+      "enumDescription": "GR",
+      "enumSequenceNumber": "85",
+      "enumFullDescription": "Greece",
+      "enumSequenceIndex": "84"
+    },
+    {
+      "enumDescription": "GL",
+      "enumSequenceNumber": "86",
+      "enumFullDescription": "Greenland",
+      "enumSequenceIndex": "85"
+    },
+    {
+      "enumDescription": "GD",
+      "enumSequenceNumber": "87",
+      "enumFullDescription": "Grenada",
+      "enumSequenceIndex": "86"
+    },
+    {
+      "enumDescription": "GP",
+      "enumSequenceNumber": "88",
+      "enumFullDescription": "Guadeloupe",
+      "enumSequenceIndex": "87"
+    },
+    {
+      "enumDescription": "GU",
+      "enumSequenceNumber": "89",
+      "enumFullDescription": "Guam",
+      "enumSequenceIndex": "88"
+    },
+    {
+      "enumDescription": "GT",
+      "enumSequenceNumber": "90",
+      "enumFullDescription": "Guatemala",
+      "enumSequenceIndex": "89"
+    },
+    {
+      "enumDescription": "GG",
+      "enumSequenceNumber": "91",
+      "enumFullDescription": "Guernsey and Alderney",
+      "enumSequenceIndex": "90"
+    },
+    {
+      "enumDescription": "GF",
+      "enumSequenceNumber": "92",
+      "enumFullDescription": "Guiana, French",
+      "enumSequenceIndex": "91"
+    },
+    {
+      "enumDescription": "GN",
+      "enumSequenceNumber": "93",
+      "enumFullDescription": "Guinea",
+      "enumSequenceIndex": "92"
+    },
+    {
+      "enumDescription": "GQ",
+      "enumSequenceNumber": "94",
+      "enumFullDescription": "Guinea, Equatorial",
+      "enumSequenceIndex": "93"
+    },
+    {
+      "enumDescription": "GW",
+      "enumSequenceNumber": "95",
+      "enumFullDescription": "Guinea-Bissau",
+      "enumSequenceIndex": "94"
+    },
+    {
+      "enumDescription": "GY",
+      "enumSequenceNumber": "96",
+      "enumFullDescription": "Guyana",
+      "enumSequenceIndex": "95"
+    },
+    {
+      "enumDescription": "HT",
+      "enumSequenceNumber": "97",
+      "enumFullDescription": "Haiti",
+      "enumSequenceIndex": "96"
+    },
+    {
+      "enumDescription": "HM",
+      "enumSequenceNumber": "98",
+      "enumFullDescription": "Heard \u0026 McDonald Is.",
+      "enumSequenceIndex": "97"
+    },
+    {
+      "enumDescription": "HN",
+      "enumSequenceNumber": "99",
+      "enumFullDescription": "Honduras",
+      "enumSequenceIndex": "98"
+    },
+    {
+      "enumDescription": "HK",
+      "enumSequenceNumber": "100",
+      "enumFullDescription": "Hong Kong, (China)",
+      "enumSequenceIndex": "99"
+    },
+    {
+      "enumDescription": "HU",
+      "enumSequenceNumber": "101",
+      "enumFullDescription": "Hungary",
+      "enumSequenceIndex": "100"
+    },
+    {
+      "enumDescription": "IS",
+      "enumSequenceNumber": "102",
+      "enumFullDescription": "Iceland",
+      "enumSequenceIndex": "101"
+    },
+    {
+      "enumDescription": "IN",
+      "enumSequenceNumber": "103",
+      "enumFullDescription": "India",
+      "enumSequenceIndex": "102"
+    },
+    {
+      "enumDescription": "ID",
+      "enumSequenceNumber": "104",
+      "enumFullDescription": "Indonesia",
+      "enumSequenceIndex": "103"
+    },
+    {
+      "enumDescription": "IR",
+      "enumSequenceNumber": "105",
+      "enumFullDescription": "Iran, Islamic Republic of",
+      "enumSequenceIndex": "104"
+    },
+    {
+      "enumDescription": "IQ",
+      "enumSequenceNumber": "106",
+      "enumFullDescription": "Iraq",
+      "enumSequenceIndex": "105"
+    },
+    {
+      "enumDescription": "IE",
+      "enumSequenceNumber": "107",
+      "enumFullDescription": "Ireland",
+      "enumSequenceIndex": "106"
+    },
+    {
+      "enumDescription": "IL",
+      "enumSequenceNumber": "108",
+      "enumFullDescription": "Israel",
+      "enumSequenceIndex": "107"
+    },
+    {
+      "enumDescription": "IT",
+      "enumSequenceNumber": "109",
+      "enumFullDescription": "Italy",
+      "enumSequenceIndex": "108"
+    },
+    {
+      "enumDescription": "CI",
+      "enumSequenceNumber": "110",
+      "enumFullDescription": "Ivory Coast (Cote d\u0027Ivoire)",
+      "enumSequenceIndex": "109"
+    },
+    {
+      "enumDescription": "JM",
+      "enumSequenceNumber": "111",
+      "enumFullDescription": "Jamaica",
+      "enumSequenceIndex": "110"
+    },
+    {
+      "enumDescription": "JP",
+      "enumSequenceNumber": "112",
+      "enumFullDescription": "Japan",
+      "enumSequenceIndex": "111"
+    },
+    {
+      "enumDescription": "JE",
+      "enumSequenceNumber": "113",
+      "enumFullDescription": "Jersey",
+      "enumSequenceIndex": "112"
+    },
+    {
+      "enumDescription": "JO",
+      "enumSequenceNumber": "114",
+      "enumFullDescription": "Jordan",
+      "enumSequenceIndex": "113"
+    },
+    {
+      "enumDescription": "KZ",
+      "enumSequenceNumber": "115",
+      "enumFullDescription": "Kazakhstan",
+      "enumSequenceIndex": "114"
+    },
+    {
+      "enumDescription": "KE",
+      "enumSequenceNumber": "116",
+      "enumFullDescription": "Kenya",
+      "enumSequenceIndex": "115"
+    },
+    {
+      "enumDescription": "KI",
+      "enumSequenceNumber": "117",
+      "enumFullDescription": "Kiribati",
+      "enumSequenceIndex": "116"
+    },
+    {
+      "enumDescription": "KP",
+      "enumSequenceNumber": "118",
+      "enumFullDescription": "Korea Dem. People\u0027s Rep.",
+      "enumSequenceIndex": "117"
+    },
+    {
+      "enumDescription": "KR",
+      "enumSequenceNumber": "119",
+      "enumFullDescription": "Korea, (South) Republic of",
+      "enumSequenceIndex": "118"
+    },
+    {
+      "enumDescription": "KV",
+      "enumSequenceNumber": "120",
+      "enumFullDescription": "Kosovo",
+      "enumSequenceIndex": "119"
+    },
+    {
+      "enumDescription": "KW",
+      "enumSequenceNumber": "121",
+      "enumFullDescription": "Kuwait",
+      "enumSequenceIndex": "120"
+    },
+    {
+      "enumDescription": "KG",
+      "enumSequenceNumber": "122",
+      "enumFullDescription": "Kyrgyzstan",
+      "enumSequenceIndex": "121"
+    },
+    {
+      "enumDescription": "LA",
+      "enumSequenceNumber": "123",
+      "enumFullDescription": "Lao People\u0027s Dem. Rep.",
+      "enumSequenceIndex": "122"
+    },
+    {
+      "enumDescription": "LV",
+      "enumSequenceNumber": "124",
+      "enumFullDescription": "Latvia",
+      "enumSequenceIndex": "123"
+    },
+    {
+      "enumDescription": "LB",
+      "enumSequenceNumber": "125",
+      "enumFullDescription": "Lebanon",
+      "enumSequenceIndex": "124"
+    },
+    {
+      "enumDescription": "LS",
+      "enumSequenceNumber": "126",
+      "enumFullDescription": "Lesotho",
+      "enumSequenceIndex": "125"
+    },
+    {
+      "enumDescription": "LR",
+      "enumSequenceNumber": "127",
+      "enumFullDescription": "Liberia",
+      "enumSequenceIndex": "126"
+    },
+    {
+      "enumDescription": "LY",
+      "enumSequenceNumber": "128",
+      "enumFullDescription": "Libyan Arab Jamahiriya",
+      "enumSequenceIndex": "127"
+    },
+    {
+      "enumDescription": "LI",
+      "enumSequenceNumber": "129",
+      "enumFullDescription": "Liechtenstein",
+      "enumSequenceIndex": "128"
+    },
+    {
+      "enumDescription": "LT",
+      "enumSequenceNumber": "130",
+      "enumFullDescription": "Lithuania",
+      "enumSequenceIndex": "129"
+    },
+    {
+      "enumDescription": "LU",
+      "enumSequenceNumber": "131",
+      "enumFullDescription": "Luxembourg",
+      "enumSequenceIndex": "130"
+    },
+    {
+      "enumDescription": "MO",
+      "enumSequenceNumber": "132",
+      "enumFullDescription": "Macao, (China)",
+      "enumSequenceIndex": "131"
+    },
+    {
+      "enumDescription": "MK",
+      "enumSequenceNumber": "133",
+      "enumFullDescription": "Macedonia, TFYR",
+      "enumSequenceIndex": "132"
+    },
+    {
+      "enumDescription": "MG",
+      "enumSequenceNumber": "134",
+      "enumFullDescription": "Madagascar",
+      "enumSequenceIndex": "133"
+    },
+    {
+      "enumDescription": "MW",
+      "enumSequenceNumber": "135",
+      "enumFullDescription": "Malawi",
+      "enumSequenceIndex": "134"
+    },
+    {
+      "enumDescription": "MY",
+      "enumSequenceNumber": "136",
+      "enumFullDescription": "Malaysia",
+      "enumSequenceIndex": "135"
+    },
+    {
+      "enumDescription": "MV",
+      "enumSequenceNumber": "137",
+      "enumFullDescription": "Maldives",
+      "enumSequenceIndex": "136"
+    },
+    {
+      "enumDescription": "ML",
+      "enumSequenceNumber": "138",
+      "enumFullDescription": "Mali",
+      "enumSequenceIndex": "137"
+    },
+    {
+      "enumDescription": "MT",
+      "enumSequenceNumber": "139",
+      "enumFullDescription": "Malta",
+      "enumSequenceIndex": "138"
+    },
+    {
+      "enumDescription": "IM",
+      "enumSequenceNumber": "140",
+      "enumFullDescription": "Man, Isle of",
+      "enumSequenceIndex": "139"
+    },
+    {
+      "enumDescription": "MH",
+      "enumSequenceNumber": "141",
+      "enumFullDescription": "Marshall Islands",
+      "enumSequenceIndex": "140"
+    },
+    {
+      "enumDescription": "MQ",
+      "enumSequenceNumber": "142",
+      "enumFullDescription": "Martinique (FR)",
+      "enumSequenceIndex": "141"
+    },
+    {
+      "enumDescription": "MR",
+      "enumSequenceNumber": "143",
+      "enumFullDescription": "Mauritania",
+      "enumSequenceIndex": "142"
+    },
+    {
+      "enumDescription": "MU",
+      "enumSequenceNumber": "144",
+      "enumFullDescription": "Mauritius",
+      "enumSequenceIndex": "143"
+    },
+    {
+      "enumDescription": "YT",
+      "enumSequenceNumber": "145",
+      "enumFullDescription": "Mayotte (FR)",
+      "enumSequenceIndex": "144"
+    },
+    {
+      "enumDescription": "MX",
+      "enumSequenceNumber": "146",
+      "enumFullDescription": "Mexico",
+      "enumSequenceIndex": "145"
+    },
+    {
+      "enumDescription": "FM",
+      "enumSequenceNumber": "147",
+      "enumFullDescription": "Micronesia, Fed. States of",
+      "enumSequenceIndex": "146"
+    },
+    {
+      "enumDescription": "MD",
+      "enumSequenceNumber": "148",
+      "enumFullDescription": "Moldova, Republic of",
+      "enumSequenceIndex": "147"
+    },
+    {
+      "enumDescription": "MC",
+      "enumSequenceNumber": "149",
+      "enumFullDescription": "Monaco",
+      "enumSequenceIndex": "148"
+    },
+    {
+      "enumDescription": "MN",
+      "enumSequenceNumber": "150",
+      "enumFullDescription": "Mongolia",
+      "enumSequenceIndex": "149"
+    },
+    {
+      "enumDescription": "CS",
+      "enumSequenceNumber": "151",
+      "enumFullDescription": "Montenegro",
+      "enumSequenceIndex": "150"
+    },
+    {
+      "enumDescription": "MS",
+      "enumSequenceNumber": "152",
+      "enumFullDescription": "Montserrat",
+      "enumSequenceIndex": "151"
+    },
+    {
+      "enumDescription": "MA",
+      "enumSequenceNumber": "153",
+      "enumFullDescription": "Morocco",
+      "enumSequenceIndex": "152"
+    },
+    {
+      "enumDescription": "MZ",
+      "enumSequenceNumber": "154",
+      "enumFullDescription": "Mozambique",
+      "enumSequenceIndex": "153"
+    },
+    {
+      "enumDescription": "MM",
+      "enumSequenceNumber": "155",
+      "enumFullDescription": "Myanmar (ex-Burma)",
+      "enumSequenceIndex": "154"
+    },
+    {
+      "enumDescription": "NA",
+      "enumSequenceNumber": "156",
+      "enumFullDescription": "Namibia",
+      "enumSequenceIndex": "155"
+    },
+    {
+      "enumDescription": "NR",
+      "enumSequenceNumber": "157",
+      "enumFullDescription": "Nauru",
+      "enumSequenceIndex": "156"
+    },
+    {
+      "enumDescription": "NP",
+      "enumSequenceNumber": "158",
+      "enumFullDescription": "Nepal",
+      "enumSequenceIndex": "157"
+    },
+    {
+      "enumDescription": "NL",
+      "enumSequenceNumber": "159",
+      "enumFullDescription": "Netherlands",
+      "enumSequenceIndex": "158"
+    },
+    {
+      "enumDescription": "AN",
+      "enumSequenceNumber": "160",
+      "enumFullDescription": "Netherlands Antilles",
+      "enumSequenceIndex": "159"
+    },
+    {
+      "enumDescription": "NC",
+      "enumSequenceNumber": "161",
+      "enumFullDescription": "New Caledonia",
+      "enumSequenceIndex": "160"
+    },
+    {
+      "enumDescription": "NZ",
+      "enumSequenceNumber": "162",
+      "enumFullDescription": "New Zealand",
+      "enumSequenceIndex": "161"
+    },
+    {
+      "enumDescription": "NI",
+      "enumSequenceNumber": "163",
+      "enumFullDescription": "Nicaragua",
+      "enumSequenceIndex": "162"
+    },
+    {
+      "enumDescription": "NE",
+      "enumSequenceNumber": "164",
+      "enumFullDescription": "Niger",
+      "enumSequenceIndex": "163"
+    },
+    {
+      "enumDescription": "NG",
+      "enumSequenceNumber": "165",
+      "enumFullDescription": "Nigeria",
+      "enumSequenceIndex": "164"
+    },
+    {
+      "enumDescription": "NU",
+      "enumSequenceNumber": "166",
+      "enumFullDescription": "Niue",
+      "enumSequenceIndex": "165"
+    },
+    {
+      "enumDescription": "NF",
+      "enumSequenceNumber": "167",
+      "enumFullDescription": "Norfolk Island",
+      "enumSequenceIndex": "166"
+    },
+    {
+      "enumDescription": "MP",
+      "enumSequenceNumber": "168",
+      "enumFullDescription": "Northern Mariana Islands",
+      "enumSequenceIndex": "167"
+    },
+    {
+      "enumDescription": "NO",
+      "enumSequenceNumber": "169",
+      "enumFullDescription": "Norway",
+      "enumSequenceIndex": "168"
+    },
+    {
+      "enumDescription": "OM",
+      "enumSequenceNumber": "170",
+      "enumFullDescription": "Oman",
+      "enumSequenceIndex": "169"
+    },
+    {
+      "enumDescription": "PK",
+      "enumSequenceNumber": "171",
+      "enumFullDescription": "Pakistan",
+      "enumSequenceIndex": "170"
+    },
+    {
+      "enumDescription": "PW",
+      "enumSequenceNumber": "172",
+      "enumFullDescription": "Palau",
+      "enumSequenceIndex": "171"
+    },
+    {
+      "enumDescription": "PS",
+      "enumSequenceNumber": "173",
+      "enumFullDescription": "Palestinian Territory",
+      "enumSequenceIndex": "172"
+    },
+    {
+      "enumDescription": "PA",
+      "enumSequenceNumber": "174",
+      "enumFullDescription": "Panama",
+      "enumSequenceIndex": "173"
+    },
+    {
+      "enumDescription": "PG",
+      "enumSequenceNumber": "175",
+      "enumFullDescription": "Papua New Guinea",
+      "enumSequenceIndex": "174"
+    },
+    {
+      "enumDescription": "PY",
+      "enumSequenceNumber": "176",
+      "enumFullDescription": "Paraguay",
+      "enumSequenceIndex": "175"
+    },
+    {
+      "enumDescription": "PE",
+      "enumSequenceNumber": "177",
+      "enumFullDescription": "Peru",
+      "enumSequenceIndex": "176"
+    },
+    {
+      "enumDescription": "PH",
+      "enumSequenceNumber": "178",
+      "enumFullDescription": "Philippines",
+      "enumSequenceIndex": "177"
+    },
+    {
+      "enumDescription": "PN",
+      "enumSequenceNumber": "179",
+      "enumFullDescription": "Pitcairn Island",
+      "enumSequenceIndex": "178"
+    },
+    {
+      "enumDescription": "PL",
+      "enumSequenceNumber": "180",
+      "enumFullDescription": "Poland",
+      "enumSequenceIndex": "179"
+    },
+    {
+      "enumDescription": "PT",
+      "enumSequenceNumber": "181",
+      "enumFullDescription": "Portugal",
+      "enumSequenceIndex": "180"
+    },
+    {
+      "enumDescription": "PR",
+      "enumSequenceNumber": "182",
+      "enumFullDescription": "Puerto Rico",
+      "enumSequenceIndex": "181"
+    },
+    {
+      "enumDescription": "QA",
+      "enumSequenceNumber": "183",
+      "enumFullDescription": "Qatar",
+      "enumSequenceIndex": "182"
+    },
+    {
+      "enumDescription": "RE",
+      "enumSequenceNumber": "184",
+      "enumFullDescription": "Reunion (FR)",
+      "enumSequenceIndex": "183"
+    },
+    {
+      "enumDescription": "RO",
+      "enumSequenceNumber": "185",
+      "enumFullDescription": "Romania",
+      "enumSequenceIndex": "184"
+    },
+    {
+      "enumDescription": "RU",
+      "enumSequenceNumber": "186",
+      "enumFullDescription": "Russia (Russian Fed.)",
+      "enumSequenceIndex": "185"
+    },
+    {
+      "enumDescription": "RW",
+      "enumSequenceNumber": "187",
+      "enumFullDescription": "Rwanda",
+      "enumSequenceIndex": "186"
+    },
+    {
+      "enumDescription": "PM",
+      "enumSequenceNumber": "188",
+      "enumFullDescription": "S Pierre \u0026 Miquelon(FR)",
+      "enumSequenceIndex": "187"
+    },
+    {
+      "enumDescription": "VC",
+      "enumSequenceNumber": "189",
+      "enumFullDescription": "S Vincent \u0026 Grenadines",
+      "enumSequenceIndex": "188"
+    },
+    {
+      "enumDescription": "GS",
+      "enumSequenceNumber": "190",
+      "enumFullDescription": "S.George \u0026 S.Sandwich",
+      "enumSequenceIndex": "189"
+    },
+    {
+      "enumDescription": "EH",
+      "enumSequenceNumber": "191",
+      "enumFullDescription": "Sahara, Western",
+      "enumSequenceIndex": "190"
+    },
+    {
+      "enumDescription": "BL",
+      "enumSequenceNumber": "192",
+      "enumFullDescription": "Saint Barthelemy (FR)",
+      "enumSequenceIndex": "191"
+    },
+    {
+      "enumDescription": "SH",
+      "enumSequenceNumber": "193",
+      "enumFullDescription": "Saint Helena (UK)",
+      "enumSequenceIndex": "192"
+    },
+    {
+      "enumDescription": "KN",
+      "enumSequenceNumber": "194",
+      "enumFullDescription": "Saint Kitts and Nevis",
+      "enumSequenceIndex": "193"
+    },
+    {
+      "enumDescription": "LC",
+      "enumSequenceNumber": "195",
+      "enumFullDescription": "Saint Lucia",
+      "enumSequenceIndex": "194"
+    },
+    {
+      "enumDescription": "MF",
+      "enumSequenceNumber": "196",
+      "enumFullDescription": "Saint Martin (FR)",
+      "enumSequenceIndex": "195"
+    },
+    {
+      "enumDescription": "WS",
+      "enumSequenceNumber": "197",
+      "enumFullDescription": "Samoa",
+      "enumSequenceIndex": "196"
+    },
+    {
+      "enumDescription": "SM",
+      "enumSequenceNumber": "198",
+      "enumFullDescription": "San Marino",
+      "enumSequenceIndex": "197"
+    },
+    {
+      "enumDescription": "ST",
+      "enumSequenceNumber": "199",
+      "enumFullDescription": "Sao Tome and Principe",
+      "enumSequenceIndex": "198"
+    },
+    {
+      "enumDescription": "SA",
+      "enumSequenceNumber": "200",
+      "enumFullDescription": "Saudi Arabia",
+      "enumSequenceIndex": "199"
+    },
+    {
+      "enumDescription": "SN",
+      "enumSequenceNumber": "201",
+      "enumFullDescription": "Senegal",
+      "enumSequenceIndex": "200"
+    },
+    {
+      "enumDescription": "RS",
+      "enumSequenceNumber": "202",
+      "enumFullDescription": "Serbia",
+      "enumSequenceIndex": "201"
+    },
+    {
+      "enumDescription": "SC",
+      "enumSequenceNumber": "203",
+      "enumFullDescription": "Seychelles",
+      "enumSequenceIndex": "202"
+    },
+    {
+      "enumDescription": "SL",
+      "enumSequenceNumber": "204",
+      "enumFullDescription": "Sierra Leone",
+      "enumSequenceIndex": "203"
+    },
+    {
+      "enumDescription": "SG",
+      "enumSequenceNumber": "205",
+      "enumFullDescription": "Singapore",
+      "enumSequenceIndex": "204"
+    },
+    {
+      "enumDescription": "SK",
+      "enumSequenceNumber": "206",
+      "enumFullDescription": "Slovakia",
+      "enumSequenceIndex": "205"
+    },
+    {
+      "enumDescription": "SI",
+      "enumSequenceNumber": "207",
+      "enumFullDescription": "Slovenia",
+      "enumSequenceIndex": "206"
+    },
+    {
+      "enumDescription": "SB",
+      "enumSequenceNumber": "208",
+      "enumFullDescription": "Solomon Islands",
+      "enumSequenceIndex": "207"
+    },
+    {
+      "enumDescription": "SO",
+      "enumSequenceNumber": "209",
+      "enumFullDescription": "Somalia",
+      "enumSequenceIndex": "208"
+    },
+    {
+      "enumDescription": "ZA",
+      "enumSequenceNumber": "210",
+      "enumFullDescription": "South Africa",
+      "enumSequenceIndex": "209"
+    },
+    {
+      "enumDescription": "SS",
+      "enumSequenceNumber": "211",
+      "enumFullDescription": "South Sudan",
+      "enumSequenceIndex": "210"
+    },
+    {
+      "enumDescription": "ES",
+      "enumSequenceNumber": "212",
+      "enumFullDescription": "Spain",
+      "enumSequenceIndex": "211"
+    },
+    {
+      "enumDescription": "LK",
+      "enumSequenceNumber": "213",
+      "enumFullDescription": "Sri Lanka (ex-Ceilan)",
+      "enumSequenceIndex": "212"
+    },
+    {
+      "enumDescription": "SD",
+      "enumSequenceNumber": "214",
+      "enumFullDescription": "Sudan",
+      "enumSequenceIndex": "213"
+    },
+    {
+      "enumDescription": "SR",
+      "enumSequenceNumber": "215",
+      "enumFullDescription": "Suriname",
+      "enumSequenceIndex": "214"
+    },
+    {
+      "enumDescription": "SJ",
+      "enumSequenceNumber": "216",
+      "enumFullDescription": "Svalbard \u0026 Jan Mayen Is.",
+      "enumSequenceIndex": "215"
+    },
+    {
+      "enumDescription": "SZ",
+      "enumSequenceNumber": "217",
+      "enumFullDescription": "Swaziland",
+      "enumSequenceIndex": "216"
+    },
+    {
+      "enumDescription": "SE",
+      "enumSequenceNumber": "218",
+      "enumFullDescription": "Sweden",
+      "enumSequenceIndex": "217"
+    },
+    {
+      "enumDescription": "CH",
+      "enumSequenceNumber": "219",
+      "enumFullDescription": "Switzerland",
+      "enumSequenceIndex": "218"
+    },
+    {
+      "enumDescription": "SY",
+      "enumSequenceNumber": "220",
+      "enumFullDescription": "Syrian Arab Republic",
+      "enumSequenceIndex": "219"
+    },
+    {
+      "enumDescription": "TW",
+      "enumSequenceNumber": "221",
+      "enumFullDescription": "Taiwan",
+      "enumSequenceIndex": "220"
+    },
+    {
+      "enumDescription": "TJ",
+      "enumSequenceNumber": "222",
+      "enumFullDescription": "Tajikistan",
+      "enumSequenceIndex": "221"
+    },
+    {
+      "enumDescription": "TZ",
+      "enumSequenceNumber": "223",
+      "enumFullDescription": "Tanzania, United Rep. of",
+      "enumSequenceIndex": "222"
+    },
+    {
+      "enumDescription": "TH",
+      "enumSequenceNumber": "224",
+      "enumFullDescription": "Thailand",
+      "enumSequenceIndex": "223"
+    },
+    {
+      "enumDescription": "TG",
+      "enumSequenceNumber": "225",
+      "enumFullDescription": "Togo",
+      "enumSequenceIndex": "224"
+    },
+    {
+      "enumDescription": "TK",
+      "enumSequenceNumber": "226",
+      "enumFullDescription": "Tokelau",
+      "enumSequenceIndex": "225"
+    },
+    {
+      "enumDescription": "TO",
+      "enumSequenceNumber": "227",
+      "enumFullDescription": "Tonga",
+      "enumSequenceIndex": "226"
+    },
+    {
+      "enumDescription": "TT",
+      "enumSequenceNumber": "228",
+      "enumFullDescription": "Trinidad \u0026 Tobago",
+      "enumSequenceIndex": "227"
+    },
+    {
+      "enumDescription": "TN",
+      "enumSequenceNumber": "229",
+      "enumFullDescription": "Tunisia",
+      "enumSequenceIndex": "228"
+    },
+    {
+      "enumDescription": "TR",
+      "enumSequenceNumber": "230",
+      "enumFullDescription": "Turkey",
+      "enumSequenceIndex": "229"
+    },
+    {
+      "enumDescription": "TM",
+      "enumSequenceNumber": "231",
+      "enumFullDescription": "Turkmenistan",
+      "enumSequenceIndex": "230"
+    },
+    {
+      "enumDescription": "TC",
+      "enumSequenceNumber": "232",
+      "enumFullDescription": "Turks and Caicos Is.",
+      "enumSequenceIndex": "231"
+    },
+    {
+      "enumDescription": "TV",
+      "enumSequenceNumber": "233",
+      "enumFullDescription": "Tuvalu",
+      "enumSequenceIndex": "232"
+    },
+    {
+      "enumDescription": "UG",
+      "enumSequenceNumber": "234",
+      "enumFullDescription": "Uganda",
+      "enumSequenceIndex": "233"
+    },
+    {
+      "enumDescription": "UA",
+      "enumSequenceNumber": "235",
+      "enumFullDescription": "Ukraine",
+      "enumSequenceIndex": "234"
+    },
+    {
+      "enumDescription": "AE",
+      "enumSequenceNumber": "236",
+      "enumFullDescription": "United Arab Emirates",
+      "enumSequenceIndex": "235"
+    },
+    {
+      "enumDescription": "UK",
+      "enumSequenceNumber": "237",
+      "enumFullDescription": "United Kingdom",
+      "enumSequenceIndex": "236"
+    },
+    {
+      "enumDescription": "US",
+      "enumSequenceNumber": "238",
+      "enumFullDescription": "United States",
+      "enumSequenceIndex": "237"
+    },
+    {
+      "enumDescription": "USA",
+      "enumSequenceNumber": "239",
+      "enumFullDescription": "USA",
+      "enumSequenceIndex": "238"
+    },
+    {
+      "enumDescription": "UY",
+      "enumSequenceNumber": "240",
+      "enumFullDescription": "Uruguay",
+      "enumSequenceIndex": "239"
+    },
+    {
+      "enumDescription": "UM",
+      "enumSequenceNumber": "241",
+      "enumFullDescription": "US Minor Outlying Isl.",
+      "enumSequenceIndex": "240"
+    },
+    {
+      "enumDescription": "UZ",
+      "enumSequenceNumber": "242",
+      "enumFullDescription": "Uzbekistan",
+      "enumSequenceIndex": "241"
+    },
+    {
+      "enumDescription": "VU",
+      "enumSequenceNumber": "243",
+      "enumFullDescription": "Vanuatu",
+      "enumSequenceIndex": "242"
+    },
+    {
+      "enumDescription": "VA",
+      "enumSequenceNumber": "244",
+      "enumFullDescription": "Vatican (Holy See)",
+      "enumSequenceIndex": "243"
+    },
+    {
+      "enumDescription": "VE",
+      "enumSequenceNumber": "245",
+      "enumFullDescription": "Venezuela",
+      "enumSequenceIndex": "244"
+    },
+    {
+      "enumDescription": "VN",
+      "enumSequenceNumber": "246",
+      "enumFullDescription": "Viet Nam",
+      "enumSequenceIndex": "245"
+    },
+    {
+      "enumDescription": "VG",
+      "enumSequenceNumber": "247",
+      "enumFullDescription": "Virgin Islands, British",
+      "enumSequenceIndex": "246"
+    },
+    {
+      "enumDescription": "VI",
+      "enumSequenceNumber": "248",
+      "enumFullDescription": "Virgin Islands, U.S.",
+      "enumSequenceIndex": "247"
+    },
+    {
+      "enumDescription": "WF",
+      "enumSequenceNumber": "249",
+      "enumFullDescription": "Wallis and Futuna",
+      "enumSequenceIndex": "248"
+    },
+    {
+      "enumDescription": "YE",
+      "enumSequenceNumber": "250",
+      "enumFullDescription": "Yemen",
+      "enumSequenceIndex": "249"
+    },
+    {
+      "enumDescription": "ZM",
+      "enumSequenceNumber": "251",
+      "enumFullDescription": "Zambia",
+      "enumSequenceIndex": "250"
+    },
+    {
+      "enumDescription": "ZW",
+      "enumSequenceNumber": "252",
+      "enumFullDescription": "Zimbabwe",
+      "enumSequenceIndex": "251"
+    }
+  ]
+}

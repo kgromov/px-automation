@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><ArrayOfKeyValueOfstringArrayOfEnumDtoAyLzvkr0 xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <KeyValueOfstringArrayOfEnumDtoAyLzvkr0>
+        <Key>StripeErrorCode</Key>
+        <Value xmlns:d3p1="http://schemas.datacontract.org/2004/07/PXUI.Models.User">
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>incorrect_number</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>1</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>invalid_number</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>2</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>invalid_expiry_month</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>3</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>invalid_expiry_year</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>4</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>invalid_cvc</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>5</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>expired_card</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>6</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>incorrect_cvc</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>7</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>incorrect_zip</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>8</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>card_declined</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>9</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>missing</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>10</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>processing_error</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>11</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>rate_limit</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>12</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+        </Value>
+    </KeyValueOfstringArrayOfEnumDtoAyLzvkr0>
+</ArrayOfKeyValueOfstringArrayOfEnumDtoAyLzvkr0>

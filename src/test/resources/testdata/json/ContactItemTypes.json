@@ -1,0 +1,224 @@
+{
+  "contactItemTypes": [
+    {
+      "enumDescription": "TEL/Phone",
+      "enumSequenceNumber": "1",
+      "enumSequenceIndex": "0"
+    },
+    {
+      "enumDescription": "TEL/Mobile",
+      "enumSequenceNumber": "2",
+      "enumSequenceIndex": "1"
+    },
+    {
+      "enumDescription": "TEL/FixedLine",
+      "enumSequenceNumber": "3",
+      "enumSequenceIndex": "2"
+    },
+    {
+      "enumDescription": "TEL/BusinessMobile",
+      "enumSequenceNumber": "4",
+      "enumSequenceIndex": "3"
+    },
+    {
+      "enumDescription": "TEL/Business",
+      "enumSequenceNumber": "5",
+      "enumSequenceIndex": "4"
+    },
+    {
+      "enumDescription": "TEL/Home",
+      "enumSequenceNumber": "6",
+      "enumSequenceIndex": "5"
+    },
+    {
+      "enumDescription": "TEL/Fax",
+      "enumSequenceNumber": "7",
+      "enumSequenceIndex": "6"
+    },
+    {
+      "enumDescription": "TEL/BusinessFax",
+      "enumSequenceNumber": "8",
+      "enumSequenceIndex": "7"
+    },
+    {
+      "enumDescription": "INT/email",
+      "enumSequenceNumber": "9",
+      "enumSequenceIndex": "8"
+    },
+    {
+      "enumDescription": "INT/businessEmail",
+      "enumSequenceNumber": "10",
+      "enumSequenceIndex": "9"
+    },
+    {
+      "enumDescription": "INT/PayPalEmail",
+      "enumSequenceNumber": "11",
+      "enumSequenceIndex": "10"
+    },
+    {
+      "enumDescription": "INT/ftp",
+      "enumSequenceNumber": "12",
+      "enumSequenceIndex": "11"
+    },
+    {
+      "enumDescription": "INT/web",
+      "enumSequenceNumber": "13",
+      "enumSequenceIndex": "12"
+    },
+    {
+      "enumDescription": "INT/web2",
+      "enumSequenceNumber": "14",
+      "enumSequenceIndex": "13"
+    },
+    {
+      "enumDescription": "QB/CustomerId",
+      "enumSequenceNumber": "15",
+      "enumSequenceIndex": "14"
+    },
+    {
+      "enumDescription": "CALL/AdvertiserID",
+      "enumSequenceNumber": "16",
+      "enumSequenceIndex": "15"
+    },
+    {
+      "enumDescription": "PRV/SocialSecNo",
+      "enumSequenceNumber": "17",
+      "enumSequenceIndex": "16"
+    },
+    {
+      "enumDescription": "PRV/BankAcc",
+      "enumSequenceNumber": "18",
+      "enumSequenceIndex": "17"
+    },
+    {
+      "enumDescription": "PRV/BankAcc2",
+      "enumSequenceNumber": "19",
+      "enumSequenceIndex": "18"
+    },
+    {
+      "enumDescription": "PRV/IBAN",
+      "enumSequenceNumber": "20",
+      "enumSequenceIndex": "19"
+    },
+    {
+      "enumDescription": "PRV/IBAN2",
+      "enumSequenceNumber": "21",
+      "enumSequenceIndex": "20"
+    },
+    {
+      "enumDescription": "PRV/BIC",
+      "enumSequenceNumber": "22",
+      "enumSequenceIndex": "21"
+    },
+    {
+      "enumDescription": "PRV/BIC2",
+      "enumSequenceNumber": "23",
+      "enumSequenceIndex": "22"
+    },
+    {
+      "enumDescription": "PRV/CoC",
+      "enumSequenceNumber": "24",
+      "enumSequenceIndex": "23"
+    },
+    {
+      "enumDescription": "PRV/VATno",
+      "enumSequenceNumber": "25",
+      "enumSequenceIndex": "24"
+    },
+    {
+      "enumDescription": "PRV/CCData1",
+      "enumSequenceNumber": "26",
+      "enumSequenceIndex": "25"
+    },
+    {
+      "enumDescription": "PRV/CCData2",
+      "enumSequenceNumber": "27",
+      "enumSequenceIndex": "26"
+    },
+    {
+      "enumDescription": "IM/Skype",
+      "enumSequenceNumber": "28",
+      "enumSequenceIndex": "27"
+    },
+    {
+      "enumDescription": "IM/AIM",
+      "enumSequenceNumber": "29",
+      "enumSequenceIndex": "28"
+    },
+    {
+      "enumDescription": "IM/WindowsLiveMessenger",
+      "enumSequenceNumber": "30",
+      "enumSequenceIndex": "29"
+    },
+    {
+      "enumDescription": "IM/YahooMessenger",
+      "enumSequenceNumber": "31",
+      "enumSequenceIndex": "30"
+    },
+    {
+      "enumDescription": "IM/FacebookChat",
+      "enumSequenceNumber": "32",
+      "enumSequenceIndex": "31"
+    },
+    {
+      "enumDescription": "QB/VendorId",
+      "enumSequenceNumber": "33",
+      "enumSequenceIndex": "32"
+    },
+    {
+      "enumDescription": "PRV/BillingCycle",
+      "enumSequenceNumber": "34",
+      "enumSequenceIndex": "33"
+    },
+    {
+      "enumDescription": "PRV/PaymentTerms",
+      "enumSequenceNumber": "35",
+      "enumSequenceIndex": "34"
+    },
+    {
+      "enumDescription": "PRV/HRCustomerNo",
+      "enumSequenceNumber": "36",
+      "enumSequenceIndex": "35"
+    },
+    {
+      "enumDescription": "LID/LeadIdPublisherGuid",
+      "enumSequenceNumber": "37",
+      "enumSequenceIndex": "36"
+    },
+    {
+      "enumDescription": "Cust/Manager",
+      "enumSequenceNumber": "38",
+      "enumSequenceIndex": "37"
+    },
+    {
+      "enumDescription": "Cust/SalesManager",
+      "enumSequenceNumber": "39",
+      "enumSequenceIndex": "38"
+    },
+    {
+      "enumDescription": "BIL/Primary",
+      "enumSequenceNumber": "40",
+      "enumSequenceIndex": "39"
+    },
+    {
+      "enumDescription": "BIL/Secondary",
+      "enumSequenceNumber": "41",
+      "enumSequenceIndex": "40"
+    },
+    {
+      "enumDescription": "Buyer/CreditLimit",
+      "enumSequenceNumber": "42",
+      "enumSequenceIndex": "41"
+    },
+    {
+      "enumDescription": "Notify/Phone",
+      "enumSequenceNumber": "43",
+      "enumSequenceIndex": "42"
+    },
+    {
+      "enumDescription": "Notify/Email",
+      "enumSequenceNumber": "44",
+      "enumSequenceIndex": "43"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "chargeBalance": [
+    {
+      "enumDescription": "250",
+      "enumSequenceNumber": "1",
+      "enumSequenceIndex": "0"
+    },
+    {
+      "enumDescription": "500",
+      "enumSequenceNumber": "2",
+      "enumSequenceIndex": "1"
+    },
+    {
+      "enumDescription": "1000",
+      "enumSequenceNumber": "3",
+      "enumSequenceIndex": "2"
+    },
+    {
+      "enumDescription": "2500",
+      "enumSequenceNumber": "4",
+      "enumSequenceIndex": "3"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="Suite Rerun Management PX UI" parallel="classes">
+
+    <test name="Chrome Browser, Rerun Management">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="version" value="any"/>
+        <parameter name="url" value=""/>
+        <classes>
+            <class name="tests.reports.rerun.RerunOverviewTest"/>
+            <class name="tests.reports.rerun.CreateRerunTaskTest"/>
+            <class name="tests.reports.rerun.CreateRerunTaskByFilterTest"/>
+            <class name="tests.reports.rerun.EditRerunTaskByFilterTest"/>
+            <class name="tests.reports.rerun.ProcessFiltersRerunTaskTest"/>
+        </classes>
+    </test>
+
+</suite>

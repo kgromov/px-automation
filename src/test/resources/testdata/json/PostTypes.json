@@ -1,0 +1,16 @@
+{
+  "postTypes": [
+    {
+      "enumDescription": "PING",
+      "enumSequenceNumber": "PING"
+    },
+    {
+      "enumDescription": "POST",
+      "enumSequenceNumber": "POST"
+    },
+    {
+      "enumDescription": "DIRECTPOST",
+      "enumSequenceNumber": "DIRECTPOST"
+    }
+  ]
+}

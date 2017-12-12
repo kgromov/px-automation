@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><ArrayOfKeyValueOfstringArrayOfEnumDtoAyLzvkr0 xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <KeyValueOfstringArrayOfEnumDtoAyLzvkr0>
+        <Key>InboundPostResultCodes</Key>
+        <Value xmlns:d3p1="http://schemas.datacontract.org/2004/07/PXUI.Models.User">
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>Partner login Failed API access denied</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>Partner login Failed, API access denied</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>Invalid Polk data</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>Invalid Polk data</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>Value is not in specified list</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>Value is not in specified list</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>Parameter value does not pass check</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>Parameter value does not pass check</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>Mandatory parameter is missing</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>Mandatory parameter is missing</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>Invalid or missing parameter value</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>Invalid or missing parameter value</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>Incomplete request data, section not found</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>Incomplete request data, section not found</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>Specified QuoteData section incomplete or Quotetype not implemented</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>Specified QuoteData section incomplete or Quotetype not implemented</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+        </Value>
+    </KeyValueOfstringArrayOfEnumDtoAyLzvkr0>
+</ArrayOfKeyValueOfstringArrayOfEnumDtoAyLzvkr0>

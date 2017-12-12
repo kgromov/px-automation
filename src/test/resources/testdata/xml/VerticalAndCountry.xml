@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?><ArrayOfKeyValueOfstringArrayOfEnumDtoAyLzvkr0 xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <KeyValueOfstringArrayOfEnumDtoAyLzvkr0>
+        <Key>VerticalAndCountry</Key>
+        <Value xmlns:d3p1="http://schemas.datacontract.org/2004/07/PXUI.Models.User">
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>United States - Auto</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>US-Auto</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>United States - AutoFinance</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>US-AutoFinance</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>United States - AutoMotive-New</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>US-AutoMotive-New</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>United States - AutoMotive</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>US-AutoMotive</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>United States - AutoWarranty</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>US-AutoWarranty</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>United States - BusinessLoans</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>US-BusinessLoans</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>United States - BuyerRegister</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>US-BuyerRegister</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>United States - DebtManagement</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>US-DebtManagement</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>United States - DMEBackPain</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>US-DMEBackPain</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>United States - DMEBloodThinnerMeter</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>US-DMEBloodThinnerMeter</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>United States - DMECatheters</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>US-DMECatheters</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>United States - DMECPAP</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>US-DMECPAP</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>United States - DMEDTS</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>US-DMEDTS</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>United States - DMEGloves</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>US-DMEGloves</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>United States - DMEKneePain</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>US-DMEKneePain</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>United States - DMETENS</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>US-DMETENS</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>United States - Education</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>US-Education</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>United States - Flooring</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>US-Flooring</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>United States - General</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>US-General</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>United States - Health</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>US-Health</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>United States - HearingAid</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>US-HearingAid</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>United States - Home</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>US-Home</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>United States - HomeSecurity</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>US-HomeSecurity</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>United States - Hvac</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>US-Hvac</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>United States - Life</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>US-Life</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>United States - LocalDealers</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>US-LocalDealers</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>United States - MedicalAlerts</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>US-MedicalAlerts</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>United States - Mortgage</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>US-Mortgage</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>United States - PayDayLoans</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>US-PayDayLoans</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>United States - PersonalLoans</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>US-PersonalLoans</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>United States - Pet</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>US-Pet</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>United States - PetFullQuote</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>US-PetFullQuote</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>United States - PetQuickQuote</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>US-PetQuickQuote</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>United States - PublisherRegister</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>US-PublisherRegister</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>United States - Roofing</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>US-Roofing</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>United States - Solar</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>US-Solar</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>United States - WalkinTubs</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>US-WalkinTubs</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>United States - Windows</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>US-Windows</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>Australia - DebtManagement</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>AU-DebtManagement</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>Australia - Life</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>AU-Life</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>Australia - Solar</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>AU-Solar</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>Belgium - Solar</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>BE-Solar</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>Canada - AutoFinance</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>CA-AutoFinance</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>Canada - General</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>CA-General</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>Colombia - Auto</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>CO-Auto</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>Germany - General</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>DE-General</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>ES - General</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>ES-General</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>Spain - General</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>IT-General</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>Netherlands - General</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>NL-General</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>Netherlands - Solar</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>NL-Solar</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>United Kingdom - DebtManagement</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>UK-DebtManagement</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>United Kingdom - General</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>UK-General</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>United Kingdom - Health</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>UK-Health</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>United Kingdom - Life</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>UK-Life</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>United Kingdom - Mortgage</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>UK-Mortgage</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+        </Value>
+    </KeyValueOfstringArrayOfEnumDtoAyLzvkr0>
+</ArrayOfKeyValueOfstringArrayOfEnumDtoAyLzvkr0>

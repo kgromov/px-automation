@@ -1,0 +1,19 @@
+{
+  "pingPostBidType": [
+    {
+      "enumDescription": "None",
+      "enumSequenceNumber": "0",
+      "enumSequenceIndex": "-1"
+    },
+    {
+      "enumDescription": "Calculation",
+      "enumSequenceNumber": "1",
+      "enumSequenceIndex": "0"
+    },
+    {
+      "enumDescription": "Correction",
+      "enumSequenceNumber": "2",
+      "enumSequenceIndex": "1"
+    }
+  ]
+}

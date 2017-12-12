@@ -1,0 +1,29 @@
+{
+  "maritalStatus": [
+    {
+      "enumDescription": "Divorced",
+      "enumSequenceNumber": "1",
+      "enumSequenceIndex": "0"
+    },
+    {
+      "enumDescription": "Married",
+      "enumSequenceNumber": "2",
+      "enumSequenceIndex": "1"
+    },
+    {
+      "enumDescription": "Separated",
+      "enumSequenceNumber": "3",
+      "enumSequenceIndex": "2"
+    },
+    {
+      "enumDescription": "Single",
+      "enumSequenceNumber": "4",
+      "enumSequenceIndex": "3"
+    },
+    {
+      "enumDescription": "Widowed",
+      "enumSequenceNumber": "5",
+      "enumSequenceIndex": "4"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "authenticationMethod": [
+    {
+      "enumDescription": "Username",
+      "enumSequenceNumber": "Username"
+    },
+    {
+      "enumDescription": "APIKey",
+      "enumSequenceNumber": "APIKey"
+    },
+    {
+      "enumDescription": "Header",
+      "enumSequenceNumber": "Header"
+    },
+    {
+      "enumDescription": "none",
+      "enumSequenceNumber": "None"
+    }
+  ]
+}

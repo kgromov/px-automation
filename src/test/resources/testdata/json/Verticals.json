@@ -1,0 +1,244 @@
+{
+  "verticals": [
+    {
+      "enumDescription": "AUTO",
+      "enumSequenceNumber": "2",
+      "enumMask": "1",
+      "enumSequenceIndex": "1"
+    },
+    {
+      "enumDescription": "HEALTH",
+      "enumSequenceNumber": "3",
+      "enumMask": "2",
+      "enumSequenceIndex": "2"
+    },
+    {
+      "enumDescription": "AUTOMOTIVE",
+      "enumSequenceNumber": "5",
+      "enumMask": "8",
+      "enumSequenceIndex": "4"
+    },
+    {
+      "enumDescription": "HOME",
+      "enumSequenceNumber": "6",
+      "enumMask": "16",
+      "enumSequenceIndex": "5"
+    },
+    {
+      "enumDescription": "AUTOMOTIVE-NEW",
+      "enumSequenceNumber": "7",
+      "enumMask": "32",
+      "enumSequenceIndex": "6"
+    },
+    {
+      "enumDescription": "LIFE",
+      "enumSequenceNumber": "8",
+      "enumMask": "64",
+      "enumSequenceIndex": "7"
+    },
+    {
+      "enumDescription": "HOMESECURITY",
+      "enumSequenceNumber": "11",
+      "enumMask": "512",
+      "enumSequenceIndex": "10"
+    },
+    {
+      "enumDescription": "AUTOFINANCE",
+      "enumSequenceNumber": "12",
+      "enumMask": "1024",
+      "enumSequenceIndex": "11"
+    },
+    {
+      "enumDescription": "MEDICALALERTS",
+      "enumSequenceNumber": "15",
+      "enumMask": "8192",
+      "enumSequenceIndex": "14"
+    },
+    {
+      "enumDescription": "MORTGAGE",
+      "enumSequenceNumber": "16",
+      "enumMask": "16384",
+      "enumSequenceIndex": "15"
+    },
+    {
+      "enumDescription": "PETLIABILITY",
+      "enumSequenceNumber": "17",
+      "enumMask": "32768",
+      "enumSequenceIndex": "16"
+    },
+    {
+      "enumDescription": "PETLIABILITYQUICK",
+      "enumSequenceNumber": "18",
+      "enumMask": "65536",
+      "enumSequenceIndex": "17"
+    },
+    {
+      "enumDescription": "SOLAR",
+      "enumSequenceNumber": "19",
+      "enumMask": "131072",
+      "enumSequenceIndex": "18"
+    },
+    {
+      "enumDescription": "GENERAL",
+      "enumSequenceNumber": "20",
+      "enumMask": "262144",
+      "enumSequenceIndex": "19"
+    },
+    {
+      "enumDescription": "ROOFING",
+      "enumSequenceNumber": "21",
+      "enumMask": "524288",
+      "enumSequenceIndex": "20"
+    },
+    {
+      "enumDescription": "WINDOWS",
+      "enumSequenceNumber": "22",
+      "enumMask": "1048576",
+      "enumSequenceIndex": "21"
+    },
+    {
+      "enumDescription": "HVAC",
+      "enumSequenceNumber": "23",
+      "enumMask": "2097152",
+      "enumSequenceIndex": "22"
+    },
+    {
+      "enumDescription": "AUTOWARRANTY",
+      "enumSequenceNumber": "24",
+      "enumMask": "4194304",
+      "enumSequenceIndex": "23"
+    },
+    {
+      "enumDescription": "PERSONALLOANS",
+      "enumSequenceNumber": "25",
+      "enumMask": "8388608",
+      "enumSequenceIndex": "24"
+    },
+    {
+      "enumDescription": "BUSINESSLOANS",
+      "enumSequenceNumber": "26",
+      "enumMask": "16777216",
+      "enumSequenceIndex": "25"
+    },
+    {
+      "enumDescription": "DEBTMANAGEMENT",
+      "enumSequenceNumber": "27",
+      "enumMask": "33554432",
+      "enumSequenceIndex": "26"
+    },
+    {
+      "enumDescription": "EDUCATION",
+      "enumSequenceNumber": "28",
+      "enumMask": "67108864",
+      "enumSequenceIndex": "27"
+    },
+    {
+      "enumDescription": "PAYDAYLOANS",
+      "enumSequenceNumber": "29",
+      "enumMask": "134217728",
+      "enumSequenceIndex": "28"
+    },
+    {
+      "enumDescription": "LOCALDEALERS",
+      "enumSequenceNumber": "30",
+      "enumMask": "268435456",
+      "enumSequenceIndex": "29"
+    },
+    {
+      "enumDescription": "WALKINTUBS",
+      "enumSequenceNumber": "31",
+      "enumMask": "536870912",
+      "enumSequenceIndex": "30"
+    },
+    {
+      "enumDescription": "DMEDTS",
+      "enumSequenceNumber": "32",
+      "enumMask": "1073741824",
+      "enumSequenceIndex": "31"
+    },
+    {
+      "enumDescription": "DMETENS",
+      "enumSequenceNumber": "33",
+      "enumMask": "2147483648",
+      "enumSequenceIndex": "32"
+    },
+    {
+      "enumDescription": "DMEGLOVES",
+      "enumSequenceNumber": "34",
+      "enumMask": "4294967296",
+      "enumSequenceIndex": "33"
+    },
+    {
+      "enumDescription": "DMECPAP",
+      "enumSequenceNumber": "35",
+      "enumMask": "8589934592",
+      "enumSequenceIndex": "34"
+    },
+    {
+      "enumDescription": "DMEKNEEPAIN",
+      "enumSequenceNumber": "36",
+      "enumMask": "17179869184",
+      "enumSequenceIndex": "35"
+    },
+    {
+      "enumDescription": "DMEBACKPAIN",
+      "enumSequenceNumber": "37",
+      "enumMask": "34359738368",
+      "enumSequenceIndex": "36"
+    },
+    {
+      "enumDescription": "DMECATHETERS",
+      "enumSequenceNumber": "38",
+      "enumMask": "68719476736",
+      "enumSequenceIndex": "37"
+    },
+    {
+      "enumDescription": "HEARINGAID",
+      "enumSequenceNumber": "39",
+      "enumMask": "137438953472",
+      "enumSequenceIndex": "38"
+    },
+    {
+      "enumDescription": "DMEBLOODTHINNERMETER",
+      "enumSequenceNumber": "40",
+      "enumMask": "274877906944",
+      "enumSequenceIndex": "39"
+    },
+    {
+      "enumDescription": "FLOORING",
+      "enumSequenceNumber": "41",
+      "enumMask": "549755813888",
+      "enumSequenceIndex": "40"
+    },
+    {
+      "enumDescription": "PHARMACY",
+      "enumSequenceNumber": "42",
+      "enumMask": "1099511627776",
+      "enumSequenceIndex": "41"
+    },
+    {
+      "enumDescription": "ADJUSTABLEBEDS",
+      "enumSequenceNumber": "43",
+      "enumMask": "2199023255552",
+      "enumSequenceIndex": "42"
+    },
+    {
+      "enumDescription": "BATHLINERS",
+      "enumSequenceNumber": "44",
+      "enumMask": "4398046511104",
+      "enumSequenceIndex": "43"
+    },
+    {
+      "enumDescription": "PROPERTYCASUALTYINSURANCE",
+      "enumSequenceNumber": "45",
+      "enumMask": "8796093022208",
+      "enumSequenceIndex": "44"
+    },
+    {
+      "enumDescription": "HEALTHU65",
+      "enumSequenceNumber": "46",
+      "enumMask": "17592186044416",
+      "enumSequenceIndex": "45"
+    }
+  ]
+}

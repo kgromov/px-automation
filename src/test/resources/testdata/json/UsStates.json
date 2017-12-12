@@ -1,0 +1,310 @@
+{
+  "usStates": [
+    {
+      "enumDescription": "AL",
+      "enumSequenceNumber": "1",
+      "enumFullDescription": "Alabama",
+      "enumSequenceIndex": "0"
+    },
+    {
+      "enumDescription": "AK",
+      "enumSequenceNumber": "2",
+      "enumFullDescription": "Alaska",
+      "enumSequenceIndex": "1"
+    },
+    {
+      "enumDescription": "AZ",
+      "enumSequenceNumber": "3",
+      "enumFullDescription": "Arizona",
+      "enumSequenceIndex": "2"
+    },
+    {
+      "enumDescription": "AR",
+      "enumSequenceNumber": "4",
+      "enumFullDescription": "Arkansas",
+      "enumSequenceIndex": "3"
+    },
+    {
+      "enumDescription": "CA",
+      "enumSequenceNumber": "5",
+      "enumFullDescription": "California",
+      "enumSequenceIndex": "4"
+    },
+    {
+      "enumDescription": "CO",
+      "enumSequenceNumber": "6",
+      "enumFullDescription": "Colorado",
+      "enumSequenceIndex": "5"
+    },
+    {
+      "enumDescription": "CT",
+      "enumSequenceNumber": "7",
+      "enumFullDescription": "Connecticut",
+      "enumSequenceIndex": "6"
+    },
+    {
+      "enumDescription": "DE",
+      "enumSequenceNumber": "8",
+      "enumFullDescription": "Delaware",
+      "enumSequenceIndex": "7"
+    },
+    {
+      "enumDescription": "DC",
+      "enumSequenceNumber": "9",
+      "enumFullDescription": "District of Columbia",
+      "enumSequenceIndex": "8"
+    },
+    {
+      "enumDescription": "FL",
+      "enumSequenceNumber": "10",
+      "enumFullDescription": "Florida",
+      "enumSequenceIndex": "9"
+    },
+    {
+      "enumDescription": "GA",
+      "enumSequenceNumber": "11",
+      "enumFullDescription": "Georgia",
+      "enumSequenceIndex": "10"
+    },
+    {
+      "enumDescription": "HI",
+      "enumSequenceNumber": "12",
+      "enumFullDescription": "Hawaii",
+      "enumSequenceIndex": "11"
+    },
+    {
+      "enumDescription": "ID",
+      "enumSequenceNumber": "13",
+      "enumFullDescription": "Idaho",
+      "enumSequenceIndex": "12"
+    },
+    {
+      "enumDescription": "IL",
+      "enumSequenceNumber": "14",
+      "enumFullDescription": "Illinois",
+      "enumSequenceIndex": "13"
+    },
+    {
+      "enumDescription": "IN",
+      "enumSequenceNumber": "15",
+      "enumFullDescription": "Indiana",
+      "enumSequenceIndex": "14"
+    },
+    {
+      "enumDescription": "IA",
+      "enumSequenceNumber": "16",
+      "enumFullDescription": "Iowa",
+      "enumSequenceIndex": "15"
+    },
+    {
+      "enumDescription": "KS",
+      "enumSequenceNumber": "17",
+      "enumFullDescription": "Kansas",
+      "enumSequenceIndex": "16"
+    },
+    {
+      "enumDescription": "KY",
+      "enumSequenceNumber": "18",
+      "enumFullDescription": "Kentucky",
+      "enumSequenceIndex": "17"
+    },
+    {
+      "enumDescription": "LA",
+      "enumSequenceNumber": "19",
+      "enumFullDescription": "Louisiana",
+      "enumSequenceIndex": "18"
+    },
+    {
+      "enumDescription": "ME",
+      "enumSequenceNumber": "20",
+      "enumFullDescription": "Maine",
+      "enumSequenceIndex": "19"
+    },
+    {
+      "enumDescription": "MD",
+      "enumSequenceNumber": "21",
+      "enumFullDescription": "Maryland",
+      "enumSequenceIndex": "20"
+    },
+    {
+      "enumDescription": "MA",
+      "enumSequenceNumber": "22",
+      "enumFullDescription": "Massachusetts",
+      "enumSequenceIndex": "21"
+    },
+    {
+      "enumDescription": "MI",
+      "enumSequenceNumber": "23",
+      "enumFullDescription": "Michigan",
+      "enumSequenceIndex": "22"
+    },
+    {
+      "enumDescription": "MN",
+      "enumSequenceNumber": "24",
+      "enumFullDescription": "Minnesota",
+      "enumSequenceIndex": "23"
+    },
+    {
+      "enumDescription": "MS",
+      "enumSequenceNumber": "25",
+      "enumFullDescription": "Mississippi",
+      "enumSequenceIndex": "24"
+    },
+    {
+      "enumDescription": "MO",
+      "enumSequenceNumber": "26",
+      "enumFullDescription": "Missouri",
+      "enumSequenceIndex": "25"
+    },
+    {
+      "enumDescription": "MT",
+      "enumSequenceNumber": "27",
+      "enumFullDescription": "Montana",
+      "enumSequenceIndex": "26"
+    },
+    {
+      "enumDescription": "NE",
+      "enumSequenceNumber": "28",
+      "enumFullDescription": "Nebraska",
+      "enumSequenceIndex": "27"
+    },
+    {
+      "enumDescription": "NV",
+      "enumSequenceNumber": "29",
+      "enumFullDescription": "Nevada",
+      "enumSequenceIndex": "28"
+    },
+    {
+      "enumDescription": "NH",
+      "enumSequenceNumber": "30",
+      "enumFullDescription": "New Hampshire",
+      "enumSequenceIndex": "29"
+    },
+    {
+      "enumDescription": "NJ",
+      "enumSequenceNumber": "31",
+      "enumFullDescription": "New Jersey",
+      "enumSequenceIndex": "30"
+    },
+    {
+      "enumDescription": "NM",
+      "enumSequenceNumber": "32",
+      "enumFullDescription": "New Mexico",
+      "enumSequenceIndex": "31"
+    },
+    {
+      "enumDescription": "NY",
+      "enumSequenceNumber": "33",
+      "enumFullDescription": "New York",
+      "enumSequenceIndex": "32"
+    },
+    {
+      "enumDescription": "NC",
+      "enumSequenceNumber": "34",
+      "enumFullDescription": "North Carolina",
+      "enumSequenceIndex": "33"
+    },
+    {
+      "enumDescription": "ND",
+      "enumSequenceNumber": "35",
+      "enumFullDescription": "North Dakota",
+      "enumSequenceIndex": "34"
+    },
+    {
+      "enumDescription": "OH",
+      "enumSequenceNumber": "36",
+      "enumFullDescription": "Ohio",
+      "enumSequenceIndex": "35"
+    },
+    {
+      "enumDescription": "OK",
+      "enumSequenceNumber": "37",
+      "enumFullDescription": "Oklahoma",
+      "enumSequenceIndex": "36"
+    },
+    {
+      "enumDescription": "OR",
+      "enumSequenceNumber": "38",
+      "enumFullDescription": "Oregon",
+      "enumSequenceIndex": "37"
+    },
+    {
+      "enumDescription": "PA",
+      "enumSequenceNumber": "39",
+      "enumFullDescription": "Pennsylvania",
+      "enumSequenceIndex": "38"
+    },
+    {
+      "enumDescription": "RI",
+      "enumSequenceNumber": "40",
+      "enumFullDescription": "Rhode Island",
+      "enumSequenceIndex": "39"
+    },
+    {
+      "enumDescription": "SC",
+      "enumSequenceNumber": "41",
+      "enumFullDescription": "South Carolina",
+      "enumSequenceIndex": "40"
+    },
+    {
+      "enumDescription": "SD",
+      "enumSequenceNumber": "42",
+      "enumFullDescription": "South Dakota",
+      "enumSequenceIndex": "41"
+    },
+    {
+      "enumDescription": "TN",
+      "enumSequenceNumber": "43",
+      "enumFullDescription": "Tennessee",
+      "enumSequenceIndex": "42"
+    },
+    {
+      "enumDescription": "TX",
+      "enumSequenceNumber": "44",
+      "enumFullDescription": "Texas",
+      "enumSequenceIndex": "43"
+    },
+    {
+      "enumDescription": "UT",
+      "enumSequenceNumber": "45",
+      "enumFullDescription": "Utah",
+      "enumSequenceIndex": "44"
+    },
+    {
+      "enumDescription": "VT",
+      "enumSequenceNumber": "46",
+      "enumFullDescription": "Vermont",
+      "enumSequenceIndex": "45"
+    },
+    {
+      "enumDescription": "VA",
+      "enumSequenceNumber": "47",
+      "enumFullDescription": "Virginia",
+      "enumSequenceIndex": "46"
+    },
+    {
+      "enumDescription": "WA",
+      "enumSequenceNumber": "48",
+      "enumFullDescription": "Washington",
+      "enumSequenceIndex": "47"
+    },
+    {
+      "enumDescription": "WV",
+      "enumSequenceNumber": "49",
+      "enumFullDescription": "West Virginia",
+      "enumSequenceIndex": "48"
+    },
+    {
+      "enumDescription": "WI",
+      "enumSequenceNumber": "50",
+      "enumFullDescription": "Wisconsin",
+      "enumSequenceIndex": "49"
+    },
+    {
+      "enumDescription": "WY",
+      "enumSequenceNumber": "51",
+      "enumFullDescription": "Wyoming",
+      "enumSequenceIndex": "50"
+    }
+  ]
+}

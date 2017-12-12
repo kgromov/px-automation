@@ -1,0 +1,40 @@
+{
+  "paymentStatus": [
+    {
+      "enumDescription": "New",
+      "enumSequenceNumber": "1",
+      "enumMask": "1",
+      "enumSequenceIndex": "0"
+    },
+    {
+      "enumDescription": "Processing",
+      "enumSequenceNumber": "2",
+      "enumMask": "2",
+      "enumSequenceIndex": "1"
+    },
+    {
+      "enumDescription": "Confirmed",
+      "enumSequenceNumber": "3",
+      "enumMask": "4",
+      "enumSequenceIndex": "2"
+    },
+    {
+      "enumDescription": "Canceled",
+      "enumSequenceNumber": "4",
+      "enumMask": "8",
+      "enumSequenceIndex": "3"
+    },
+    {
+      "enumDescription": "Error",
+      "enumSequenceNumber": "5",
+      "enumMask": "16",
+      "enumSequenceIndex": "4"
+    },
+    {
+      "enumDescription": "Paid",
+      "enumSequenceNumber": "6",
+      "enumMask": "32",
+      "enumSequenceIndex": "5"
+    }
+  ]
+}

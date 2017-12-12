@@ -1,0 +1,12 @@
+{
+  "convertedOfferTypes": [
+    {
+      "enumDescription": "Network Offer",
+      "enumSequenceNumber": "network"
+    },
+    {
+      "enumDescription": "Offer Url",
+      "enumSequenceNumber": "url"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "report": "buyerSummary/report",
+    "header": {
+      "roi": "Return on Investment, which is the buyer's gain relative to the cost of the lead purchased from you, calculated as (Buyer Revenue - Payout) / Payout * 100%."
+    },
+    "data": [
+      {
+        "roi": {
+          "N/A": "The Goal was not set for this Campaign.",
+          "formula": "(<totalProfit> - <payout>) / <payout> * 100% = <roi>"
+        }
+      }
+    ]
+  },
+  {
+    "report": "buyerCampaign",
+    "header": {
+      "roi": "Return on Investment, which is the buyer's gain relative to the cost of the lead purchased from you, calculated as (Buyer Revenue - Payout) / Payout * 100%."
+    },
+    "data": [
+      {
+        "roi": {
+          "N/A": "The Goal was not set for this Campaign.",
+          "formula": "(<totalProfit> - <payout>) / <payout> * 100% = <roi>"
+        }
+      }
+    ]
+  },
+  {
+    "report": "buyerPerformance/report",
+    "header": {
+      "roi": "Return on Investment, which is the buyer's gain relative to the cost of the lead purchased from you, calculated as (Buyer Revenue - Revenue) / Revenue * 100%."
+    },
+    "data": [
+      {
+        "roi": {
+          "N/A": "The Goal was not set for this Campaign.",
+          "formula": "(<totalProfit> - <spend >) / <spend > * 100% = <roi>"
+        }
+      }
+    ]
+  }
+]

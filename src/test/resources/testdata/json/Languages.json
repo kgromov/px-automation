@@ -1,0 +1,34 @@
+{
+  "languages": [
+    {
+      "enumDescription": "DE-DE",
+      "enumSequenceNumber": "1",
+      "enumFullDescription": "German (Germany)",
+      "enumSequenceIndex": "0"
+    },
+    {
+      "enumDescription": "EN-US",
+      "enumSequenceNumber": "2",
+      "enumFullDescription": "English (U.S.)",
+      "enumSequenceIndex": "1"
+    },
+    {
+      "enumDescription": "FR-FR",
+      "enumSequenceNumber": "3",
+      "enumFullDescription": "French (France)",
+      "enumSequenceIndex": "2"
+    },
+    {
+      "enumDescription": "NL-NL",
+      "enumSequenceNumber": "4",
+      "enumFullDescription": "Dutch (Netherlands)",
+      "enumSequenceIndex": "3"
+    },
+    {
+      "enumDescription": "SP-SP",
+      "enumSequenceNumber": "5",
+      "enumFullDescription": "Spanish (Spain)",
+      "enumSequenceIndex": "4"
+    }
+  ]
+}

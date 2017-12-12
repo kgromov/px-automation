@@ -1,0 +1,23 @@
+{
+    "publisherId": 411,
+    "publisherName": "Publisher Name test crud 2",
+    "modifyDate": "2017-07-03T08:17:04",
+    "margin": 75,
+    "minPrice": 0,
+    "escoreCheckPercentage": 100,
+    "spending": 0,
+    "startBalance": 0,
+    "maxNegativeBalance": 0,
+    "description": "411",
+    "qiqScore": 0,
+    "leadReturnPercentage": "-1",
+    "fraudCheckPercentage": 0,
+    "publisherTier": "Platinum",
+    "type": "Callcenter",
+    "accessMode": "StandardRevShare",
+    "leadingBalance": "PublisherTotal",
+    "addUpsellToBalance": false,
+    "fixedPricing": false,
+    "status": "Published",   
+    "publisherGuid": "6d31dd9b-7b25-4bf6-9d44-dc7239f36aa1"
+}

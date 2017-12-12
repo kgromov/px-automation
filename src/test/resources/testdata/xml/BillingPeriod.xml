@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><ArrayOfKeyValueOfstringArrayOfEnumDtoAyLzvkr0 xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <KeyValueOfstringArrayOfEnumDtoAyLzvkr0>
+        <Key>BillingPeriod</Key>
+        <Value xmlns:d3p1="http://schemas.datacontract.org/2004/07/PXUI.Models.User">
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>Day</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask>1</d3p1:EnumMask>
+                <d3p1:EnumSequenceNumber>1</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>Week</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask>2</d3p1:EnumMask>
+                <d3p1:EnumSequenceNumber>2</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>SemiMonth</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask>4</d3p1:EnumMask>
+                <d3p1:EnumSequenceNumber>3</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>Month</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription i:nil="true"/>
+                <d3p1:EnumMask>8</d3p1:EnumMask>
+                <d3p1:EnumSequenceNumber>4</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+        </Value>
+    </KeyValueOfstringArrayOfEnumDtoAyLzvkr0>
+</ArrayOfKeyValueOfstringArrayOfEnumDtoAyLzvkr0>

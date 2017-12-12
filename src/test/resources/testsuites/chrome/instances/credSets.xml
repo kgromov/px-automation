@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="Suite CredSets PX UI">
+
+    <test name="Chrome Browser, CredSets">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="version" value="any"/>
+        <parameter name="url" value=""/>
+        <classes>
+            <class name="tests.objects.credSets.CredSetsOverviewTest"/>
+            <class name="tests.objects.credSets.CreateCredSetTest"/>
+            <class name="tests.objects.credSets.EditCredSetTest"/>
+        </classes>
+    </test>
+
+</suite>

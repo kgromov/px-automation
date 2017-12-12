@@ -1,0 +1,34 @@
+{
+  "minBalance": [
+    {
+      "enumDescription": "50",
+      "enumSequenceNumber": "1",
+      "enumSequenceIndex": "0"
+    },
+    {
+      "enumDescription": "100",
+      "enumSequenceNumber": "2",
+      "enumSequenceIndex": "1"
+    },
+    {
+      "enumDescription": "150",
+      "enumSequenceNumber": "3",
+      "enumSequenceIndex": "2"
+    },
+    {
+      "enumDescription": "250",
+      "enumSequenceNumber": "4",
+      "enumSequenceIndex": "3"
+    },
+    {
+      "enumDescription": "500",
+      "enumSequenceNumber": "5",
+      "enumSequenceIndex": "4"
+    },
+    {
+      "enumDescription": "1000",
+      "enumSequenceNumber": "6",
+      "enumSequenceIndex": "5"
+    }
+  ]
+}

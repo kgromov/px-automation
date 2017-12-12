@@ -1,0 +1,12 @@
+{
+  "requestType": [
+    {
+      "enumDescription": "GET",
+      "enumSequenceNumber": "GET"
+    },
+    {
+      "enumDescription": "POST",
+      "enumSequenceNumber": "POST"
+    }
+  ]
+}

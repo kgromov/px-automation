@@ -1,0 +1,98 @@
+{
+	"verticals": [{
+		"enumDescription": "None",
+		"enumSequenceNumber": "1",
+		"enumMask": "0",
+		"enumSequenceIndex": "0"
+	},
+	{
+		"enumDescription": "AUTO",
+		"enumSequenceNumber": "2",
+		"enumMask": "1",
+		"enumSequenceIndex": "1"
+	},
+	{
+		"enumDescription": "HEALTH",
+		"enumSequenceNumber": "3",
+		"enumMask": "2",
+		"enumSequenceIndex": "2"
+	},
+	{
+		"enumDescription": "AUTOMOTIVE",
+		"enumSequenceNumber": "5",
+		"enumMask": "8",
+		"enumSequenceIndex": "4"
+	},
+	{
+		"enumDescription": "HOME",
+		"enumSequenceNumber": "6",
+		"enumMask": "16",
+		"enumSequenceIndex": "5"
+	},
+	{
+		"enumDescription": "AUTOMOTIVE-NEW",
+		"enumSequenceNumber": "7",
+		"enumMask": "32",
+		"enumSequenceIndex": "6"
+	},
+	{
+		"enumDescription": "LIFE",
+		"enumSequenceNumber": "8",
+		"enumMask": "64",
+		"enumSequenceIndex": "7"
+	},
+	{
+		"enumDescription": "HOMESECURITY",
+		"enumSequenceNumber": "11",
+		"enumMask": "512",
+		"enumSequenceIndex": "10"
+	},
+	{
+		"enumDescription": "AUTOFINANCE",
+		"enumSequenceNumber": "12",
+		"enumMask": "1024",
+		"enumSequenceIndex": "11"
+	},
+	{
+		"enumDescription": "MEDICALALERTS",
+		"enumSequenceNumber": "15",
+		"enumMask": "8192",
+		"enumSequenceIndex": "14"
+	},
+	{
+		"enumDescription": "MORTGAGE",
+		"enumSequenceNumber": "16",
+		"enumMask": "16384",
+		"enumSequenceIndex": "15"
+	},
+	{
+		"enumDescription": "PETLIABILITY",
+		"enumSequenceNumber": "17",
+		"enumMask": "32768",
+		"enumSequenceIndex": "16"
+	},
+	{
+		"enumDescription": "PETLIABILITYQUICK",
+		"enumSequenceNumber": "18",
+		"enumMask": "65536",
+		"enumSequenceIndex": "17"
+	},
+	{
+		"enumDescription": "SOLAR",
+		"enumSequenceNumber": "19",
+		"enumMask": "131072",
+		"enumSequenceIndex": "18"
+	},
+	{
+		"enumDescription": "GENERAL",
+		"enumSequenceNumber": "20",
+		"enumMask": "262144",
+		"enumSequenceIndex": "19"
+	},
+	{
+		"enumDescription": "ROOFING",
+		"enumSequenceNumber": "21",
+		"enumMask": "524288",
+		"enumSequenceIndex": "20"
+	}]
+}

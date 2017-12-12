@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="UTF-8"?><ArrayOfKeyValueOfstringArrayOfEnumDtoAyLzvkr0 xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <KeyValueOfstringArrayOfEnumDtoAyLzvkr0>
+        <Key>Currencies</Key>
+        <Value xmlns:d3p1="http://schemas.datacontract.org/2004/07/PXUI.Models.User">
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>AFN</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Afghani</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>1</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>DZD</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>AlgerianDinar</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>2</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>ARS</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>ArgentinePeso</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>3</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>AMD</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>ArmenianDram</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>4</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>AWG</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>ArubanGuilder</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>5</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>AUD</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>AustralianDollar</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>6</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>AZN</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>AzerbaijanianManat</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>7</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>BSD</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>BahamianDollar</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>8</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>BHD</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>BahrainiDinar</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>9</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>THB</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Baht</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>10</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>PAB</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Balboa</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>11</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>BBD</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>BarbadosDollar</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>12</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>BYR</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>BelarusianRuble</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>13</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>BZD</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>BelizeDollar</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>14</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>BMD</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>BermudianDollar</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>15</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>VEF</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Bolivar</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>16</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>BOB</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Boliviano</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>17</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>BRL</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>BrazilianReal</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>18</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>BND</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>BruneiDollar</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>19</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>BGN</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>BulgarianLev</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>20</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>BIF</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>BurundiFranc</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>21</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>CAD</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>CanadianDollar</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>22</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>CVE</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>CapeVerdeEscudo</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>23</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>KYD</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>CaymanIslandsDollar</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>24</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>GHS</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Cedi</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>25</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>XOF</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>CFAFrancBCEAO</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>26</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>XAF</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>CFAFrancBEAC</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>27</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>XPF</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>CFPFranc</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>28</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>CLP</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>ChileanPeso</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>29</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>COP</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>ColombianPeso</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>30</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>KMF</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>ComoroFranc</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>31</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>BAM</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>ConvertibleMarks</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>32</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>NIO</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>CordobaOro</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>33</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>CRC</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>CostaRicanColon</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>34</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>HRK</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>CroatianKuna</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>35</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>CUP</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>CubanPeso</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>36</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>CYP</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>CyprusPound</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>37</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>CZK</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>CzechKoruna</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>38</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>GMD</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Dalasi</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>39</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>DKK</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>DanishKrone</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>40</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>MKD</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Denar</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>41</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>DJF</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>DjiboutiFranc</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>42</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>STD</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Dobra</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>43</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>DOP</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>DominicanPeso</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>44</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>VND</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Dong</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>45</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>XCD</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>EastCaribbeanDollar</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>46</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>EGP</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>EgyptianPound</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>47</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>SVC</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>ElSalvadorColon</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>48</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>ETB</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>EthiopianBirr</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>49</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>EUR</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Euro</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>50</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>FKP</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>FalklandIslandsPound</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>51</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>FJD</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>FijiDollar</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>52</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>HUF</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Forint</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>53</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>CDF</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>FrancCongolais</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>54</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>GIP</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>GibraltarPound</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>55</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>HTG</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Gourde</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>56</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>PYG</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Guarani</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>57</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>GNF</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>GuineaFranc</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>58</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>GWP</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Guinea-BissauPeso</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>59</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>GYD</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>GuyanaDollar</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>60</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>HKD</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>HongKongDollar</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>61</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>UAH</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Hryvnia</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>62</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>ISK</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>IcelandKrona</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>63</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>INR</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>IndianRupee</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>64</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>IRR</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>IranianRial</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>65</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>IQD</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>IraqiDinar</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>66</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>JMD</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>JamaicanDollar</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>67</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>JOD</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>JordanianDinar</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>68</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>KES</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>KenyanShilling</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>69</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>PGK</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Kina</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>70</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>LAK</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Kip</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>71</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>EEK</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Kroon</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>72</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>KWD</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>KuwaitiDinar</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>73</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>MWK</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Kwacha</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>74</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>ZMW</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Kwacha</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>75</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>AOA</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Kwanza</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>76</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>MMK</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Kyat</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>77</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>GEL</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Lari</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>78</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>LVL</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>LatvianLats</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>79</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>LBP</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>LebanesePound</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>80</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>HNL</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Lempira</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>82</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>SLL</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Leone</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>83</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>LRD</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>LiberianDollar</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>84</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>LYD</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>LibyanDinar</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>85</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>SZL</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Lilangeni</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>86</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>LTL</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>LithuanianLitas</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>87</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>LSL</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Loti</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>88</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>MGA</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>MalagascyAriary</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>89</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>MYR</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>MalaysianRinggit</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>90</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>MTL</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>MalteseLira</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>91</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>TMT</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Manat</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>92</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>MUR</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>MauritiusRupee</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>93</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>MZN</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Metical</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>94</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>MXN</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>MexicanPeso</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>95</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>MXV</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>MexicanUnidaddeInversion(UDI)</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>96</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>MDL</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>MoldovanLeu</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>97</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>MAD</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>MoroccanDirham</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>98</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>BOV</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Mvdol</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>99</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>NGN</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Naira</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>100</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>ERN</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Nakfa</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>101</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>NAD</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>NamibianDollar</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>102</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>NPR</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>NepaleseRupee</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>103</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>ANG</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>NetherlandsAntillianGuilder</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>104</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>ILS</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>NewIsraeliSheqel</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>105</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>RON</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>NewLeu</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>106</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>TWD</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>NewTaiwanDollar</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>107</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>TRY</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>NewTurkishLira</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>108</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>NZD</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>NewZealandDollar</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>109</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>BTN</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Ngultrum</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>110</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>KPW</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>NorthKoreanWon</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>111</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>NOK</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>NorwegianKrone</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>112</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>PEN</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>NuevoSol</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>113</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>ROL</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>OldLeu</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>114</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>MRO</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Ouguiya</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>115</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>TOP</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Pa'anga</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>116</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>PKR</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>PakistanRupee</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>117</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>MOP</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Pataca</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>118</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>UYU</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>PesoUruguayo</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>119</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>PHP</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>PhilippinePeso</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>120</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>GBP</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>PoundSterling</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>121</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>BWP</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Pula</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>122</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>QAR</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>QatariRial</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>123</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>GTQ</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Quetzal</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>124</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>ZAR</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Rand</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>125</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>OMR</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>RialOmani</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>126</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>KHR</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Riel</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>127</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>MVR</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Rufiyaa</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>128</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>IDR</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Rupiah</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>129</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>RUB</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>RussianRuble</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>130</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>RWF</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>RwandaFranc</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>131</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>SHP</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>SaintHelenaPound</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>132</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>SAR</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>SaudiRiyal</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>133</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>XDR</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>SDR</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>134</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>RSD</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>SerbianDinar</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>135</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>SCR</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>SeychellesRupee</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>136</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>SGD</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>SingaporeDollar</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>137</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>SKK</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>SlovakKoruna</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>138</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>SBD</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>SolomonIslandsDollar</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>139</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>KGS</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Som</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>140</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>SOS</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>SomaliShilling</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>141</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>TJS</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Somoni</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>142</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>LKR</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>SriLankaRupee</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>143</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>SDG</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>SudaneseDinar</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>144</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>SRD</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>SurinamDollar</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>145</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>SEK</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>SwedishKrona</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>146</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>CHF</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>SwissFranc</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>147</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>SYP</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>SyrianPound</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>148</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>BDT</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Taka</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>149</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>WST</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Tala</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>150</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>TZS</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>TanzanianShilling</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>151</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>KZT</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Tenge</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>152</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>SIT</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Tolar</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>153</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>TTD</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>TrinidadandTobagoDollar</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>154</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>MNT</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Tugrik</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>155</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>TND</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>TunisianDinar</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>156</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>AED</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>UAEDirham</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>157</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>UGX</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>UgandaShilling</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>158</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>COU</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>UnidaddeValorReal</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>159</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>CLF</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Unidadesdeformento</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>160</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>USD</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>USDollar</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>161</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>UZS</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>UzbekistanSum</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>162</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>VUV</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Vatu</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>163</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>CHE</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>WIREuro</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>164</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>CHW</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>WIRFranc</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>165</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>KRW</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Won</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>166</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>YER</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>YemeniRial</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>167</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>JPY</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Yen</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>168</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>CNY</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>YuanRenminbi</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>169</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>ZWL</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>ZimbabweDollar</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>170</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>PLN</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Zloty</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>171</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+        </Value>
+    </KeyValueOfstringArrayOfEnumDtoAyLzvkr0>
+</ArrayOfKeyValueOfstringArrayOfEnumDtoAyLzvkr0>

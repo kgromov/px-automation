@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="Suite Buyer Campaign Report under Buyer user PX UI" parallel="classes">
+
+    <test name="Chrome Browser, Buyer Campaign Report under Buyer user">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="version" value="any"/>
+        <parameter name="url" value=""/>
+        <classes>
+            <class name="tests.reports.buyers.BuyerCampaignUnderBuyerTest"/>
+        </classes>
+    </test>
+
+</suite>

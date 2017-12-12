@@ -1,0 +1,49 @@
+{
+  "priceLevels": [
+    {
+      "enumDescription": "Bonus",
+      "enumSequenceNumber": "1",
+      "enumSequenceIndex": "0"
+    },
+    {
+      "enumDescription": "Free",
+      "enumSequenceNumber": "2",
+      "enumSequenceIndex": "1"
+    },
+    {
+      "enumDescription": "Dump",
+      "enumSequenceNumber": "3",
+      "enumSequenceIndex": "2"
+    },
+    {
+      "enumDescription": "Bulk",
+      "enumSequenceNumber": "4",
+      "enumSequenceIndex": "3"
+    },
+    {
+      "enumDescription": "Discount",
+      "enumSequenceNumber": "5",
+      "enumSequenceIndex": "4"
+    },
+    {
+      "enumDescription": "Standard",
+      "enumSequenceNumber": "6",
+      "enumSequenceIndex": "5"
+    },
+    {
+      "enumDescription": "High",
+      "enumSequenceNumber": "7",
+      "enumSequenceIndex": "6"
+    },
+    {
+      "enumDescription": "Gold",
+      "enumSequenceNumber": "8",
+      "enumSequenceIndex": "7"
+    },
+    {
+      "enumDescription": "Platinum",
+      "enumSequenceNumber": "9",
+      "enumSequenceIndex": "8"
+    }
+  ]
+}

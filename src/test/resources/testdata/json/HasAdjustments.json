@@ -1,0 +1,14 @@
+{
+  "hasAdjustments": [
+    {
+      "enumDescription": "Yes",
+      "enumSequenceNumber": "1",
+      "enumSequenceIndex": "0"
+    },
+    {
+      "enumDescription": "No",
+      "enumSequenceNumber": "0",
+      "enumSequenceIndex": "-1"
+    }
+  ]
+}

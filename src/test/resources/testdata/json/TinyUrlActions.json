@@ -1,0 +1,40 @@
+{
+  "tinyUrlActions": [
+    {
+      "enumDescription": "Goal Impression",
+      "enumSequenceNumber": "Goal Impression"
+    },
+    {
+      "enumDescription": "Goal Click",
+      "enumSequenceNumber": "Goal Click"
+    },
+    {
+      "enumDescription": "Goal Postback",
+      "enumSequenceNumber": "Goal Postback"
+    },
+    {
+      "enumDescription": "Goal Mobile Postback",
+      "enumSequenceNumber": "Goal Mobile Postback"
+    },
+    {
+      "enumDescription": "Goal Pixel",
+      "enumSequenceNumber": "Goal Pixel"
+    },
+    {
+      "enumDescription": "Click",
+      "enumSequenceNumber": "Click"
+    },
+    {
+      "enumDescription": "Offer Pixel",
+      "enumSequenceNumber": "Offer Pixel"
+    },
+    {
+      "enumDescription": "Offer Postback",
+      "enumSequenceNumber": "Offer Postback"
+    },
+    {
+      "enumDescription": "Offer Mobile Postback",
+      "enumSequenceNumber": "Offer Mobile Postback"
+    }
+  ]
+}

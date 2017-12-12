@@ -1,0 +1,64 @@
+{
+  "status": [
+    {
+      "enumDescription": "New",
+      "enumSequenceNumber": "1",
+      "enumMask": "1",
+      "enumSequenceIndex": "0"
+    },
+    {
+      "enumDescription": "Prepublished",
+      "enumSequenceNumber": "2",
+      "enumMask": "2",
+      "enumSequenceIndex": "1"
+    },
+    {
+      "enumDescription": "Published",
+      "enumSequenceNumber": "3",
+      "enumMask": "4",
+      "enumSequenceIndex": "2"
+    },
+    {
+      "enumDescription": "Blocked",
+      "enumSequenceNumber": "4",
+      "enumMask": "8",
+      "enumSequenceIndex": "3"
+    },
+    {
+      "enumDescription": "Expired",
+      "enumSequenceNumber": "5",
+      "enumMask": "16",
+      "enumSequenceIndex": "4"
+    },
+    {
+      "enumDescription": "Deleted",
+      "enumSequenceNumber": "6",
+      "enumMask": "32",
+      "enumSequenceIndex": "5"
+    },
+    {
+      "enumDescription": "Initial",
+      "enumSequenceNumber": "7",
+      "enumMask": "64",
+      "enumSequenceIndex": "6"
+    },
+    {
+      "enumDescription": "FollowUp",
+      "enumSequenceNumber": "8",
+      "enumMask": "128",
+      "enumSequenceIndex": "7"
+    },
+    {
+      "enumDescription": "Overruled",
+      "enumSequenceNumber": "9",
+      "enumMask": "256",
+      "enumSequenceIndex": "8"
+    },
+    {
+      "enumDescription": "Purged",
+      "enumSequenceNumber": "10",
+      "enumMask": "512",
+      "enumSequenceIndex": "9"
+    }
+  ]
+}

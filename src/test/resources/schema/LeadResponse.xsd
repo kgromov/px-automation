@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Response" type="ResponseType"/>
+  <xs:complexType name="ErrorType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="Reason"/>
+      <xs:element type="xs:string" name="Param"/>
+      <xs:element type="xs:string" name="ExtraInfo"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ResultType" mixed="true">
+    <xs:sequence>
+      <xs:element type="xs:string" name="TransactionId"/>
+      <xs:element type="ErrorType" name="Error"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="Value"/>
+  </xs:complexType>
+  <xs:complexType name="ResponseType">
+    <xs:sequence>
+      <xs:element type="ResultType" name="Result"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

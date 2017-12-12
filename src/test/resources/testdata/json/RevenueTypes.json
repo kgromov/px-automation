@@ -1,0 +1,24 @@
+{
+  "revenueTypes": [
+    {
+      "enumDescription": "Revenue per Conversion (RPA)",
+      "enumSequenceNumber": "cpa_flat"
+    },
+    {
+      "enumDescription": "Revenue per Sale (RPS)",
+      "enumSequenceNumber": "cpa_percentage"
+    },
+    {
+      "enumDescription": "Revenue per Conversion plus Revenue per Sale (RPA + RPS)",
+      "enumSequenceNumber": "cpa_both"
+    },
+    {
+      "enumDescription": "Revenue per Click (RPC)",
+      "enumSequenceNumber": "cpc"
+    },
+    {
+      "enumDescription": "Revenue per Thousand Impressions (RPM)",
+      "enumSequenceNumber": "cpm"
+    }
+  ]
+}

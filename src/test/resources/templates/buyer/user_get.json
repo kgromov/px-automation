@@ -1,0 +1,11 @@
+// http://development-ui.stagingpx.com/api/buyerusers?buyerGuid=4e6a61ee-f45f-4cfa-8f76-f221b5730e9c&count=10&filter={}&page=1&sorting={"description":"asc"}, GET
+{
+  "total": 1,
+  "data": [{
+    "userGuid": "d051f6fa-b377-41ca-aa19-e5d091492c34",
+    "userName": "request@user.com",
+    "description": "request",
+    "status": "Published",
+    "loginDate": "2017-06-30T07:04:24"
+  }]
+}

@@ -1,0 +1,19 @@
+{
+  "genders": [
+    {
+      "enumDescription": "Female",
+      "enumSequenceNumber": "1",
+      "enumSequenceIndex": "0"
+    },
+    {
+      "enumDescription": "Male",
+      "enumSequenceNumber": "2",
+      "enumSequenceIndex": "1"
+    },
+    {
+      "enumDescription": "Unspecified",
+      "enumSequenceNumber": "3",
+      "enumSequenceIndex": "2"
+    }
+  ]
+}

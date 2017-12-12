@@ -1,0 +1,280 @@
+{
+  "hasOffersCurrencies": [
+    {
+      "enumDescription": "United States, Dollars",
+      "enumSequenceNumber": "USD"
+    },
+    {
+      "enumDescription": "Euro",
+      "enumSequenceNumber": "EUR"
+    },
+    {
+      "enumDescription": "Argentina, Pesos",
+      "enumSequenceNumber": "ARS"
+    },
+    {
+      "enumDescription": "Australia, Dollars",
+      "enumSequenceNumber": "AUD"
+    },
+    {
+      "enumDescription": "Bahamas, Dollars",
+      "enumSequenceNumber": "BSD"
+    },
+    {
+      "enumDescription": "Barbados, Dollars",
+      "enumSequenceNumber": "BBD"
+    },
+    {
+      "enumDescription": "Bermuda, Dollars",
+      "enumSequenceNumber": "BMD"
+    },
+    {
+      "enumDescription": "Bulgaria, Leva",
+      "enumSequenceNumber": "BGN"
+    },
+    {
+      "enumDescription": "Brazil, Reais",
+      "enumSequenceNumber": "BRL"
+    },
+    {
+      "enumDescription": "Britain (United Kingdom), Pounds",
+      "enumSequenceNumber": "GBP"
+    },
+    {
+      "enumDescription": "Brunei Darussalam, Dollars",
+      "enumSequenceNumber": "BND"
+    },
+    {
+      "enumDescription": "Canada, Dollars",
+      "enumSequenceNumber": "CAD"
+    },
+    {
+      "enumDescription": "Cayman Islands, Dollars",
+      "enumSequenceNumber": "KYD"
+    },
+    {
+      "enumDescription": "Chile, Pesos",
+      "enumSequenceNumber": "CLP"
+    },
+    {
+      "enumDescription": "China, Yuan Renminbi",
+      "enumSequenceNumber": "CNY"
+    },
+    {
+      "enumDescription": "Colombia, Pesos",
+      "enumSequenceNumber": "COL"
+    },
+    {
+      "enumDescription": "Croatia, Kuna",
+      "enumSequenceNumber": "HRK"
+    },
+    {
+      "enumDescription": "Czech Republic, Koruny",
+      "enumSequenceNumber": "CZK"
+    },
+    {
+      "enumDescription": "Denmark, Kroner",
+      "enumSequenceNumber": "DKK"
+    },
+    {
+      "enumDescription": "Dominican Republic, Pesos",
+      "enumSequenceNumber": "DOP"
+    },
+    {
+      "enumDescription": "East Caribbean, Dollars",
+      "enumSequenceNumber": "XCD"
+    },
+    {
+      "enumDescription": "Egypt, Pounds",
+      "enumSequenceNumber": "EGP"
+    },
+    {
+      "enumDescription": "Estonia, Krooni",
+      "enumSequenceNumber": "EEK"
+    },
+    {
+      "enumDescription": "Fiji, Dollars",
+      "enumSequenceNumber": "FJD"
+    },
+    {
+      "enumDescription": "Guyana, Dollars",
+      "enumSequenceNumber": "GYD"
+    },
+    {
+      "enumDescription": "Hong Kong, Dollars",
+      "enumSequenceNumber": "HKD"
+    },
+    {
+      "enumDescription": "Hungary, Forint",
+      "enumSequenceNumber": "HUF"
+    },
+    {
+      "enumDescription": "India, Rupees",
+      "enumSequenceNumber": "INR"
+    },
+    {
+      "enumDescription": "Indonesia, Rupiahs",
+      "enumSequenceNumber": "IDR"
+    },
+    {
+      "enumDescription": "Iran, Rials",
+      "enumSequenceNumber": "IRR"
+    },
+    {
+      "enumDescription": "Israel, New Shekels",
+      "enumSequenceNumber": "ILS"
+    },
+    {
+      "enumDescription": "Jamaica, Dollars",
+      "enumSequenceNumber": "JMD"
+    },
+    {
+      "enumDescription": "Japan, Yen",
+      "enumSequenceNumber": "JPY"
+    },
+    {
+      "enumDescription": "Kazakhstan, Tenge",
+      "enumSequenceNumber": "KZT"
+    },
+    {
+      "enumDescription": "South Korea, Won",
+      "enumSequenceNumber": "KRW"
+    },
+    {
+      "enumDescription": "Latvia, Lati",
+      "enumSequenceNumber": "LVL"
+    },
+    {
+      "enumDescription": "Lithuania, Litai",
+      "enumSequenceNumber": "LTL"
+    },
+    {
+      "enumDescription": "Malaysia, Ringgits",
+      "enumSequenceNumber": "MYR"
+    },
+    {
+      "enumDescription": "Mexico, Pesos",
+      "enumSequenceNumber": "MXN"
+    },
+    {
+      "enumDescription": "Meticais, Meticais",
+      "enumSequenceNumber": "MZN"
+    },
+    {
+      "enumDescription": "Netherlands Antilles, Guilders (also called Florins)",
+      "enumSequenceNumber": "ANG"
+    },
+    {
+      "enumDescription": "New Zealand, Dollars",
+      "enumSequenceNumber": "NZD"
+    },
+    {
+      "enumDescription": "Norway, Krone",
+      "enumSequenceNumber": "NOK"
+    },
+    {
+      "enumDescription": "Oman, Rials",
+      "enumSequenceNumber": "OMR"
+    },
+    {
+      "enumDescription": "Pakistan, Rupees",
+      "enumSequenceNumber": "PKR"
+    },
+    {
+      "enumDescription": "Panama, Balboa",
+      "enumSequenceNumber": "PAB"
+    },
+    {
+      "enumDescription": "Peru, Nuevos Soles",
+      "enumSequenceNumber": "PEN"
+    },
+    {
+      "enumDescription": "Philippines, Pesos",
+      "enumSequenceNumber": "PHP"
+    },
+    {
+      "enumDescription": "Poland, Zlotych",
+      "enumSequenceNumber": "PLN"
+    },
+    {
+      "enumDescription": "Qatar, Rials",
+      "enumSequenceNumber": "QAR"
+    },
+    {
+      "enumDescription": "Romani, New Lei",
+      "enumSequenceNumber": "RON"
+    },
+    {
+      "enumDescription": "Russia, Rubles",
+      "enumSequenceNumber": "RUB"
+    },
+    {
+      "enumDescription": "Saudi Arabia, Riyals",
+      "enumSequenceNumber": "SAR"
+    },
+    {
+      "enumDescription": "Serbia, Dinars",
+      "enumSequenceNumber": "RSD"
+    },
+    {
+      "enumDescription": "Singapore, Dollars",
+      "enumSequenceNumber": "SGD"
+    },
+    {
+      "enumDescription": "South Africa, Rand",
+      "enumSequenceNumber": "ZAR"
+    },
+    {
+      "enumDescription": "Sweden, Kronor",
+      "enumSequenceNumber": "SEK"
+    },
+    {
+      "enumDescription": "Switzerland/Liechtenstein, Francs",
+      "enumSequenceNumber": "CHF"
+    },
+    {
+      "enumDescription": "Syria, Pounds",
+      "enumSequenceNumber": "SYP"
+    },
+    {
+      "enumDescription": "Taiwan, New Dollars",
+      "enumSequenceNumber": "TWD"
+    },
+    {
+      "enumDescription": "Thailand, Baht",
+      "enumSequenceNumber": "THB"
+    },
+    {
+      "enumDescription": "Trinidad/Tobago, Dollars",
+      "enumSequenceNumber": "TTD"
+    },
+    {
+      "enumDescription": "Turkey, Lira",
+      "enumSequenceNumber": "TRY"
+    },
+    {
+      "enumDescription": "Ukraine, Hryvnia",
+      "enumSequenceNumber": "UAH"
+    },
+    {
+      "enumDescription": "United Arab Emirates, Dirham",
+      "enumSequenceNumber": "AED"
+    },
+    {
+      "enumDescription": "Venezuela, Bolivares Fuertes",
+      "enumSequenceNumber": "VEF"
+    },
+    {
+      "enumDescription": "Vietnam, Dong",
+      "enumSequenceNumber": "VND"
+    },
+    {
+      "enumDescription": "Yemen, Rials",
+      "enumSequenceNumber": "YER"
+    },
+    {
+      "enumDescription": "Points",
+      "enumSequenceNumber": "PTS"
+    }
+  ]
+}

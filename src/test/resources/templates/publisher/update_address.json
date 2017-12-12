@@ -1,0 +1,12 @@
+{
+    "addressId": "ed3ec75b-8e0f-4648-b9f5-5367f010e3b5",
+    "type": "Default",
+    "street": "12 avenu",
+    "streetNr": "12",
+    "zipCode": "101010",
+    "city": "Odessa",
+    "country": "Sleepy village",
+    "extraInfo": "In USA",
+    "state": "DC",
+    "publisherGuid": "1ef387b4-0c79-457f-9d31-f23caa592d40"
+}

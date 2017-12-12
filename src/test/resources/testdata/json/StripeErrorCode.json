@@ -1,0 +1,64 @@
+{
+  "stripeErrorCode": [
+    {
+      "enumDescription": "incorrect_number",
+      "enumSequenceNumber": "1",
+      "enumSequenceIndex": "0"
+    },
+    {
+      "enumDescription": "invalid_number",
+      "enumSequenceNumber": "2",
+      "enumSequenceIndex": "1"
+    },
+    {
+      "enumDescription": "invalid_expiry_month",
+      "enumSequenceNumber": "3",
+      "enumSequenceIndex": "2"
+    },
+    {
+      "enumDescription": "invalid_expiry_year",
+      "enumSequenceNumber": "4",
+      "enumSequenceIndex": "3"
+    },
+    {
+      "enumDescription": "invalid_cvc",
+      "enumSequenceNumber": "5",
+      "enumSequenceIndex": "4"
+    },
+    {
+      "enumDescription": "expired_card",
+      "enumSequenceNumber": "6",
+      "enumSequenceIndex": "5"
+    },
+    {
+      "enumDescription": "incorrect_cvc",
+      "enumSequenceNumber": "7",
+      "enumSequenceIndex": "6"
+    },
+    {
+      "enumDescription": "incorrect_zip",
+      "enumSequenceNumber": "8",
+      "enumSequenceIndex": "7"
+    },
+    {
+      "enumDescription": "card_declined",
+      "enumSequenceNumber": "9",
+      "enumSequenceIndex": "8"
+    },
+    {
+      "enumDescription": "missing",
+      "enumSequenceNumber": "10",
+      "enumSequenceIndex": "9"
+    },
+    {
+      "enumDescription": "processing_error",
+      "enumSequenceNumber": "11",
+      "enumSequenceIndex": "10"
+    },
+    {
+      "enumDescription": "rate_limit",
+      "enumSequenceNumber": "12",
+      "enumSequenceIndex": "11"
+    }
+  ]
+}

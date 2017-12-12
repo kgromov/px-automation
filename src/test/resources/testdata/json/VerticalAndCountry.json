@@ -1,0 +1,224 @@
+{
+  "verticalAndCountry": [
+    {
+      "enumDescription": "United States - Auto",
+      "enumSequenceNumber": "US-Auto"
+    },
+    {
+      "enumDescription": "United States - AutoFinance",
+      "enumSequenceNumber": "US-AutoFinance"
+    },
+    {
+      "enumDescription": "United States - AutoMotive-New",
+      "enumSequenceNumber": "US-AutoMotive-New"
+    },
+    {
+      "enumDescription": "United States - AutoMotive",
+      "enumSequenceNumber": "US-AutoMotive"
+    },
+    {
+      "enumDescription": "United States - AutoWarranty",
+      "enumSequenceNumber": "US-AutoWarranty"
+    },
+    {
+      "enumDescription": "United States - BusinessLoans",
+      "enumSequenceNumber": "US-BusinessLoans"
+    },
+    {
+      "enumDescription": "United States - BuyerRegister",
+      "enumSequenceNumber": "US-BuyerRegister"
+    },
+    {
+      "enumDescription": "United States - DebtManagement",
+      "enumSequenceNumber": "US-DebtManagement"
+    },
+    {
+      "enumDescription": "United States - DMEBackPain",
+      "enumSequenceNumber": "US-DMEBackPain"
+    },
+    {
+      "enumDescription": "United States - DMEBloodThinnerMeter",
+      "enumSequenceNumber": "US-DMEBloodThinnerMeter"
+    },
+    {
+      "enumDescription": "United States - DMECatheters",
+      "enumSequenceNumber": "US-DMECatheters"
+    },
+    {
+      "enumDescription": "United States - DMECPAP",
+      "enumSequenceNumber": "US-DMECPAP"
+    },
+    {
+      "enumDescription": "United States - DMEDTS",
+      "enumSequenceNumber": "US-DMEDTS"
+    },
+    {
+      "enumDescription": "United States - DMEGloves",
+      "enumSequenceNumber": "US-DMEGloves"
+    },
+    {
+      "enumDescription": "United States - DMEKneePain",
+      "enumSequenceNumber": "US-DMEKneePain"
+    },
+    {
+      "enumDescription": "United States - DMETENS",
+      "enumSequenceNumber": "US-DMETENS"
+    },
+    {
+      "enumDescription": "United States - Education",
+      "enumSequenceNumber": "US-Education"
+    },
+    {
+      "enumDescription": "United States - Flooring",
+      "enumSequenceNumber": "US-Flooring"
+    },
+    {
+      "enumDescription": "United States - General",
+      "enumSequenceNumber": "US-General"
+    },
+    {
+      "enumDescription": "United States - Health",
+      "enumSequenceNumber": "US-Health"
+    },
+    {
+      "enumDescription": "United States - HearingAid",
+      "enumSequenceNumber": "US-HearingAid"
+    },
+    {
+      "enumDescription": "United States - Home",
+      "enumSequenceNumber": "US-Home"
+    },
+    {
+      "enumDescription": "United States - HomeSecurity",
+      "enumSequenceNumber": "US-HomeSecurity"
+    },
+    {
+      "enumDescription": "United States - Hvac",
+      "enumSequenceNumber": "US-Hvac"
+    },
+    {
+      "enumDescription": "United States - Life",
+      "enumSequenceNumber": "US-Life"
+    },
+    {
+      "enumDescription": "United States - LocalDealers",
+      "enumSequenceNumber": "US-LocalDealers"
+    },
+    {
+      "enumDescription": "United States - MedicalAlerts",
+      "enumSequenceNumber": "US-MedicalAlerts"
+    },
+    {
+      "enumDescription": "United States - Mortgage",
+      "enumSequenceNumber": "US-Mortgage"
+    },
+    {
+      "enumDescription": "United States - PayDayLoans",
+      "enumSequenceNumber": "US-PayDayLoans"
+    },
+    {
+      "enumDescription": "United States - PersonalLoans",
+      "enumSequenceNumber": "US-PersonalLoans"
+    },
+    {
+      "enumDescription": "United States - Pet",
+      "enumSequenceNumber": "US-Pet"
+    },
+    {
+      "enumDescription": "United States - PetFullQuote",
+      "enumSequenceNumber": "US-PetFullQuote"
+    },
+    {
+      "enumDescription": "United States - PetQuickQuote",
+      "enumSequenceNumber": "US-PetQuickQuote"
+    },
+    {
+      "enumDescription": "United States - PublisherRegister",
+      "enumSequenceNumber": "US-PublisherRegister"
+    },
+    {
+      "enumDescription": "United States - Roofing",
+      "enumSequenceNumber": "US-Roofing"
+    },
+    {
+      "enumDescription": "United States - Solar",
+      "enumSequenceNumber": "US-Solar"
+    },
+    {
+      "enumDescription": "United States - WalkinTubs",
+      "enumSequenceNumber": "US-WalkinTubs"
+    },
+    {
+      "enumDescription": "United States - Windows",
+      "enumSequenceNumber": "US-Windows"
+    },
+    {
+      "enumDescription": "Australia - DebtManagement",
+      "enumSequenceNumber": "AU-DebtManagement"
+    },
+    {
+      "enumDescription": "Australia - Life",
+      "enumSequenceNumber": "AU-Life"
+    },
+    {
+      "enumDescription": "Australia - Solar",
+      "enumSequenceNumber": "AU-Solar"
+    },
+    {
+      "enumDescription": "Belgium - Solar",
+      "enumSequenceNumber": "BE-Solar"
+    },
+    {
+      "enumDescription": "Canada - AutoFinance",
+      "enumSequenceNumber": "CA-AutoFinance"
+    },
+    {
+      "enumDescription": "Canada - General",
+      "enumSequenceNumber": "CA-General"
+    },
+    {
+      "enumDescription": "Colombia - Auto",
+      "enumSequenceNumber": "CO-Auto"
+    },
+    {
+      "enumDescription": "Germany - General",
+      "enumSequenceNumber": "DE-General"
+    },
+    {
+      "enumDescription": "ES - General",
+      "enumSequenceNumber": "ES-General"
+    },
+    {
+      "enumDescription": "Spain - General",
+      "enumSequenceNumber": "IT-General"
+    },
+    {
+      "enumDescription": "Netherlands - General",
+      "enumSequenceNumber": "NL-General"
+    },
+    {
+      "enumDescription": "Netherlands - Solar",
+      "enumSequenceNumber": "NL-Solar"
+    },
+    {
+      "enumDescription": "United Kingdom - DebtManagement",
+      "enumSequenceNumber": "UK-DebtManagement"
+    },
+    {
+      "enumDescription": "United Kingdom - General",
+      "enumSequenceNumber": "UK-General"
+    },
+    {
+      "enumDescription": "United Kingdom - Health",
+      "enumSequenceNumber": "UK-Health"
+    },
+    {
+      "enumDescription": "United Kingdom - Life",
+      "enumSequenceNumber": "UK-Life"
+    },
+    {
+      "enumDescription": "United Kingdom - Mortgage",
+      "enumSequenceNumber": "UK-Mortgage"
+    }
+  ]
+}

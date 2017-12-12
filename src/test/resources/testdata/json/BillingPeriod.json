@@ -1,0 +1,28 @@
+{
+  "billingPeriod": [
+    {
+      "enumDescription": "Day",
+      "enumSequenceNumber": "1",
+      "enumMask": "1",
+      "enumSequenceIndex": "0"
+    },
+    {
+      "enumDescription": "Week",
+      "enumSequenceNumber": "2",
+      "enumMask": "2",
+      "enumSequenceIndex": "1"
+    },
+    {
+      "enumDescription": "SemiMonth",
+      "enumSequenceNumber": "3",
+      "enumMask": "4",
+      "enumSequenceIndex": "2"
+    },
+    {
+      "enumDescription": "Month",
+      "enumSequenceNumber": "4",
+      "enumMask": "8",
+      "enumSequenceIndex": "3"
+    }
+  ]
+}

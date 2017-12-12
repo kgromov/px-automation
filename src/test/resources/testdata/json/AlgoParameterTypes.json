@@ -1,0 +1,28 @@
+{
+  "algoParameterTypes": [
+    {
+      "enumDescription": "Input",
+      "enumSequenceNumber": "2",
+      "enumMask": "1",
+      "enumSequenceIndex": "1"
+    },
+    {
+      "enumDescription": "Computable",
+      "enumSequenceNumber": "3",
+      "enumMask": "2",
+      "enumSequenceIndex": "2"
+    },
+    {
+      "enumDescription": "Output",
+      "enumSequenceNumber": "4",
+      "enumMask": "4",
+      "enumSequenceIndex": "3"
+    },
+    {
+      "enumDescription": "Mapping",
+      "enumSequenceNumber": "5",
+      "enumMask": "8",
+      "enumSequenceIndex": "4"
+    }
+  ]
+}

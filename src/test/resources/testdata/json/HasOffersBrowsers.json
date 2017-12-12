@@ -1,0 +1,74 @@
+{
+  "hasOffersBrowsers": [
+    {
+      "enumDescription": "Internet Explorer",
+      "enumSequenceNumber": "1",
+      "enumSequenceIndex": "0"
+    },
+    {
+      "enumDescription": "Firefox",
+      "enumSequenceNumber": "2",
+      "enumSequenceIndex": "1"
+    },
+    {
+      "enumDescription": "Chrome",
+      "enumSequenceNumber": "3",
+      "enumSequenceIndex": "2"
+    },
+    {
+      "enumDescription": "Safari",
+      "enumSequenceNumber": "4",
+      "enumSequenceIndex": "3"
+    },
+    {
+      "enumDescription": "Opera",
+      "enumSequenceNumber": "5",
+      "enumSequenceIndex": "4"
+    },
+    {
+      "enumDescription": "Other",
+      "enumSequenceNumber": "6",
+      "enumSequenceIndex": "5"
+    },
+    {
+      "enumDescription": "iPhone / iPod",
+      "enumSequenceNumber": "7",
+      "enumSequenceIndex": "6"
+    },
+    {
+      "enumDescription": "Android",
+      "enumSequenceNumber": "8",
+      "enumSequenceIndex": "7"
+    },
+    {
+      "enumDescription": "BlackBerry (newer devices)",
+      "enumSequenceNumber": "9",
+      "enumSequenceIndex": "8"
+    },
+    {
+      "enumDescription": "Opera Mobile (newer devices)",
+      "enumSequenceNumber": "10",
+      "enumSequenceIndex": "9"
+    },
+    {
+      "enumDescription": "NetFront Browser (newer devices)",
+      "enumSequenceNumber": "11",
+      "enumSequenceIndex": "10"
+    },
+    {
+      "enumDescription": "Partially Web-Capable Devices",
+      "enumSequenceNumber": "12",
+      "enumSequenceIndex": "11"
+    },
+    {
+      "enumDescription": "WML-Only Devices",
+      "enumSequenceNumber": "13",
+      "enumSequenceIndex": "12"
+    },
+    {
+      "enumDescription": "iPad",
+      "enumSequenceNumber": "14",
+      "enumSequenceIndex": "13"
+    }
+  ]
+}

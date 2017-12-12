@@ -1,0 +1,16 @@
+{
+  "httpHeaderType": [
+    {
+      "enumDescription": "Ping",
+      "enumSequenceNumber": "ping"
+    },
+    {
+      "enumDescription": "Post",
+      "enumSequenceNumber": "post"
+    },
+    {
+      "enumDescription": "Both",
+      "enumSequenceNumber": "both"
+    }
+  ]
+}

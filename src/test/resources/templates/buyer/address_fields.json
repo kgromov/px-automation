@@ -1,0 +1,95 @@
+// http://development-ui.stagingpx.com/api/buyerinfo/address?parentObjectId=4e6a61ee-f45f-4cfa-8f76-f221b5730e9c, OPTIONS
+[{
+	"title": "form.AddressId",
+	"visible": true,
+	"editable": false,
+	"field": "addressId",
+	"default": "f610682c-559e-48aa-80c6-ce554c82c9a3",
+	"mandatory": false
+},
+{
+	"title": "form.Type",
+	"visible": true,
+	"editable": true,
+	"field": "type",
+	"default": "Default",
+	"mandatory": false
+},
+{
+	"title": "form.Street",
+	"visible": true,
+	"editable": true,
+	"field": "street",
+	"default": "",
+	"group": "companyAddress",
+	"mandatory": false
+},
+{
+	"title": "form.StreetNr",
+	"visible": true,
+	"editable": true,
+	"field": "streetNr",
+	"default": "",
+	"group": "companyAddress",
+	"mandatory": false
+},
+{
+	"title": "form.City",
+	"visible": true,
+	"editable": true,
+	"field": "city",
+	"default": "",
+	"group": "companyAddress",
+	"mandatory": false
+},
+{
+	"title": "form.State",
+	"visible": true,
+	"editable": true,
+	"field": "state",
+	"default": "",
+	"viewType": "select",
+	"valuesProvider": {
+		"additionalValues": "No",
+		"type": "lxpEnum",
+		"provider": "UsStates",
+		"outputProperty": "enumDescription",
+		"displayProperty": "enumFullDescription"
+	},
+	"group": "companyAddress",
+	"mandatory": false
+},
+{
+	"title": "form.ZipCode",
+	"visible": true,
+	"editable": true,
+	"field": "zipCode",
+	"default": "",
+	"group": "companyAddress",
+	"mandatory": false
+},
+{
+	"title": "form.Country",
+	"visible": true,
+	"editable": true,
+	"field": "country",
+	"default": "",
+	"viewType": "select",
+	"valuesProvider": {
+		"additionalValues": "No",
+		"type": "lxpEnum",
+		"provider": "Countries",
+		"outputProperty": "enumDescription",
+		"displayProperty": "enumFullDescription"
+	},
+	"group": "companyAddress",
+	"mandatory": false
+},
+{
+	"title": "form.ExtraInfo",
+	"visible": true,
+	"editable": true,
+	"field": "extraInfo",
+	"default": "",
+	"mandatory": false
+}]

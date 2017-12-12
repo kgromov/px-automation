@@ -1,0 +1,14 @@
+{
+  "leadReturnPercentagePreDefined": [
+    {
+      "enumDescription": "No returns",
+      "enumSequenceNumber": "-1",
+      "enumSequenceIndex": "-2"
+    },
+    {
+      "enumDescription": "Regular returns",
+      "enumSequenceNumber": "0",
+      "enumSequenceIndex": "-1"
+    }
+  ]
+}

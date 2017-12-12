@@ -1,0 +1,28 @@
+{
+  "fraudScores": [
+    {
+      "enumDescription": "NoCheck",
+      "enumSequenceNumber": "1",
+      "enumMask": "1",
+      "enumSequenceIndex": "0"
+    },
+    {
+      "enumDescription": "NoSuspect",
+      "enumSequenceNumber": "2",
+      "enumMask": "2",
+      "enumSequenceIndex": "1"
+    },
+    {
+      "enumDescription": "Suspect",
+      "enumSequenceNumber": "3",
+      "enumMask": "4",
+      "enumSequenceIndex": "2"
+    },
+    {
+      "enumDescription": "HighRisk",
+      "enumSequenceNumber": "4",
+      "enumMask": "8",
+      "enumSequenceIndex": "3"
+    }
+  ]
+}

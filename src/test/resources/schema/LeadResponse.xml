@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Response>
+    <Result Value="BaeNOK">
+        <TransactionId>dada</TransactionId>>
+        <Error>
+            <Reason>Rejected</Reason>
+            <Param>Param</Param>
+            <ExtraInfo>Aborting: No TransactionID provided.</ExtraInfo>
+        </Error>
+    </Result>
+</Response>

@@ -1,0 +1,16 @@
+{
+  "convStatuses": [
+    {
+      "enumDescription": "Approved",
+      "enumSequenceNumber": "active"
+    },
+    {
+      "enumDescription": "Pending",
+      "enumSequenceNumber": "pending"
+    },
+    {
+      "enumDescription": "Rejected",
+      "enumSequenceNumber": "deleted"
+    }
+  ]
+}

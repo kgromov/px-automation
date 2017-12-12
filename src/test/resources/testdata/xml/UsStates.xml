@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?><ArrayOfKeyValueOfstringArrayOfEnumDtoAyLzvkr0 xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <KeyValueOfstringArrayOfEnumDtoAyLzvkr0>
+        <Key>UsStates</Key>
+        <Value xmlns:d3p1="http://schemas.datacontract.org/2004/07/PXUI.Models.User">
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>AL</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Alabama</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>1</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>AK</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Alaska</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>2</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>AZ</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Arizona</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>3</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>AR</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Arkansas</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>4</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>CA</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>California</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>5</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>CO</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Colorado</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>6</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>CT</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Connecticut</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>7</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>DE</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Delaware</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>8</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>DC</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>District of Columbia</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>9</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>FL</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Florida</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>10</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>GA</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Georgia</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>11</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>HI</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Hawaii</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>12</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>ID</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Idaho</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>13</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>IL</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Illinois</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>14</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>IN</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Indiana</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>15</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>IA</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Iowa</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>16</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>KS</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Kansas</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>17</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>KY</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Kentucky</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>18</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>LA</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Louisiana</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>19</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>ME</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Maine</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>20</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>MD</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Maryland</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>21</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>MA</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Massachusetts</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>22</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>MI</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Michigan</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>23</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>MN</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Minnesota</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>24</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>MS</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Mississippi</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>25</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>MO</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Missouri</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>26</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>MT</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Montana</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>27</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>NE</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Nebraska</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>28</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>NV</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Nevada</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>29</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>NH</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>New Hampshire</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>30</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>NJ</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>New Jersey</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>31</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>NM</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>New Mexico</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>32</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>NY</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>New York</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>33</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>NC</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>North Carolina</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>34</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>ND</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>North Dakota</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>35</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>OH</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Ohio</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>36</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>OK</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Oklahoma</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>37</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>OR</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Oregon</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>38</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>PA</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Pennsylvania</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>39</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>RI</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Rhode Island</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>40</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>SC</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>South Carolina</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>41</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>SD</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>South Dakota</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>42</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>TN</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Tennessee</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>43</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>TX</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Texas</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>44</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>UT</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Utah</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>45</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>VT</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Vermont</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>46</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>VA</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Virginia</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>47</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>WA</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Washington</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>48</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>WV</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>West Virginia</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>49</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>WI</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Wisconsin</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>50</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>WY</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Wyoming</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>51</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+        </Value>
+    </KeyValueOfstringArrayOfEnumDtoAyLzvkr0>
+</ArrayOfKeyValueOfstringArrayOfEnumDtoAyLzvkr0>

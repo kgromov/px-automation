@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="Update Pixels PX UI" parallel="classes">
+
+    <test name="Chrome Browser, pixels">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="version" value="any"/>
+        <parameter name="url" value=""/>
+        <classes>
+            <class name="tests.objects.payouts.EditPayoutsTest"/>
+        </classes>
+    </test>
+
+</suite>

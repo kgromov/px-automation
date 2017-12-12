@@ -1,0 +1,20 @@
+{
+  "phoneFormats": [
+    {
+      "enumDescription": "(###)-####-###",
+      "enumSequenceNumber": "(###)-####-###"
+    },
+    {
+      "enumDescription": "(###) ###-####",
+      "enumSequenceNumber": "(###) ###-####"
+    },
+    {
+      "enumDescription": "##########",
+      "enumSequenceNumber": ""
+    },
+    {
+      "enumDescription": "(000)-0000-###",
+      "enumSequenceNumber": "(000)-0000-###"
+    }
+  ]
+}

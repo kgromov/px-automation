@@ -1,0 +1,34 @@
+{
+  "hostnames": [
+    {
+      "enumDescription": "tracking.eeinsurance.com",
+      "enumSequenceNumber": "1258",
+      "enumSequenceIndex": "1257"
+    },
+    {
+      "enumDescription": "tracking.bestquotes.com",
+      "enumSequenceNumber": "1338",
+      "enumSequenceIndex": "1337"
+    },
+    {
+      "enumDescription": "quote.autocomparison.com",
+      "enumSequenceNumber": "1354",
+      "enumSequenceIndex": "1353"
+    },
+    {
+      "enumDescription": "tracking.autocomparison.com",
+      "enumSequenceNumber": "2505",
+      "enumSequenceIndex": "2504"
+    },
+    {
+      "enumDescription": "tracking.revimedia.com",
+      "enumSequenceNumber": "6063",
+      "enumSequenceIndex": "6062"
+    },
+    {
+      "enumDescription": "track.thedailyfinancepost.com",
+      "enumSequenceNumber": "6457",
+      "enumSequenceIndex": "6456"
+    }
+  ]
+}

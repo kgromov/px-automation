@@ -1,0 +1,16 @@
+{
+  "interfaces": [
+    {
+      "enumDescription": "Network",
+      "enumSequenceNumber": "network"
+    },
+    {
+      "enumDescription": "Affiliate",
+      "enumSequenceNumber": "affiliate"
+    },
+    {
+      "enumDescription": "Advertisers",
+      "enumSequenceNumber": "advertiser"
+    }
+  ]
+}

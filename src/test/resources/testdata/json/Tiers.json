@@ -1,0 +1,40 @@
+{
+  "tiers": [
+    {
+      "enumDescription": "0",
+      "enumSequenceNumber": "2",
+      "enumMask": "1",
+      "enumSequenceIndex": "1"
+    },
+    {
+      "enumDescription": "1",
+      "enumSequenceNumber": "3",
+      "enumMask": "2",
+      "enumSequenceIndex": "2"
+    },
+    {
+      "enumDescription": "2",
+      "enumSequenceNumber": "4",
+      "enumMask": "4",
+      "enumSequenceIndex": "3"
+    },
+    {
+      "enumDescription": "3",
+      "enumSequenceNumber": "5",
+      "enumMask": "8",
+      "enumSequenceIndex": "4"
+    },
+    {
+      "enumDescription": "4",
+      "enumSequenceNumber": "6",
+      "enumMask": "16",
+      "enumSequenceIndex": "5"
+    },
+    {
+      "enumDescription": "5",
+      "enumSequenceNumber": "7",
+      "enumMask": "32",
+      "enumSequenceIndex": "6"
+    }
+  ]
+}

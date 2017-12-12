@@ -1,0 +1,92 @@
+{
+  "audienceReportTypes": [
+    {
+      "enumDescription": "Age",
+      "enumSequenceNumber": "ageGroup"
+    },
+    {
+      "enumDescription": "Any bankruptcy",
+      "enumSequenceNumber": "anyBankruptcy"
+    },
+    {
+      "enumDescription": "Cars #",
+      "enumSequenceNumber": "cars"
+    },
+    {
+      "enumDescription": "Cashout",
+      "enumSequenceNumber": "cashOutAmount"
+    },
+    {
+      "enumDescription": "Coverage type",
+      "enumSequenceNumber": "coverageType"
+    },
+    {
+      "enumDescription": "Credit rating",
+      "enumSequenceNumber": "creditRating"
+    },
+    {
+      "enumDescription": "Drivers #",
+      "enumSequenceNumber": "drivers"
+    },
+    {
+      "enumDescription": "Education",
+      "enumSequenceNumber": "education"
+    },
+    {
+      "enumDescription": "Electricity bill",
+      "enumSequenceNumber": "electricityBill"
+    },
+    {
+      "enumDescription": "Gender",
+      "enumSequenceNumber": "gender"
+    },
+    {
+      "enumDescription": "Household income",
+      "enumSequenceNumber": "houseHoldIncome"
+    },
+    {
+      "enumDescription": "Insurance",
+      "enumSequenceNumber": "insurance"
+    },
+    {
+      "enumDescription": "Loan amount",
+      "enumSequenceNumber": "loanAmount"
+    },
+    {
+      "enumDescription": "Loan type",
+      "enumSequenceNumber": "loanType"
+    },
+    {
+      "enumDescription": "Marital status",
+      "enumSequenceNumber": "maritalStatus"
+    },
+    {
+      "enumDescription": "Occupation",
+      "enumSequenceNumber": "occupation"
+    },
+    {
+      "enumDescription": "Pre-existing conditions",
+      "enumSequenceNumber": "preExistingConditions"
+    },
+    {
+      "enumDescription": "Product reference",
+      "enumSequenceNumber": "productPreference"
+    },
+    {
+      "enumDescription": "Property value",
+      "enumSequenceNumber": "propertyValue"
+    },
+    {
+      "enumDescription": "Residence type",
+      "enumSequenceNumber": "residenceType"
+    },
+    {
+      "enumDescription": "State",
+      "enumSequenceNumber": "state"
+    },
+    {
+      "enumDescription": "Project type",
+      "enumSequenceNumber": "projectType"
+    }
+  ]
+}

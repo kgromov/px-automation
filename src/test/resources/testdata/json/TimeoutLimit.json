@@ -1,0 +1,14 @@
+{
+  "timeoutLimit": [
+    {
+      "enumDescription": "25",
+      "enumSequenceNumber": "25000",
+      "enumSequenceIndex": "24999"
+    },
+    {
+      "enumDescription": "60",
+      "enumSequenceNumber": "60000",
+      "enumSequenceIndex": "59999"
+    }
+  ]
+}

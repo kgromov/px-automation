@@ -1,0 +1,12 @@
+{
+  "postType": [
+    {
+      "enumDescription": "HTTP",
+      "enumSequenceNumber": "HTTP"
+    },
+    {
+      "enumDescription": "SMTP",
+      "enumSequenceNumber": "SMTP"
+    }
+  ]
+}

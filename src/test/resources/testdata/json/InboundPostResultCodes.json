@@ -1,0 +1,36 @@
+{
+  "inboundPostResultCodes": [
+    {
+      "enumDescription": "Partner login Failed API access denied",
+      "enumSequenceNumber": "Partner login Failed, API access denied"
+    },
+    {
+      "enumDescription": "Invalid Polk data",
+      "enumSequenceNumber": "Invalid Polk data"
+    },
+    {
+      "enumDescription": "Value is not in specified list",
+      "enumSequenceNumber": "Value is not in specified list"
+    },
+    {
+      "enumDescription": "Parameter value does not pass check",
+      "enumSequenceNumber": "Parameter value does not pass check"
+    },
+    {
+      "enumDescription": "Mandatory parameter is missing",
+      "enumSequenceNumber": "Mandatory parameter is missing"
+    },
+    {
+      "enumDescription": "Invalid or missing parameter value",
+      "enumSequenceNumber": "Invalid or missing parameter value"
+    },
+    {
+      "enumDescription": "Incomplete request data, section not found",
+      "enumSequenceNumber": "Incomplete request data, section not found"
+    },
+    {
+      "enumDescription": "Specified QuoteData section incomplete or Quotetype not implemented",
+      "enumSequenceNumber": "Specified QuoteData section incomplete or Quotetype not implemented"
+    }
+  ]
+}

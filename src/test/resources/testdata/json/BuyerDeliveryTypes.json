@@ -1,0 +1,34 @@
+{
+  "buyerDeliveryTypes": [
+    {
+      "enumDescription": "PINGPOST",
+      "enumSequenceNumber": "1",
+      "enumSequenceIndex": "0"
+    },
+    {
+      "enumDescription": "DIRECTPOST",
+      "enumSequenceNumber": "2",
+      "enumSequenceIndex": "1"
+    },
+    {
+      "enumDescription": "BULKPOST",
+      "enumSequenceNumber": "3",
+      "enumSequenceIndex": "2"
+    },
+    {
+      "enumDescription": "EMAILLISTPOST",
+      "enumSequenceNumber": "4",
+      "enumSequenceIndex": "3"
+    },
+    {
+      "enumDescription": "LEGDELIVERY",
+      "enumSequenceNumber": "5",
+      "enumSequenceIndex": "4"
+    },
+    {
+      "enumDescription": "INTERNAL",
+      "enumSequenceNumber": "6",
+      "enumSequenceIndex": "5"
+    }
+  ]
+}

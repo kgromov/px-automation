@@ -1,0 +1,70 @@
+{
+  "publisherTypes": [
+    {
+      "enumDescription": "All/Mixed",
+      "enumSequenceNumber": "2",
+      "enumMask": "1",
+      "enumSequenceIndex": "1"
+    },
+    {
+      "enumDescription": "Mobile",
+      "enumSequenceNumber": "3",
+      "enumMask": "2",
+      "enumSequenceIndex": "2"
+    },
+    {
+      "enumDescription": "Callcenter",
+      "enumSequenceNumber": "4",
+      "enumMask": "4",
+      "enumSequenceIndex": "3"
+    },
+    {
+      "enumDescription": "Search",
+      "enumSequenceNumber": "5",
+      "enumMask": "8",
+      "enumSequenceIndex": "4"
+    },
+    {
+      "enumDescription": "Email",
+      "enumSequenceNumber": "6",
+      "enumMask": "16",
+      "enumSequenceIndex": "5"
+    },
+    {
+      "enumDescription": "Premium Display",
+      "enumSequenceNumber": "7",
+      "enumMask": "32",
+      "enumSequenceIndex": "6"
+    },
+    {
+      "enumDescription": "Path",
+      "enumSequenceNumber": "8",
+      "enumMask": "64",
+      "enumSequenceIndex": "7"
+    },
+    {
+      "enumDescription": "Contextual",
+      "enumSequenceNumber": "9",
+      "enumMask": "128",
+      "enumSequenceIndex": "8"
+    },
+    {
+      "enumDescription": "Mobile Premium Display",
+      "enumSequenceNumber": "10",
+      "enumMask": "256",
+      "enumSequenceIndex": "9"
+    },
+    {
+      "enumDescription": "Offer Wall",
+      "enumSequenceNumber": "11",
+      "enumMask": "512",
+      "enumSequenceIndex": "10"
+    },
+    {
+      "enumDescription": "Mobile Path",
+      "enumSequenceNumber": "12",
+      "enumMask": "1024",
+      "enumSequenceIndex": "11"
+    }
+  ]
+}

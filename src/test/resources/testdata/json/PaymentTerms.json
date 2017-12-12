@@ -1,0 +1,29 @@
+{
+  "paymentTerms": [
+    {
+      "enumDescription": "Net 7",
+      "enumSequenceNumber": "1",
+      "enumSequenceIndex": "0"
+    },
+    {
+      "enumDescription": "Net 15",
+      "enumSequenceNumber": "2",
+      "enumSequenceIndex": "1"
+    },
+    {
+      "enumDescription": "Net 30",
+      "enumSequenceNumber": "3",
+      "enumSequenceIndex": "2"
+    },
+    {
+      "enumDescription": "Net 45",
+      "enumSequenceNumber": "4",
+      "enumSequenceIndex": "3"
+    },
+    {
+      "enumDescription": "Net 60",
+      "enumSequenceNumber": "5",
+      "enumSequenceIndex": "4"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+	"paymentTerms": [{
+		"enumDescription": "Wire",
+		"enumSequenceNumber": "1",
+		"enumMask": "1",
+		"enumSequenceIndex": "0"
+	},
+	{
+		"enumDescription": "Check",
+		"enumSequenceNumber": "2",
+		"enumMask": "2",
+		"enumSequenceIndex": "1"
+	},
+	{
+		"enumDescription": "PayPal",
+		"enumSequenceNumber": "3",
+		"enumMask": "4",
+		"enumSequenceIndex": "2"
+	},
+	{
+		"enumDescription": "DirectDeposit",
+		"enumSequenceNumber": "4",
+		"enumMask": "8",
+		"enumSequenceIndex": "3"
+	},
+	{
+		"enumDescription": "Other",
+		"enumSequenceNumber": "5",
+		"enumMask": "16",
+		"enumSequenceIndex": "4"
+	},
+	{
+		"enumDescription": "BlackListed",
+		"enumSequenceNumber": "6",
+		"enumMask": "32",
+		"enumSequenceIndex": "5"
+	}]
+}

@@ -1,0 +1,16 @@
+{
+  "conversionPixelUrlTypes": [
+    {
+      "enumDescription": "HTML / JavaScript Code",
+      "enumSequenceNumber": "code"
+    },
+    {
+      "enumDescription": "Image Pixel",
+      "enumSequenceNumber": "Image Pixel"
+    },
+    {
+      "enumDescription": "Postback URL",
+      "enumSequenceNumber": "Postback URL"
+    }
+  ]
+}

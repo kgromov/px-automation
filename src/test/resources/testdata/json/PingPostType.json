@@ -1,0 +1,24 @@
+{
+  "pingPostType": [
+    {
+      "enumDescription": "Prediction",
+      "enumSequenceNumber": "Prediction"
+    },
+    {
+      "enumDescription": "Ping Forwarding",
+      "enumSequenceNumber": "Forwarding"
+    },
+    {
+      "enumDescription": "Shared Prediction",
+      "enumSequenceNumber": "SharedPrediction"
+    },
+    {
+      "enumDescription": "Shared Ping Forwarding",
+      "enumSequenceNumber": "SharedForwarding"
+    },
+    {
+      "enumDescription": "None",
+      "enumSequenceNumber": "None"
+    }
+  ]
+}

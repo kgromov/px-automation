@@ -1,0 +1,14 @@
+{
+  "brokerPlacements": [
+    {
+      "enumDescription": "Endpage",
+      "enumSequenceNumber": "2",
+      "enumSequenceIndex": "1"
+    },
+    {
+      "enumDescription": "PopUnder",
+      "enumSequenceNumber": "3",
+      "enumSequenceIndex": "2"
+    }
+  ]
+}

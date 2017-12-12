@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite Audience Report under publisher user PX UI">
+
+    <test name="Chrome Browser, Audience Report">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="version" value="any"/>
+        <parameter name="url" value=""/>
+        <classes>
+            <class name="tests.reports.AudienceUnderPublisherTest"/>
+        </classes>
+    </test>
+
+</suite>

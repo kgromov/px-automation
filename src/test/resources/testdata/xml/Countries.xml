@@ -1,0 +1,1519 @@
+<?xml version="1.0" encoding="UTF-8"?><ArrayOfKeyValueOfstringArrayOfEnumDtoAyLzvkr0 xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <KeyValueOfstringArrayOfEnumDtoAyLzvkr0>
+        <Key>Countries</Key>
+        <Value xmlns:d3p1="http://schemas.datacontract.org/2004/07/PXUI.Models.User">
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>AF</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Afghanistan</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>1</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>AX</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Aland Islands</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>2</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>AL</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Albania</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>3</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>DZ</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Algeria</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>4</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>AS</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>American Samoa</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>5</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>AD</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Andorra</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>6</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>AO</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Angola</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>7</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>AI</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Anguilla</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>8</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>AQ</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Antarctica</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>9</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>AG</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Antigua &amp; Barbuda</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>10</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>AR</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Argentina</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>11</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>AM</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Armenia</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>12</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>AW</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Aruba</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>13</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>AU</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Australia</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>14</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>AT</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Austria</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>15</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>AZ</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Azerbaijan</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>16</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>BS</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Bahamas, The</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>17</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>BH</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Bahrain</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>18</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>BD</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Bangladesh</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>19</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>BB</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Barbados</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>20</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>BY</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Belarus</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>21</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>BE</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Belgium</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>22</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>BZ</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Belize</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>23</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>BJ</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Benin</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>24</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>BM</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Bermuda</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>25</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>BT</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Bhutan</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>26</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>BO</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Bolivia</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>27</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>BQ</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Bonaire, St.Eustat, Saba</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>28</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>BA</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Bosnia and Herzegovina</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>29</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>BW</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Botswana</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>30</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>BV</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Bouvet Island</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>31</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>BR</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Brazil</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>32</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>IO</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>British Indian Ocean T.</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>33</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>BN</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Brunei Darussalam</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>34</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>BG</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Bulgaria</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>35</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>BF</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Burkina Faso</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>36</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>BI</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Burundi</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>37</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>CV</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Cabo Verde</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>38</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>KH</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Cambodia</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>39</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>CM</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Cameroon</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>40</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>CA</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Canada</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>41</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>KY</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Cayman Islands</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>42</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>CF</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Central African Republic</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>43</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>TD</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Chad</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>44</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>CL</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Chile</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>45</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>CN</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>China</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>46</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>CX</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Christmas Island</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>47</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>CC</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Cocos (Keeling) Islands</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>48</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>CO</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Colombia</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>49</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>KM</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Comoros</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>50</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>CG</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Congo</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>51</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>CD</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Congo, Dem. Rep. of the</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>52</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>CK</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Cook Islands</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>53</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>CR</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Costa Rica</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>54</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>HR</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Croatia</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>55</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>CU</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Cuba</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>56</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>CW</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Cura�ao</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>57</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>CY</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Cyprus</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>58</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>CZ</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Czech Republic</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>59</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>DK</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Denmark</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>60</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>DJ</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Djibouti</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>61</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>DM</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Dominica</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>62</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>DO</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Dominican Republic</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>63</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>TP</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>East Timor (Timor-Leste)</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>64</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>EC</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Ecuador</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>65</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>EG</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Egypt</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>66</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>SV</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>El Salvador</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>67</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>ER</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Eritrea</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>68</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>EE</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Estonia</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>69</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>ET</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Ethiopia</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>70</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>EU</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>European Union</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>71</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>FK</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Falkland Is. (Malvinas)</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>72</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>FO</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Faroe Islands</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>73</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>FJ</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Fiji</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>74</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>FI</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Finland</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>75</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>FR</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>France</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>76</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>PF</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>French Polynesia</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>77</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>TF</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>French Southern Terr.</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>78</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>GA</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Gabon</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>79</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>GM</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Gambia, the</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>80</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>GE</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Georgia</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>81</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>DE</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Germany</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>82</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>GH</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Ghana</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>83</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>GI</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Gibraltar</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>84</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>GR</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Greece</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>85</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>GL</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Greenland</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>86</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>GD</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Grenada</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>87</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>GP</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Guadeloupe</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>88</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>GU</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Guam</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>89</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>GT</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Guatemala</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>90</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>GG</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Guernsey and Alderney</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>91</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>GF</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Guiana, French</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>92</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>GN</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Guinea</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>93</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>GQ</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Guinea, Equatorial</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>94</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>GW</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Guinea-Bissau</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>95</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>GY</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Guyana</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>96</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>HT</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Haiti</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>97</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>HM</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Heard &amp; McDonald Is.</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>98</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>HN</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Honduras</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>99</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>HK</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Hong Kong, (China)</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>100</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>HU</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Hungary</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>101</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>IS</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Iceland</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>102</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>IN</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>India</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>103</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>ID</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Indonesia</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>104</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>IR</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Iran, Islamic Republic of</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>105</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>IQ</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Iraq</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>106</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>IE</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Ireland</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>107</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>IL</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Israel</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>108</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>IT</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Italy</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>109</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>CI</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Ivory Coast (Cote d'Ivoire)</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>110</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>JM</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Jamaica</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>111</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>JP</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Japan</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>112</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>JE</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Jersey</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>113</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>JO</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Jordan</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>114</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>KZ</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Kazakhstan</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>115</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>KE</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Kenya</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>116</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>KI</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Kiribati</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>117</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>KP</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Korea Dem. People's Rep.</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>118</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>KR</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Korea, (South) Republic of</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>119</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>KV</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Kosovo</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>120</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>KW</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Kuwait</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>121</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>KG</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Kyrgyzstan</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>122</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>LA</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Lao People's Dem. Rep.</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>123</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>LV</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Latvia</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>124</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>LB</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Lebanon</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>125</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>LS</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Lesotho</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>126</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>LR</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Liberia</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>127</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>LY</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Libyan Arab Jamahiriya</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>128</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>LI</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Liechtenstein</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>129</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>LT</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Lithuania</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>130</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>LU</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Luxembourg</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>131</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>MO</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Macao, (China)</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>132</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>MK</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Macedonia, TFYR</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>133</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>MG</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Madagascar</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>134</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>MW</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Malawi</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>135</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>MY</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Malaysia</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>136</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>MV</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Maldives</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>137</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>ML</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Mali</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>138</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>MT</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Malta</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>139</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>IM</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Man, Isle of</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>140</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>MH</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Marshall Islands</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>141</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>MQ</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Martinique (FR)</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>142</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>MR</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Mauritania</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>143</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>MU</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Mauritius</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>144</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>YT</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Mayotte (FR)</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>145</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>MX</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Mexico</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>146</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>FM</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Micronesia, Fed. States of</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>147</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>MD</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Moldova, Republic of</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>148</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>MC</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Monaco</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>149</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>MN</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Mongolia</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>150</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>CS</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Montenegro</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>151</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>MS</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Montserrat</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>152</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>MA</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Morocco</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>153</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>MZ</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Mozambique</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>154</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>MM</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Myanmar (ex-Burma)</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>155</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>NA</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Namibia</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>156</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>NR</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Nauru</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>157</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>NP</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Nepal</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>158</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>NL</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Netherlands</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>159</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>AN</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Netherlands Antilles</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>160</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>NC</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>New Caledonia</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>161</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>NZ</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>New Zealand</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>162</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>NI</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Nicaragua</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>163</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>NE</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Niger</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>164</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>NG</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Nigeria</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>165</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>NU</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Niue</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>166</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>NF</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Norfolk Island</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>167</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>MP</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Northern Mariana Islands</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>168</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>NO</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Norway</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>169</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>OM</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Oman</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>170</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>PK</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Pakistan</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>171</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>PW</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Palau</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>172</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>PS</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Palestinian Territory</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>173</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>PA</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Panama</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>174</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>PG</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Papua New Guinea</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>175</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>PY</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Paraguay</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>176</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>PE</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Peru</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>177</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>PH</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Philippines</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>178</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>PN</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Pitcairn Island</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>179</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>PL</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Poland</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>180</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>PT</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Portugal</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>181</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>PR</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Puerto Rico</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>182</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>QA</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Qatar</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>183</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>RE</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Reunion (FR)</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>184</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>RO</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Romania</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>185</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>RU</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Russia (Russian Fed.)</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>186</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>RW</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Rwanda</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>187</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>PM</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>S Pierre &amp; Miquelon(FR)</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>188</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>VC</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>S Vincent &amp; Grenadines</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>189</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>GS</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>S.George &amp; S.Sandwich</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>190</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>EH</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Sahara, Western</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>191</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>BL</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Saint Barthelemy (FR)</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>192</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>SH</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Saint Helena (UK)</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>193</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>KN</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Saint Kitts and Nevis</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>194</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>LC</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Saint Lucia</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>195</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>MF</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Saint Martin (FR)</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>196</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>WS</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Samoa</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>197</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>SM</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>San Marino</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>198</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>ST</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Sao Tome and Principe</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>199</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>SA</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Saudi Arabia</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>200</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>SN</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Senegal</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>201</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>RS</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Serbia</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>202</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>SC</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Seychelles</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>203</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>SL</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Sierra Leone</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>204</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>SG</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Singapore</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>205</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>SK</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Slovakia</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>206</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>SI</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Slovenia</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>207</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>SB</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Solomon Islands</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>208</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>SO</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Somalia</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>209</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>ZA</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>South Africa</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>210</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>SS</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>South Sudan</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>211</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>ES</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Spain</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>212</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>LK</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Sri Lanka (ex-Ceilan)</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>213</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>SD</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Sudan</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>214</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>SR</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Suriname</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>215</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>SJ</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Svalbard &amp; Jan Mayen Is.</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>216</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>SZ</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Swaziland</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>217</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>SE</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Sweden</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>218</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>CH</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Switzerland</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>219</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>SY</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Syrian Arab Republic</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>220</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>TW</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Taiwan</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>221</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>TJ</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Tajikistan</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>222</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>TZ</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Tanzania, United Rep. of</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>223</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>TH</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Thailand</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>224</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>TG</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Togo</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>225</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>TK</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Tokelau</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>226</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>TO</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Tonga</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>227</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>TT</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Trinidad &amp; Tobago</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>228</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>TN</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Tunisia</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>229</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>TR</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Turkey</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>230</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>TM</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Turkmenistan</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>231</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>TC</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Turks and Caicos Is.</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>232</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>TV</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Tuvalu</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>233</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>UG</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Uganda</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>234</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>UA</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Ukraine</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>235</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>AE</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>United Arab Emirates</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>236</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>UK</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>United Kingdom</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>237</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>US</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>United States</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>238</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>USA</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>USA</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>239</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>UY</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Uruguay</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>240</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>UM</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>US Minor Outlying Isl.</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>241</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>UZ</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Uzbekistan</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>242</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>VU</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Vanuatu</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>243</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>VA</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Vatican (Holy See)</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>244</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>VE</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Venezuela</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>245</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>VN</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Viet Nam</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>246</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>VG</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Virgin Islands, British</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>247</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>VI</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Virgin Islands, U.S.</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>248</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>WF</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Wallis and Futuna</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>249</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>YE</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Yemen</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>250</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>ZM</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Zambia</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>251</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+            <d3p1:EnumDto>
+                <d3p1:EnumDescription>ZW</d3p1:EnumDescription>
+                <d3p1:EnumFullDescription>Zimbabwe</d3p1:EnumFullDescription>
+                <d3p1:EnumMask i:nil="true"/>
+                <d3p1:EnumSequenceNumber>252</d3p1:EnumSequenceNumber>
+            </d3p1:EnumDto>
+        </Value>
+    </KeyValueOfstringArrayOfEnumDtoAyLzvkr0>
+</ArrayOfKeyValueOfstringArrayOfEnumDtoAyLzvkr0>

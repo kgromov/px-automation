@@ -1,0 +1,264 @@
+{
+  "buyerPostResultCodes": [
+    {
+      "enumDescription": "NotValidError",
+      "enumSequenceNumber": "1",
+      "enumSequenceIndex": "0"
+    },
+    {
+      "enumDescription": "Success",
+      "enumSequenceNumber": "2",
+      "enumSequenceIndex": "1"
+    },
+    {
+      "enumDescription": "Error",
+      "enumSequenceNumber": "3",
+      "enumSequenceIndex": "2"
+    },
+    {
+      "enumDescription": "Invalid request",
+      "enumSequenceNumber": "4",
+      "enumSequenceIndex": "3"
+    },
+    {
+      "enumDescription": "Invalid XML",
+      "enumSequenceNumber": "5",
+      "enumSequenceIndex": "4"
+    },
+    {
+      "enumDescription": "Missing field",
+      "enumSequenceNumber": "6",
+      "enumSequenceIndex": "5"
+    },
+    {
+      "enumDescription": "Unrecognized XML tag",
+      "enumSequenceNumber": "7",
+      "enumSequenceIndex": "6"
+    },
+    {
+      "enumDescription": "Missing XML tag",
+      "enumSequenceNumber": "8",
+      "enumSequenceIndex": "7"
+    },
+    {
+      "enumDescription": "Missing required data",
+      "enumSequenceNumber": "9",
+      "enumSequenceIndex": "8"
+    },
+    {
+      "enumDescription": "Invalid input",
+      "enumSequenceNumber": "10",
+      "enumSequenceIndex": "9"
+    },
+    {
+      "enumDescription": "Duplicate Entry",
+      "enumSequenceNumber": "11",
+      "enumSequenceIndex": "10"
+    },
+    {
+      "enumDescription": "Unable to monetize",
+      "enumSequenceNumber": "12",
+      "enumSequenceIndex": "11"
+    },
+    {
+      "enumDescription": "Invalid Partner Id",
+      "enumSequenceNumber": "13",
+      "enumSequenceIndex": "12"
+    },
+    {
+      "enumDescription": "Invalid Product Id",
+      "enumSequenceNumber": "14",
+      "enumSequenceIndex": "13"
+    },
+    {
+      "enumDescription": "Invalid street address",
+      "enumSequenceNumber": "15",
+      "enumSequenceIndex": "14"
+    },
+    {
+      "enumDescription": "Invalid Email",
+      "enumSequenceNumber": "16",
+      "enumSequenceIndex": "15"
+    },
+    {
+      "enumDescription": "Invalid phone number",
+      "enumSequenceNumber": "17",
+      "enumSequenceIndex": "16"
+    },
+    {
+      "enumDescription": "Invalid Lead details",
+      "enumSequenceNumber": "18",
+      "enumSequenceIndex": "17"
+    },
+    {
+      "enumDescription": "Payout not accepted",
+      "enumSequenceNumber": "19",
+      "enumSequenceIndex": "18"
+    },
+    {
+      "enumDescription": "Invalid FirstName or LastName",
+      "enumSequenceNumber": "20",
+      "enumSequenceIndex": "19"
+    },
+    {
+      "enumDescription": "Invalid Date of Birth",
+      "enumSequenceNumber": "21",
+      "enumSequenceIndex": "20"
+    },
+    {
+      "enumDescription": "Invalid YearMakeModelVin",
+      "enumSequenceNumber": "22",
+      "enumSequenceIndex": "21"
+    },
+    {
+      "enumDescription": "Invalid Already Submitted",
+      "enumSequenceNumber": "23",
+      "enumSequenceIndex": "22"
+    },
+    {
+      "enumDescription": "PingToPostWindowExceeded",
+      "enumSequenceNumber": "24",
+      "enumSequenceIndex": "23"
+    },
+    {
+      "enumDescription": "No Buyer Found",
+      "enumSequenceNumber": "25",
+      "enumSequenceIndex": "24"
+    },
+    {
+      "enumDescription": "Invalid ZipCode",
+      "enumSequenceNumber": "26",
+      "enumSequenceIndex": "25"
+    },
+    {
+      "enumDescription": "Invalid Insurance",
+      "enumSequenceNumber": "27",
+      "enumSequenceIndex": "26"
+    },
+    {
+      "enumDescription": "Lead not Accepted",
+      "enumSequenceNumber": "28",
+      "enumSequenceIndex": "27"
+    },
+    {
+      "enumDescription": "Invalid Liability Protection",
+      "enumSequenceNumber": "29",
+      "enumSequenceIndex": "28"
+    },
+    {
+      "enumDescription": "Invalid Driver Info",
+      "enumSequenceNumber": "30",
+      "enumSequenceIndex": "29"
+    },
+    {
+      "enumDescription": "ServerUnavailable",
+      "enumSequenceNumber": "31",
+      "enumSequenceIndex": "30"
+    },
+    {
+      "enumDescription": "Invalid GeoData",
+      "enumSequenceNumber": "32",
+      "enumSequenceIndex": "31"
+    },
+    {
+      "enumDescription": "Prevented posting of duplicate",
+      "enumSequenceNumber": "33",
+      "enumSequenceIndex": "32"
+    },
+    {
+      "enumDescription": "Invalid POLK Data",
+      "enumSequenceNumber": "34",
+      "enumSequenceIndex": "33"
+    },
+    {
+      "enumDescription": "Request Timed Out",
+      "enumSequenceNumber": "35",
+      "enumSequenceIndex": "34"
+    },
+    {
+      "enumDescription": "Unmapped Error",
+      "enumSequenceNumber": "36",
+      "enumSequenceIndex": "35"
+    },
+    {
+      "enumDescription": "Ping Response Error",
+      "enumSequenceNumber": "37",
+      "enumSequenceIndex": "36"
+    },
+    {
+      "enumDescription": "Post Response Error",
+      "enumSequenceNumber": "38",
+      "enumSequenceIndex": "37"
+    },
+    {
+      "enumDescription": "PluginError",
+      "enumSequenceNumber": "39",
+      "enumSequenceIndex": "38"
+    },
+    {
+      "enumDescription": "EscoreTooLow",
+      "enumSequenceNumber": "40",
+      "enumSequenceIndex": "39"
+    },
+    {
+      "enumDescription": "Template error",
+      "enumSequenceNumber": "41",
+      "enumSequenceIndex": "40"
+    },
+    {
+      "enumDescription": "FilteredDuplicate",
+      "enumSequenceNumber": "42",
+      "enumSequenceIndex": "41"
+    },
+    {
+      "enumDescription": "PublisherTierNotConnected",
+      "enumSequenceNumber": "43",
+      "enumSequenceIndex": "42"
+    },
+    {
+      "enumDescription": "PublisherBlocked",
+      "enumSequenceNumber": "44",
+      "enumSequenceIndex": "43"
+    },
+    {
+      "enumDescription": "BuyerCapReached",
+      "enumSequenceNumber": "45",
+      "enumSequenceIndex": "44"
+    },
+    {
+      "enumDescription": "BuyerPaused",
+      "enumSequenceNumber": "46",
+      "enumSequenceIndex": "45"
+    },
+    {
+      "enumDescription": "PublisherSubBlocked",
+      "enumSequenceNumber": "47",
+      "enumSequenceIndex": "46"
+    },
+    {
+      "enumDescription": "BuyerMonthCapReached",
+      "enumSequenceNumber": "48",
+      "enumSequenceIndex": "47"
+    },
+    {
+      "enumDescription": "BuyerNoFilterMatch",
+      "enumSequenceNumber": "49",
+      "enumSequenceIndex": "48"
+    },
+    {
+      "enumDescription": "ExtendedEmailcheckFailed",
+      "enumSequenceNumber": "50",
+      "enumSequenceIndex": "49"
+    },
+    {
+      "enumDescription": "BuyerCreditLimitReached",
+      "enumSequenceNumber": "51",
+      "enumSequenceIndex": "50"
+    },
+    {
+      "enumDescription": "Disposition Changed",
+      "enumSequenceNumber": "52",
+      "enumSequenceIndex": "51"
+    }
+  ]
+}

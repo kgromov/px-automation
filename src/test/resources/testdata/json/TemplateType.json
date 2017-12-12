@@ -1,0 +1,20 @@
+{
+  "templateType": [
+    {
+      "enumDescription": "XML",
+      "enumSequenceNumber": "templateType.XML"
+    },
+    {
+      "enumDescription": "HTTP",
+      "enumSequenceNumber": "templateType.HTTP"
+    },
+    {
+      "enumDescription": "JSON",
+      "enumSequenceNumber": "templateType.JSON"
+    },
+    {
+      "enumDescription": "SOAP",
+      "enumSequenceNumber": "templateType.SOAP"
+    }
+  ]
+}

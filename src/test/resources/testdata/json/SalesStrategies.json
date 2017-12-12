@@ -1,0 +1,19 @@
+{
+  "salesStrategies": [
+    {
+      "enumDescription": "EarnidBusiness.APIAdvertiser.BiddingManager, EarnidBusiness",
+      "enumSequenceNumber": "2",
+      "enumSequenceIndex": "1"
+    },
+    {
+      "enumDescription": "EarnidBusiness.APIAdvertiser.BulkSaleManager, EarnidBusiness",
+      "enumSequenceNumber": "3",
+      "enumSequenceIndex": "2"
+    },
+    {
+      "enumDescription": "EarnidBusiness.APIAdvertiser.AutomotiveSaleManager, EarnidBusiness",
+      "enumSequenceNumber": "4",
+      "enumSequenceIndex": "3"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "contactInfoTypes": [
+    {
+      "enumDescription": "Company",
+      "enumSequenceNumber": "1",
+      "enumSequenceIndex": "0"
+    },
+    {
+      "enumDescription": "Person",
+      "enumSequenceNumber": "2",
+      "enumSequenceIndex": "1"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "offerFileTypes": [
+    {
+      "enumDescription": "File",
+      "enumSequenceNumber": "file"
+    },
+    {
+      "enumDescription": "Image banner",
+      "enumSequenceNumber": "image banner"
+    },
+    {
+      "enumDescription": "Flash banner",
+      "enumSequenceNumber": "flash banner"
+    },
+    {
+      "enumDescription": "Email creative",
+      "enumSequenceNumber": "email creative"
+    },
+    {
+      "enumDescription": "Offer thumbnail",
+      "enumSequenceNumber": "offer thumbnail"
+    },
+    {
+      "enumDescription": "Text ads",
+      "enumSequenceNumber": "text ad"
+    },
+    {
+      "enumDescription": "Html ads",
+      "enumSequenceNumber": "html ad"
+    },
+    {
+      "enumDescription": "Hidden",
+      "enumSequenceNumber": "hidden"
+    },
+    {
+      "enumDescription": "XML feed",
+      "enumSequenceNumber": "xml feed"
+    }
+  ]
+}

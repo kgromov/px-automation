@@ -1,0 +1,12 @@
+{
+  "onOff": [
+    {
+      "enumDescription": "On",
+      "enumSequenceNumber": "true"
+    },
+    {
+      "enumDescription": "Off",
+      "enumSequenceNumber": "false"
+    }
+  ]
+}

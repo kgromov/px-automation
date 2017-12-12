@@ -1,0 +1,52 @@
+{
+  "campaignTypes": [
+    {
+      "enumDescription": "Quiz",
+      "enumSequenceNumber": "2",
+      "enumMask": "1",
+      "enumSequenceIndex": "1"
+    },
+    {
+      "enumDescription": "ZipCodeSubmit",
+      "enumSequenceNumber": "3",
+      "enumMask": "2",
+      "enumSequenceIndex": "2"
+    },
+    {
+      "enumDescription": "Shortform",
+      "enumSequenceNumber": "4",
+      "enumMask": "4",
+      "enumSequenceIndex": "3"
+    },
+    {
+      "enumDescription": "Longform",
+      "enumSequenceNumber": "5",
+      "enumMask": "8",
+      "enumSequenceIndex": "4"
+    },
+    {
+      "enumDescription": "ZipcodePremium",
+      "enumSequenceNumber": "6",
+      "enumMask": "16",
+      "enumSequenceIndex": "5"
+    },
+    {
+      "enumDescription": "Domain",
+      "enumSequenceNumber": "7",
+      "enumMask": "32",
+      "enumSequenceIndex": "6"
+    },
+    {
+      "enumDescription": "Email",
+      "enumSequenceNumber": "8",
+      "enumMask": "64",
+      "enumSequenceIndex": "7"
+    },
+    {
+      "enumDescription": "Mobile",
+      "enumSequenceNumber": "9",
+      "enumMask": "128",
+      "enumSequenceIndex": "8"
+    }
+  ]
+}

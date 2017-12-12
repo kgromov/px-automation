@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Global Suite for PX UI instances" parallel="tests" thread-count="2">
+
+    <test name="Chrome Browser, brokers">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="version" value="any"/>
+        <parameter name="url" value=""/>
+        <classes>
+            <class name="tests.objects.brokers.CreateBrokersTest"/>
+            <class name="tests.objects.brokers.EditBrokersTest"/>
+            <class name="tests.objects.brokers.DeleteBrokersTest"/>
+        </classes>
+    </test>
+
+    <test name="Chrome Browser, buyers">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="version" value="any"/>
+        <parameter name="url" value=""/>
+        <classes>
+            <class name="tests.objects.buyers.CreateBuyersTest"/>
+            <class name="tests.objects.buyers.EditBuyersTest"/>
+            <class name="tests.objects.users.buyer.CreateBuyerUsersTest"/>
+        </classes>
+    </test>
+
+    <test name="Chrome Browser, campaigns">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="version" value="any"/>
+        <parameter name="url" value=""/>
+        <classes>
+            <class name="tests.objects.campaigns.CreateCampaignsTest"/>
+            <class name="tests.objects.campaigns.EditCampaignsTest"/>
+        </classes>
+    </test>
+
+    <test name="Chrome Browser, offers">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="version" value="any"/>
+        <parameter name="url" value=""/>
+        <classes>
+            <class name="tests.objects.offers.CreateOffersTest"/>
+            <class name="tests.objects.offers.EditOffersTest"/>
+            <class name="tests.objects.offers.OffersAdvancedSettingsTest"/>
+        </classes>
+    </test>
+
+    <test name="Chrome Browser, payouts">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="version" value="any"/>
+        <parameter name="url" value=""/>
+        <classes>
+            <class name="tests.objects.payouts.CreatePayoutsTest"/>
+            <class name="tests.objects.payouts.DeletePayoutsTest"/>
+            <class name="tests.objects.payouts.EditPayoutsTest"/>
+        </classes>
+    </test>
+
+    <test name="Chrome Browser, publishers">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="version" value="any"/>
+        <parameter name="url" value=""/>
+        <classes>
+            <class name="tests.objects.publishers.CreatePublishersTest"/>
+            <class name="tests.objects.publishers.EditPublishersTest"/>
+            <class name="tests.objects.publishers.PublishersAdvancedSettingsTest"/>
+        </classes>
+    </test>
+
+</suite>

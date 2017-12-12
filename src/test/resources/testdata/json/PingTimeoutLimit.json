@@ -1,0 +1,29 @@
+{
+  "pingTimeoutLimit": [
+    {
+      "enumDescription": "5",
+      "enumSequenceNumber": "5000",
+      "enumSequenceIndex": "4999"
+    },
+    {
+      "enumDescription": "10",
+      "enumSequenceNumber": "10000",
+      "enumSequenceIndex": "9999"
+    },
+    {
+      "enumDescription": "15",
+      "enumSequenceNumber": "15000",
+      "enumSequenceIndex": "14999"
+    },
+    {
+      "enumDescription": "20",
+      "enumSequenceNumber": "20000",
+      "enumSequenceIndex": "19999"
+    },
+    {
+      "enumDescription": "25",
+      "enumSequenceNumber": "25000",
+      "enumSequenceIndex": "24999"
+    }
+  ]
+}

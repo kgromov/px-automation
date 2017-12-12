@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="Suite Publishers PX UI" parallel="classes">
+
+    <test name="Chrome Browser, publishers">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="version" value="any"/>
+        <parameter name="url" value=""/>
+        <classes>
+            <class name="tests.objects.publishers.CreatePublishersTest"/>
+            <class name="tests.objects.publishers.EditPublishersTest"/>
+            <class name="tests.objects.publishers.PublishersAdvancedSettingsTest"/>
+            <class name="tests.objects.publishers.ExportPublishersTest"/>
+        </classes>
+    </test>
+
+</suite>

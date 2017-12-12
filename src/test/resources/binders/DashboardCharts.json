@@ -1,0 +1,261 @@
+[
+  {
+    "name": "statistics",
+    "container": ".//div[@class='px-statistics']",
+    "data": [
+      {
+        "name": "mtd",
+        "locator": ".//*[contains(@translate, 'Revenue')]/preceding-sibling::span",
+        "type": "number",
+        "round": 2
+      },
+      {
+        "name": "publisherClicks",
+        "locator": ".//*[contains(@translate, 'Clicks')]/preceding-sibling::span",
+        "type": "number",
+        "round": 0
+      },
+      {
+        "name": "publisherConversions",
+        "locator": ".//*[contains(@translate, 'Conversions')]/preceding-sibling::span",
+        "type": "number",
+        "round": 0
+      },
+      {
+        "name": "qiq",
+        "locator": ".//*[contains(@translate, 'LeadQualityScore')]/preceding-sibling::span",
+        "type": "number",
+        "round": 2
+      }
+    ]
+  },
+  {
+    "name": "leadsBuying",
+    "container": ".//div[@class='px-buying-info']",
+    "data": [
+      {
+        "name": "takeRate",
+        "locator": ".//*[contains(@translate, 'TakeRate')]/..",
+        "type": "number",
+        "round": 2
+      },
+      {
+        "name": "winRate",
+        "locator": ".//*[contains(@translate, 'WinRate')]/..",
+        "type": "number",
+        "round": 2
+      },
+      {
+        "name": "acceptanceRate",
+        "locator": ".//*[contains(@translate, 'AcceptanceRate')]/..",
+        "type": "number",
+        "round": 2
+      },
+      {
+        "name": "returnRate",
+        "locator": ".//*[contains(@translate, 'ReturnedLeads')]/..",
+        "type": "number",
+        "round": 2
+      }
+    ]
+  },
+  {
+    "name": "ageGroup",
+    "container": ".//*[@insight-type='ageGroup']",
+    "data": [
+      {
+        "name": "total",
+        "locator": ".//*[@class='chart-summary']",
+        "type": "number",
+        "round": 1,
+        "sortBy": "leads"
+      },
+      {
+        "name": "ageGroup",
+        "locator": ".//li[%d]"
+      }
+    ],
+    "tooltipData": {
+      "item": "path",
+      "data": [
+        {
+          "name": "ageGroup"
+        },
+        {
+          "name": "leads",
+          "type": "number",
+          "round": 2
+        }
+      ]
+    }
+  },
+  {
+    "name": "gender",
+    "container": ".//*[@insight-type='gender']",
+    "data": [
+      {
+        "name": "total",
+        "locator": ".//*[@class='chart-summary']",
+        "type": "number",
+        "round": 1,
+        "sortBy": "leads"
+      },
+      {
+        "name": "gender",
+        "locator": ".//li[%d]"
+      }
+    ],
+    "tooltipData": {
+      "item": "path",
+      "data": [
+        {
+          "name": "gender"
+        },
+        {
+          "name": "leads",
+          "type": "number",
+          "round": 2
+        }
+      ]
+    }
+  },
+  {
+    "name": "state",
+    "container": ".//*[@insight-type='state']",
+    "total": ".//*[@class='px-summary']",
+    "round": 1,
+    "data": [
+      {
+        "name": "total",
+        "locator": ".//*[@class='chart-summary']",
+        "type": "number",
+        "round": 1,
+        "sortBy": "leads"
+      },
+      {
+        "name": "state",
+        "locator": "g text:eq(2)"
+      },
+      {
+        "name": "leads",
+        "locator": "g text:eq(3)",
+        "type": "number",
+        "round": 0
+      }
+    ],
+    "tooltipData": {
+      "item": "g rect:nth-of-type(1)",
+      "data": [
+        {
+          "name": "state"
+        },
+        {
+          "name": "leads",
+          "type": "number",
+          "round": 2
+        }
+      ]
+    },
+    "proportionData": {
+      "name": "leads",
+      "locator": "g rect:nth-of-type(2)"
+    }
+  },
+  {
+    "name": "leads",
+    "container": ".//*[@config-name='lead']",
+    "data": [
+      {
+        "name": "total",
+        "locator": ".//*[@class='px-summary']/*[contains(@class, 'value')]",
+        "type": "number",
+        "round": 0,
+        "sortBy": "leads",
+        "totalBy": "dateTime"
+      },
+      {
+        "name": "column",
+        "locator": "g rect:eq(0)"
+      }
+    ],
+    "tooltipData": {
+      "item": "rect",
+      "data": [
+        {
+          "name": "dateTime",
+          "type": "datetime",
+          "inPattern": "yyyyMMdd",
+          "outPattern": "MMM d"
+        },
+        {
+          "name": "leads",
+          "type": "number",
+          "round": 0
+        }
+      ]
+    },
+    "proportionData": {
+      "name": "leads",
+      "locator": "rect"
+    }
+  },
+  {
+    "name": "conversions",
+    "container": ".//*[@config-name='conversion']",
+    "data": [
+      {
+        "name": "total",
+        "locator": ".//*[@class='px-summary']/*[contains(@class, 'value')]",
+        "type": "number",
+        "round": 0,
+        "sortBy": "conversions",
+        "totalBy": "dateTime"
+      },
+      {
+        "name": "column",
+        "locator": "g rect:eq(0)"
+      }
+    ],
+    "tooltipData": {
+      "item": "rect",
+      "data": [
+        {
+          "name": "dateTime",
+          "type": "datetime",
+          "inPattern": "yyyyMMdd",
+          "outPattern": "MMM d"
+        },
+        {
+          "name": "conversions",
+          "type": "number",
+          "round": 0
+        }
+      ]
+    },
+    "proportionData": {
+      "name": "conversions",
+      "locator": "rect"
+    }
+  },
+  {
+    "name": "leadNames",
+    "container": ".//*[@id='shortleadslist']",
+    "data": [
+      {
+        "name": "firstName",
+        "locator": ".//a[%d]/div"
+      },
+      {
+        "name": "lastName",
+        "locator": ".//a[%d]/div"
+      },
+      {
+        "name": "creationDate",
+        "locator": ".//a[%d]/span",
+        "type": "datetime",
+        "inPattern": "yyyy-MM-dd HH:mm:ss",
+        "outPattern": "MMMM d'th' yyyy, h:mm:ss a"
+      }
+    ]
+  }
+]

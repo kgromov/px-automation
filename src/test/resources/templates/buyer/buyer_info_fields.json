@@ -1,0 +1,94 @@
+// http://development-ui.stagingpx.com/api/buyerinfo?parentObjectId=4e6a61ee-f45f-4cfa-8f76-f221b5730e9c, OPTIONS
+[{
+	"title": "form.ContactInfoId",
+	"visible": true,
+	"editable": false,
+	"field": "contactInfoId",
+	"default": "519bec43-d9bb-4555-8b25-ed51a85bcb51",
+	"mandatory": false
+},
+{
+	"title": "form.CompanyName",
+	"visible": true,
+	"editable": true,
+	"field": "companyName",
+	"default": "Buyer Name request",
+	"viewType": "string",
+	"group": "contactInfo",
+	"mandatory": true
+},
+{
+	"title": "form.FirstName",
+	"visible": true,
+	"editable": true,
+	"field": "firstName",
+	"default": "",
+	"group": "contactInfo",
+	"mandatory": false
+},
+{
+	"title": "form.MiddleName",
+	"visible": true,
+	"editable": true,
+	"field": "middleName",
+	"default": "",
+	"mandatory": false
+},
+{
+	"title": "form.LastName",
+	"visible": true,
+	"editable": true,
+	"field": "lastName",
+	"default": "",
+	"group": "contactInfo",
+	"mandatory": false
+},
+{
+	"title": "form.FunctionTitle",
+	"visible": true,
+	"editable": true,
+	"field": "functionTitle",
+	"default": "",
+	"group": "contactInfo",
+	"mandatory": false
+},
+{
+	"title": "form.Initials",
+	"visible": true,
+	"editable": true,
+	"field": "initials",
+	"default": "",
+	"mandatory": false
+},
+{
+	"title": "form.BirthDate",
+	"visible": true,
+	"editable": true,
+	"field": "birthDate",
+	"default": "0001-01-01T00:00:00",
+	"mandatory": false
+},
+{
+	"title": "form.Email",
+	"visible": true,
+	"editable": true,
+	"field": "email",
+	"default": "",
+	"mandatory": false
+},
+{
+	"title": "form.Gender",
+	"visible": true,
+	"editable": true,
+	"field": "gender",
+	"default": "",
+	"mandatory": false
+},
+{
+	"title": "form.MaritalState",
+	"visible": true,
+	"editable": true,
+	"field": "maritalState",
+	"default": "",
+	"mandatory": false
+}]

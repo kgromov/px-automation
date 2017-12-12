@@ -1,0 +1,89 @@
+{
+  "publisherAccessModes": [
+    {
+      "enumDescription": "Standard",
+      "enumSequenceNumber": "1",
+      "enumSequenceIndex": "0"
+    },
+    {
+      "enumDescription": "StandardRevShare",
+      "enumSequenceNumber": "2",
+      "enumSequenceIndex": "1"
+    },
+    {
+      "enumDescription": "FirstPageSubmit",
+      "enumSequenceNumber": "3",
+      "enumSequenceIndex": "2"
+    },
+    {
+      "enumDescription": "FirstPageSubmitRevShare",
+      "enumSequenceNumber": "4",
+      "enumSequenceIndex": "3"
+    },
+    {
+      "enumDescription": "SoldLead",
+      "enumSequenceNumber": "5",
+      "enumSequenceIndex": "4"
+    },
+    {
+      "enumDescription": "SoldLeadRevShare",
+      "enumSequenceNumber": "6",
+      "enumSequenceIndex": "5"
+    },
+    {
+      "enumDescription": "LeadSubmit",
+      "enumSequenceNumber": "7",
+      "enumSequenceIndex": "6"
+    },
+    {
+      "enumDescription": "LeadSubmitRevShare",
+      "enumSequenceNumber": "8",
+      "enumSequenceIndex": "7"
+    },
+    {
+      "enumDescription": "LeadPixelSubmit",
+      "enumSequenceNumber": "9",
+      "enumSequenceIndex": "8"
+    },
+    {
+      "enumDescription": "LeadPixelSubmitRevShare",
+      "enumSequenceNumber": "10",
+      "enumSequenceIndex": "9"
+    },
+    {
+      "enumDescription": "StandardTransLess",
+      "enumSequenceNumber": "11",
+      "enumSequenceIndex": "10"
+    },
+    {
+      "enumDescription": "StandardRevShareTransLess",
+      "enumSequenceNumber": "12",
+      "enumSequenceIndex": "11"
+    },
+    {
+      "enumDescription": "LeadSubmitTransLess",
+      "enumSequenceNumber": "13",
+      "enumSequenceIndex": "12"
+    },
+    {
+      "enumDescription": "LeadSubmitRevShareTransLess",
+      "enumSequenceNumber": "14",
+      "enumSequenceIndex": "13"
+    },
+    {
+      "enumDescription": "LeadPixelSubmitTransLess",
+      "enumSequenceNumber": "15",
+      "enumSequenceIndex": "14"
+    },
+    {
+      "enumDescription": "LeadPixelSubmitRevShareTransLess",
+      "enumSequenceNumber": "16",
+      "enumSequenceIndex": "15"
+    },
+    {
+      "enumDescription": "LeadPixelSubmitMargin",
+      "enumSequenceNumber": "17",
+      "enumSequenceIndex": "16"
+    }
+  ]
+}

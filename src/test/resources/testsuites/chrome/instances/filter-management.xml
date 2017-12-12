@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="Suite Campaigns Filter Management PX UI" parallel="classes">
+
+    <test name="Chrome Browser, Filter management">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="version" value="any"/>
+        <parameter name="url" value=""/>
+        <classes>
+            <class name="tests.objects.filterManagement.CreateCampaignsFilterTest"/>
+            <!--<class name="tests.objects.filterManagement.CampaignFiltersTest"/>-->
+        </classes>
+    </test>
+
+</suite>

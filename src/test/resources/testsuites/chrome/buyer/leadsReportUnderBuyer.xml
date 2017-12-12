@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="Suite Leads Report under buyer user PX UI" parallel="classes">
+
+    <test name="Chrome Browser, Leads Report under buyer user">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="version" value="any"/>
+        <parameter name="url" value=""/>
+        <classes>
+            <class name="tests.reports.leads.LeadsUnderBuyerTest"/>
+            <class name="tests.reports.leads.LeadsSearchReportTest"/>
+        </classes>
+    </test>
+
+</suite>

@@ -1,0 +1,537 @@
+[{
+	"title": "form.OfferName",
+	"visible": true,
+	"editable": true,
+	"field": "offerName",
+	"default": "Offer Name request",
+	"viewType": "string",
+	"group": "basic",
+	"mandatory": false
+},
+{
+	"title": "form.Description",
+	"visible": true,
+	"editable": true,
+	"field": "description",
+	"default": "test crud requests",
+	"viewType": "bigString",
+	"group": "basic",
+	"mandatory": false
+},
+{
+	"title": "form.PreviewUrl",
+	"visible": true,
+	"editable": true,
+	"field": "previewUrl",
+	"default": "http://offer.url.net/id=1",
+	"viewType": "url",
+	"group": "basic",
+	"mandatory": false
+},
+{
+	"title": "form.OfferUrl",
+	"visible": true,
+	"editable": true,
+	"field": "offerUrl",
+	"default": "http://offer.url.net/id=1",
+	"viewType": "url",
+	"group": "basic",
+	"mandatory": false
+},
+{
+	"title": "form.Protocol",
+	"visible": true,
+	"editable": true,
+	"field": "protocol",
+	"default": "http",
+	"viewType": "select",
+	"valuesProvider": {
+		"additionalValues": "No",
+		"type": "lxpEnum",
+		"provider": "Protocols",
+		"outputProperty": "enumSequenceNumber",
+		"displayProperty": "enumDescription"
+	},
+	"group": "basic",
+	"mandatory": false
+},
+{
+	"title": "form.OfferStatus",
+	"visible": true,
+	"editable": true,
+	"field": "offerStatus",
+	"default": "active",
+	"viewType": "select",
+	"valuesProvider": {
+		"additionalValues": "No",
+		"type": "lxpEnum",
+		"provider": "HasOffersStatuses",
+		"outputProperty": "enumSequenceNumber",
+		"displayProperty": "enumDescription"
+	},
+	"group": "basic",
+	"mandatory": false
+},
+{
+	"title": "form.OfferCategories",
+	"visible": true,
+	"editable": true,
+	"field": "offerCategories",
+	"viewType": "multiselect",
+	"valuesProvider": {
+		"type": "lxpObject",
+		"provider": "OfferCategories",
+		"outputProperty": "enumDescription",
+		"displayProperty": "enumDescription"
+	},
+	"group": "basic",
+	"mandatory": false
+},
+{
+	"title": "form.RefId",
+	"visible": true,
+	"editable": true,
+	"field": "refId",
+	"default": "",
+	"group": "basic",
+	"mandatory": false
+},
+{
+	"title": "form.ExpirationDate",
+	"visible": true,
+	"editable": true,
+	"field": "expirationDate",
+	"default": "2017-07-30T00:00:00",
+	"viewType": "dateTime",
+	"group": "basic",
+	"mandatory": false,
+	"template": "{{(data.expirationDate || '') | moment : 'YYYYMMDDThhmmss' : 'MMMM D YYYY, h:mm:ss a'}}",
+	"minValue": "today"
+},
+{
+	"title": "form.Note",
+	"visible": true,
+	"editable": true,
+	"field": "note",
+	"default": "",
+	"group": "basic",
+	"mandatory": false
+},
+{
+	"title": "form.Currency",
+	"visible": true,
+	"editable": true,
+	"field": "currency",
+	"viewType": "select",
+	"valuesProvider": {
+		"additionalValues": "No",
+		"type": "lxpEnum",
+		"provider": "HasOffersCurrencies",
+		"outputProperty": "enumSequenceNumber",
+		"displayProperty": "enumDescription"
+	},
+	"group": "basic",
+	"mandatory": false
+},
+{
+	"title": "form.PayoutType",
+	"visible": true,
+	"editable": true,
+	"field": "payoutType",
+	"default": "cpa_flat",
+	"viewType": "select",
+	"valuesProvider": {
+		"additionalValues": "No",
+		"type": "lxpEnum",
+		"provider": "PayoutTypes",
+		"outputProperty": "enumSequenceNumber",
+		"displayProperty": "enumDescription"
+	},
+	"group": "payout",
+	"mandatory": false
+},
+{
+	"title": "form.TieredPayout",
+	"visible": true,
+	"editable": true,
+	"field": "tieredPayout",
+	"default": 0.00,
+	"viewType": "radio",
+	"valuesProvider": {
+		"type": "specific",
+		"provider": "DefaultTired",
+		"outputProperty": "enumDescription",
+		"displayProperty": "enumDescription"
+	},
+	"group": "payout",
+	"mandatory": false
+},
+{
+	"title": "form.DefaultPayout",
+	"visible": true,
+	"editable": true,
+	"field": "defaultPayout",
+	"default": 0.00,
+	"viewType": "currency",
+	"group": "payout",
+	"mandatory": false,
+	"template": "{{ data.defaultPayout | pxCurrency  }}"
+},
+{
+	"title": "form.PercentPayout",
+	"visible": true,
+	"editable": true,
+	"field": "percentPayout",
+	"default": 0.00,
+	"viewType": "percentage",
+	"group": "payout",
+	"mandatory": false,
+	"template": "{{ data.percentPayout | number:2}}{{data.percentPayout!=null?'%':''}}"
+},
+{
+	"title": "form.RevenueType",
+	"visible": true,
+	"editable": true,
+	"field": "revenueType",
+	"default": "cpa_flat",
+	"viewType": "select",
+	"valuesProvider": {
+		"additionalValues": "No",
+		"type": "lxpEnum",
+		"provider": "RevenueTypes",
+		"outputProperty": "enumSequenceNumber",
+		"displayProperty": "enumDescription"
+	},
+	"group": "revenue",
+	"mandatory": false
+},
+{
+	"title": "form.TieredRevenue",
+	"visible": true,
+	"editable": true,
+	"field": "tieredRevenue",
+	"default": 0.00,
+	"viewType": "radio",
+	"valuesProvider": {
+		"type": "specific",
+		"provider": "DefaultTired",
+		"outputProperty": "enumDescription",
+		"displayProperty": "enumDescription"
+	},
+	"group": "revenue",
+	"mandatory": false
+},
+{
+	"title": "form.MaxPayout",
+	"visible": true,
+	"editable": true,
+	"field": "maxPayout",
+	"default": 0.00,
+	"viewType": "currency",
+	"group": "revenue",
+	"mandatory": false,
+	"template": "{{ data.maxPayout | pxCurrency  }}"
+},
+{
+	"title": "form.MaxPercentPayout",
+	"visible": true,
+	"editable": true,
+	"field": "maxPercentPayout",
+	"default": 0.00,
+	"viewType": "percentage",
+	"group": "revenue",
+	"mandatory": false,
+	"template": "{{ data.maxPercentPayout | number:2}}{{data.maxPercentPayout!=null?'%':''}}"
+},
+{
+	"title": "form.HostnameId",
+	"visible": true,
+	"editable": true,
+	"field": "hostnameId",
+	"viewType": "select",
+	"valuesProvider": {
+		"type": "lxpObject",
+		"provider": "OfferHostNamesWithDefault",
+		"outputProperty": "enumDescription",
+		"displayProperty": "enumDescription"
+	},
+	"group": "tracking",
+	"mandatory": false
+},
+{
+	"title": "form.RedirectOfferId",
+	"visible": true,
+	"editable": true,
+	"field": "redirectOfferId",
+	"default": 0,
+	"viewType": "select",
+	"valuesProvider": {
+		"type": "lxpObject",
+		"provider": "Offers",
+		"outputProperty": "enumDescription",
+		"displayProperty": "enumDescription"
+	},
+	"group": "tracking",
+	"mandatory": false
+},
+{
+	"title": "form.ConvertedOfferType",
+	"visible": true,
+	"editable": true,
+	"field": "convertedOfferType",
+	"default": "",
+	"viewType": "select",
+	"valuesProvider": {
+		"additionalValues": "No",
+		"type": "lxpEnum",
+		"provider": "ConvertedOfferTypes",
+		"outputProperty": "enumSequenceNumber",
+		"displayProperty": "enumDescription"
+	},
+	"group": "tracking",
+	"mandatory": false
+},
+{
+	"title": "form.ConversionCap",
+	"visible": true,
+	"editable": true,
+	"field": "conversionCap",
+	"default": 0.00,
+	"viewType": "integer",
+	"group": "tracking",
+	"mandatory": false,
+	"template": "{{ data.conversionCap | number:0}}"
+},
+{
+	"title": "form.ConvertedOfferId",
+	"visible": true,
+	"editable": true,
+	"field": "convertedOfferId",
+	"default": 0,
+	"viewType": "select",
+	"valuesProvider": {
+		"type": "lxpObject",
+		"provider": "Offers",
+		"outputProperty": "enumDescription",
+		"displayProperty": "enumDescription"
+	},
+	"group": "tracking",
+	"mandatory": false
+},
+{
+	"title": "form.ConvertedOfferUrl",
+	"visible": true,
+	"editable": true,
+	"field": "convertedOfferUrl",
+	"default": "",
+	"group": "tracking",
+	"mandatory": false
+},
+{
+	"title": "form.SessionHours",
+	"visible": true,
+	"editable": true,
+	"field": "sessionHours",
+	"default": 0,
+	"viewType": "select",
+	"valuesProvider": {
+		"additionalValues": "No",
+		"type": "lxpEnum",
+		"provider": "SessionHoursSpans",
+		"outputProperty": "enumSequenceNumber",
+		"displayProperty": "enumDescription"
+	},
+	"group": "tracking",
+	"mandatory": false
+},
+{
+	"title": "form.CustomSessionHours",
+	"visible": true,
+	"editable": true,
+	"field": "customSessionHours",
+	"group": "tracking",
+	"mandatory": false
+},
+{
+	"title": "form.SessionImpressionHours",
+	"visible": true,
+	"editable": true,
+	"field": "sessionImpressionHours",
+	"default": 0,
+	"viewType": "select",
+	"valuesProvider": {
+		"additionalValues": "No",
+		"type": "lxpEnum",
+		"provider": "SessionHoursSpans",
+		"outputProperty": "enumSequenceNumber",
+		"displayProperty": "enumDescription"
+	},
+	"group": "tracking",
+	"mandatory": false
+},
+{
+	"title": "form.CustomSessionImpressionHours",
+	"visible": true,
+	"editable": true,
+	"field": "customSessionImpressionHours",
+	"group": "tracking",
+	"mandatory": false
+},
+{
+	"title": "form.IsPrivate",
+	"visible": true,
+	"editable": true,
+	"field": "isPrivate",
+	"default": false,
+	"viewType": "checkbox",
+	"group": "tracking",
+	"mandatory": false
+},
+{
+	"title": "form.ShowCustomVariables",
+	"visible": true,
+	"editable": true,
+	"field": "showCustomVariables",
+	"default": 0,
+	"viewType": "checkbox",
+	"group": "tracking",
+	"mandatory": false
+},
+{
+	"title": "form.AllowDirectLinks",
+	"visible": true,
+	"editable": true,
+	"field": "allowDirectLinks",
+	"default": 0,
+	"viewType": "checkbox",
+	"group": "tracking",
+	"mandatory": false
+},
+{
+	"title": "form.AllowWebsiteLinks",
+	"visible": true,
+	"editable": true,
+	"field": "allowWebsiteLinks",
+	"default": 0,
+	"viewType": "checkbox",
+	"group": "tracking",
+	"mandatory": false
+},
+{
+	"title": "form.ApproveConversions",
+	"visible": true,
+	"editable": true,
+	"field": "approveConversions",
+	"default": false,
+	"viewType": "checkbox",
+	"group": "tracking",
+	"mandatory": false
+},
+{
+	"title": "form.AllowMultipleConversions",
+	"visible": true,
+	"editable": true,
+	"field": "allowMultipleConversions",
+	"default": 0,
+	"viewType": "checkbox",
+	"group": "tracking",
+	"mandatory": false
+},
+{
+	"title": "form.EnforceEncryptTrackingPixels",
+	"visible": true,
+	"editable": true,
+	"field": "enforceEncryptTrackingPixels",
+	"default": 0,
+	"viewType": "checkbox",
+	"group": "tracking",
+	"mandatory": false
+},
+{
+	"title": "form.EnableOfferWhitelist",
+	"visible": true,
+	"editable": true,
+	"field": "enableOfferWhitelist",
+	"default": 0,
+	"viewType": "checkbox",
+	"group": "tracking",
+	"mandatory": false
+},
+{
+	"title": "form.SetSessionOnImpression",
+	"visible": true,
+	"editable": true,
+	"field": "setSessionOnImpression",
+	"default": 0,
+	"viewType": "radio",
+	"valuesProvider": {
+		"type": "specific",
+		"provider": "ClicksImpressions",
+		"outputProperty": "enumDescription",
+		"displayProperty": "enumDescription"
+	},
+	"group": "tracking",
+	"mandatory": false
+},
+{
+	"title": "form.UseTargetRules",
+	"visible": true,
+	"editable": true,
+	"field": "useTargetRules",
+	"default": 0,
+	"mandatory": false
+},
+{
+	"title": "form.EmailInstructions",
+	"visible": true,
+	"editable": true,
+	"field": "emailInstructions",
+	"default": 0,
+	"mandatory": false
+},
+{
+	"title": "form.ShowMailList",
+	"visible": true,
+	"editable": true,
+	"field": "showMailList",
+	"default": 0,
+	"mandatory": false
+},
+{
+	"title": "form.EmailInstructionsFrom",
+	"visible": true,
+	"editable": true,
+	"field": "emailInstructionsFrom",
+	"default": "",
+	"mandatory": false
+},
+{
+	"title": "form.EmailInstructionsSubject",
+	"visible": true,
+	"editable": true,
+	"field": "emailInstructionsSubject",
+	"default": "",
+	"mandatory": false
+},
+{
+	"title": "form.DneDownloadUrl",
+	"visible": true,
+	"editable": true,
+	"field": "dneDownloadUrl",
+	"mandatory": false
+},
+{
+	"title": "form.DneUnsubscribeUrl",
+	"visible": true,
+	"editable": true,
+	"field": "dneUnsubscribeUrl",
+	"mandatory": false
+},
+{
+	"title": "form.DneListId",
+	"visible": true,
+	"editable": true,
+	"field": "dneListId",
+	"default": 0,
+	"mandatory": false
+}]

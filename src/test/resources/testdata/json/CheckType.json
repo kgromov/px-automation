@@ -1,0 +1,28 @@
+{
+  "checkType": [
+    {
+      "enumDescription": "Exists",
+      "enumSequenceNumber": "Exists"
+    },
+    {
+      "enumDescription": "Not exists",
+      "enumSequenceNumber": "NotExists"
+    },
+    {
+      "enumDescription": "Equals",
+      "enumSequenceNumber": "Equals"
+    },
+    {
+      "enumDescription": "Not equals",
+      "enumSequenceNumber": "NotEquals"
+    },
+    {
+      "enumDescription": "Less Than",
+      "enumSequenceNumber": "LessThan"
+    },
+    {
+      "enumDescription": "Greater than",
+      "enumSequenceNumber": "GreaterThan"
+    }
+  ]
+}

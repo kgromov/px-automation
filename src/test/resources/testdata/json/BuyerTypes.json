@@ -1,0 +1,28 @@
+{
+  "buyerTypes": [
+    {
+      "enumDescription": "Exclusive",
+      "enumSequenceNumber": "2",
+      "enumMask": "1",
+      "enumSequenceIndex": "1"
+    },
+    {
+      "enumDescription": "Shared",
+      "enumSequenceNumber": "3",
+      "enumMask": "2",
+      "enumSequenceIndex": "2"
+    },
+    {
+      "enumDescription": "Undersold",
+      "enumSequenceNumber": "4",
+      "enumMask": "4",
+      "enumSequenceIndex": "3"
+    },
+    {
+      "enumDescription": "Mixed",
+      "enumSequenceNumber": "5",
+      "enumMask": "8",
+      "enumSequenceIndex": "4"
+    }
+  ]
+}

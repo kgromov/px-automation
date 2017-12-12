@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="Suite Offers under Publisher user PX UI" parallel="classes">
+
+    <test name="Chrome Browser, offers under buyer">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="version" value="any"/>
+        <parameter name="url" value=""/>
+        <classes>
+            <class name="tests.objects.roles.CheckUserRoleTest"/>
+            <class name="tests.objects.roles.publisher.OffersUnderPublisherTest"/>
+        </classes>
+    </test>
+
+</suite>

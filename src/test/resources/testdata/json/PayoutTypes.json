@@ -1,0 +1,24 @@
+{
+  "payoutTypes": [
+    {
+      "enumDescription": "Cost per Conversion (CPA)",
+      "enumSequenceNumber": "cpa_flat"
+    },
+    {
+      "enumDescription": "Cost per Sale (CPS)",
+      "enumSequenceNumber": "cpa_percentage"
+    },
+    {
+      "enumDescription": "Cost per Conversion plus Cost per Sale (CPA + CPS)",
+      "enumSequenceNumber": "cpa_both"
+    },
+    {
+      "enumDescription": "Cost per Click (CPC)",
+      "enumSequenceNumber": "cpc"
+    },
+    {
+      "enumDescription": "Cost per Thousand Impressions (CPM)",
+      "enumSequenceNumber": "cpm"
+    }
+  ]
+}

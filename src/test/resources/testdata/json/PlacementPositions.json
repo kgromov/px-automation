@@ -1,0 +1,16 @@
+{
+  "placementPositions": [
+    {
+      "enumDescription": "End",
+      "enumSequenceNumber": "2",
+      "enumMask": "1",
+      "enumSequenceIndex": "1"
+    },
+    {
+      "enumDescription": "Under",
+      "enumSequenceNumber": "3",
+      "enumMask": "2",
+      "enumSequenceIndex": "2"
+    }
+  ]
+}

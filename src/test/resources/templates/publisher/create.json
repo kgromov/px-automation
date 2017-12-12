@@ -1,0 +1,21 @@
+{
+	"publisherName": "Publisher Name test crud",
+	"publisherTier": "Platinum",
+	"type": "Callcenter",
+	"accessMode": "StandardRevShare",
+	"margin": 75,
+	"minPrice": 0,
+	"escoreCheckPercentage": 100,
+	"spending": 0,
+	"fixedPricing": "false",
+	"startBalance": 0,
+	"maxNegativeBalance": 0,
+	"freeTests": 0,
+	"addUpsellToBalance": "false",
+	"leadingBalance": null,
+	"emailAddress": "test@crud.com",
+	"userPassword": "testcrud",
+	"fullName": "crud",
+	"zipCode": "",
+	"publisherManagerId": "5"
+}

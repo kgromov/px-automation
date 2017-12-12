@@ -1,0 +1,19 @@
+{
+  "tierMapping": [
+    {
+      "enumDescription": "Tier 2",
+      "enumSequenceNumber": "1",
+      "enumSequenceIndex": "0"
+    },
+    {
+      "enumDescription": "Tier 1",
+      "enumSequenceNumber": "2",
+      "enumSequenceIndex": "1"
+    },
+    {
+      "enumDescription": "Tier 3",
+      "enumSequenceNumber": "3",
+      "enumSequenceIndex": "2"
+    }
+  ]
+}

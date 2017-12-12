@@ -1,0 +1,20 @@
+{
+  "statuses": [
+    {
+      "enumDescription": "Active",
+      "enumSequenceNumber": "active"
+    },
+    {
+      "enumDescription": "Pending",
+      "enumSequenceNumber": "pending"
+    },
+    {
+      "enumDescription": "Paused",
+      "enumSequenceNumber": "paused"
+    },
+    {
+      "enumDescription": "Deleted",
+      "enumSequenceNumber": "deleted"
+    }
+  ]
+}

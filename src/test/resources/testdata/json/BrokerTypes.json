@@ -1,0 +1,12 @@
+{
+  "brokerTypes": [
+    {
+      "enumDescription": "XML",
+      "enumSequenceNumber": "XML"
+    },
+    {
+      "enumDescription": "JavaScript",
+      "enumSequenceNumber": "JavaScript"
+    }
+  ]
+}

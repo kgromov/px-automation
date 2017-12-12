@@ -1,0 +1,24 @@
+{
+  "paymentMethods": [
+    {
+      "enumDescription": "Account",
+      "enumSequenceNumber": "2",
+      "enumSequenceIndex": "1"
+    },
+    {
+      "enumDescription": "Visa",
+      "enumSequenceNumber": "3",
+      "enumSequenceIndex": "2"
+    },
+    {
+      "enumDescription": "MasterCard",
+      "enumSequenceNumber": "4",
+      "enumSequenceIndex": "3"
+    },
+    {
+      "enumDescription": "PayPal",
+      "enumSequenceNumber": "5",
+      "enumSequenceIndex": "4"
+    }
+  ]
+}

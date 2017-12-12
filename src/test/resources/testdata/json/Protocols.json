@@ -1,0 +1,28 @@
+{
+  "protocols": [
+    {
+      "enumDescription": "HTTP iFrame Pixel",
+      "enumSequenceNumber": "http"
+    },
+    {
+      "enumDescription": "HTTPS iFrame Pixel",
+      "enumSequenceNumber": "https"
+    },
+    {
+      "enumDescription": "HTTP Image Pixel",
+      "enumSequenceNumber": "http_img"
+    },
+    {
+      "enumDescription": "HTTPS Image Pixel",
+      "enumSequenceNumber": "https_img"
+    },
+    {
+      "enumDescription": "Server Postback w/ Transaction ID",
+      "enumSequenceNumber": "server"
+    },
+    {
+      "enumDescription": "Server Postback w/ Publisher ID",
+      "enumSequenceNumber": "server_affiliate"
+    }
+  ]
+}

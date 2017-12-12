@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Global Suite for PX UI Reports" parallel="tests" thread-count="2">
+
+    <test name="Chrome Browser, Buyer Report">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="version" value="any"/>
+        <parameter name="url" value=""/>
+        <classes>
+            <class name="tests.reports.buyers.BuyerReportTest"/>
+        </classes>
+    </test>
+
+    <test name="Chrome Browser, Source Quality Score Report">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="version" value="any"/>
+        <parameter name="url" value=""/>
+        <classes>
+            <class name="tests.reports.SourceQualityScoreReportTest"/>
+        </classes>
+    </test>
+
+    <test name="Chrome Browser, Inbound Transactions Report">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="version" value="any"/>
+        <parameter name="url" value=""/>
+        <classes>
+            <class name="tests.reports.transactions.InboundTransactionsReportTest"/>
+        </classes>
+    </test>
+
+    <test name="Chrome Browser, Outbound Transactions Report">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="version" value="any"/>
+        <parameter name="url" value=""/>
+        <classes>
+            <class name="tests.reports.transactions.OutboundTransactionsReportTest"/>
+        </classes>
+    </test>
+
+    <test name="Chrome Browser, Leads Report">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="version" value="any"/>
+        <parameter name="url" value=""/>
+        <classes>
+            <class name="tests.reports.leads.LeadsReportTest"/>
+        </classes>
+    </test>
+
+    <test name="Chrome Browser, Publisher Performance Report">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="version" value="any"/>
+        <parameter name="url" value=""/>
+        <classes>
+            <class name="tests.reports.publishers.PublisherPerformanceReportTest"/>
+        </classes>
+    </test>
+
+    <test name="Chrome Browser, Buyer Report">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="version" value="any"/>
+        <parameter name="url" value=""/>
+        <classes>
+            <class name="tests.reports.buyers.BuyerCampaignReportTest"/>
+        </classes>
+    </test>
+
+    <test name="Chrome Browser, Buyer Performance Report">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="version" value="any"/>
+        <parameter name="url" value=""/>
+        <classes>
+            <class name="tests.reports.buyers.BuyerPerformanceReportTest"/>
+        </classes>
+    </test>
+
+</suite>

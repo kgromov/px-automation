@@ -1,0 +1,19 @@
+{
+  "stripeErrorType": [
+    {
+      "enumDescription": "invalid_request_error",
+      "enumSequenceNumber": "1",
+      "enumSequenceIndex": "0"
+    },
+    {
+      "enumDescription": "api_error",
+      "enumSequenceNumber": "2",
+      "enumSequenceIndex": "1"
+    },
+    {
+      "enumDescription": "card_error",
+      "enumSequenceNumber": "3",
+      "enumSequenceIndex": "2"
+    }
+  ]
+}

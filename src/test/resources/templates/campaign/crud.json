@@ -1,0 +1,28 @@
+/* requests:
+* 1) create - http://development-ui.stagingpx.com/api/buyerInstance/crud;
+* 2) update - http://development-ui.stagingpx.com/api/buyerInstance/update;
+* 3) get - http://development-ui.stagingpx.com/api/buyerInstance/crud?<buyerGUID>
+*/
+{
+  "parentBuyerGuid": "df6eb303-f4e4-4a50-bbf6-322d29404635",
+  "country": "US",
+  "currency": "USD",
+  "buyerInstanceName": "Campaign Name dd2rf",
+  "buyerCategory": "1",
+  "buyerType": "1",
+  "vertical": "AUTO",
+  "buyerInstanceDeliveryType": "PINGPOST",
+  "prevDupDays": 30,
+  "legName": "",
+  "tier": "1",
+  "directBid": 0,
+  "payoutQuality": 100,
+  "floorPayout": 0.5,
+  "fixedLRPerc": 0,
+  "incLRinPayoutQualityPerc": 100,
+  "monthlyCap": 0,
+  "dailyCap": -1,
+  "floorScore": 50,
+  "qiqScore": "Gold",
+  "qiqCeiling": "None"
+}

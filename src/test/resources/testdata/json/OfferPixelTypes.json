@@ -1,0 +1,16 @@
+{
+  "offerPixelTypes": [
+    {
+      "enumDescription": "HTML / JavaScript Code",
+      "enumSequenceNumber": "code"
+    },
+    {
+      "enumDescription": "Image Pixel",
+      "enumSequenceNumber": "image"
+    },
+    {
+      "enumDescription": "Postback URL",
+      "enumSequenceNumber": "url"
+    }
+  ]
+}

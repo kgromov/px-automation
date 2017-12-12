@@ -1,0 +1,20 @@
+{
+  "offerWhiteListContentTypes": [
+    {
+      "enumDescription": "Domain",
+      "enumSequenceNumber": "domain"
+    },
+    {
+      "enumDescription": "IP Address",
+      "enumSequenceNumber": "ip_address"
+    },
+    {
+      "enumDescription": "IP Range",
+      "enumSequenceNumber": "ip_range"
+    },
+    {
+      "enumDescription": "IP Subnet",
+      "enumSequenceNumber": "ip_subnet"
+    }
+  ]
+}

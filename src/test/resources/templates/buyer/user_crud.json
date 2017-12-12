@@ -1,0 +1,12 @@
+// http://development-ui.stagingpx.com/api/buyeruser, POST
+{
+  "viewModel": {
+
+  },
+  "userName": "request@user.com",
+  "description": "request",
+  "password": "123456",
+  "confirmPassword": "123456",
+  "parentObjectType": "BuyerGuid",
+  "parentObjectGuid": "4e6a61ee-f45f-4cfa-8f76-f221b5730e9c"
+}

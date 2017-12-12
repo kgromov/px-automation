@@ -1,0 +1,24 @@
+{
+  "hasOffersStatuses": [
+    {
+      "enumDescription": "active",
+      "enumSequenceNumber": "active"
+    },
+    {
+      "enumDescription": "pending",
+      "enumSequenceNumber": "pending"
+    },
+    {
+      "enumDescription": "paused",
+      "enumSequenceNumber": "paused"
+    },
+    {
+      "enumDescription": "expired",
+      "enumSequenceNumber": "expired"
+    },
+    {
+      "enumDescription": "deleted",
+      "enumSequenceNumber": "deleted"
+    }
+  ]
+}

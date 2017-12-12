@@ -1,0 +1,16 @@
+{
+  "encodingType": [
+    {
+      "enumDescription": "None",
+      "enumSequenceNumber": "none"
+    },
+    {
+      "enumDescription": "URL",
+      "enumSequenceNumber": "url"
+    },
+    {
+      "enumDescription": "XML",
+      "enumSequenceNumber": "xml"
+    }
+  ]
+}

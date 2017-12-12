@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="Suite Offers PX UI" parallel="classes">
+
+    <test name="Chrome Browser, offers">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="version" value="any"/>
+        <parameter name="url" value=""/>
+        <classes>
+            <class name="tests.objects.offers.CreateOffersTest"/>
+            <class name="tests.objects.offers.EditOffersTest"/>
+            <class name="tests.objects.offers.OffersAdvancedSettingsTest"/>
+        </classes>
+    </test>
+
+</suite>
